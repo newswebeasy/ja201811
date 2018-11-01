@@ -1,0 +1,154 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>出発</rb><rt>しゅっぱつ</rt></ruby>。",
+          "hyouki": [
+            "スタート"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "アジア・オーストラリア・<ruby><rb>南北</rb><rt>なんぼく</rt></ruby>アメリカ・<ruby><rb>南極</rb><rt>なんきょく</rt></ruby>の<ruby><rb>五</rb><rt>いつ</rt></ruby>つの<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>に<ruby><rb>囲</rb><rt>かこ</rt></ruby>まれた、<ruby><rb>世界</rb><rt>せかい</rt></ruby>でいちばん<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>海</rb><rt>うみ</rt></ruby>。",
+          "hyouki": [
+            "太平洋"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>規則</rb><rt>きそく</rt></ruby>。<ruby><rb>決</rb><rt>き</rt></ruby>まり。",
+          "hyouki": [
+            "ルール"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>外国</rb><rt>がいこく</rt></ruby>から<ruby><rb>輸入</rb><rt>ゆにゅう</rt></ruby>する<ruby><rb>品物</rb><rt>しなもの</rt></ruby>に<ruby><rb>国</rb><rt>くに</rt></ruby>がかける<ruby><rb>税金</rb><rt>ぜいきん</rt></ruby>。",
+          "hyouki": [
+            "関税"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>名前</rb><rt>なまえ</rt></ruby>を<ruby><rb>書</rb><rt>か</rt></ruby>くこと。<ruby><rb>署名</rb><rt>しょめい</rt></ruby>。",
+          "hyouki": [
+            "サイン"
+          ]
+        },
+        {
+          "def": "<ruby><rb>合図</rb><rt>あいず</rt></ruby>。しるし。",
+          "hyouki": [
+            "サイン"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "めいめい。おのおの。",
+          "hyouki": [
+            "それぞれ"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>国民</rb><rt>こくみん</rt></ruby>に<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>議員</rb><rt>ぎいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まって、<ruby><rb>国</rb><rt>くに</rt></ruby>や<ruby><rb>地方</rb><rt>ちほう</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>について<ruby><rb>話</rb><rt>はな</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>い、<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>めをする<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>の<ruby><rb>国会</rb><rt>こっかい</rt></ruby>と、<ruby><rb>都道府県</rb><rt>とどうふけん</rt></ruby>などの<ruby><rb>地方議会</rb><rt>ちほうぎかい</rt></ruby>とがある。",
+          "hyouki": [
+            "議会"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "たがいに<ruby><rb>話</rb><rt>はな</rt></ruby>す。",
+          "hyouki": [
+            "話し合う"
+          ]
+        },
+        {
+          "def": "<ruby><rb>意見</rb><rt>いけん</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>う。",
+          "hyouki": [
+            "話し合う"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>実際</rb><rt>じっさい</rt></ruby>に<ruby><rb>見</rb><rt>み</rt></ruby>る。",
+          "hyouki": [
+            "認める"
+          ]
+        },
+        {
+          "def": "<ruby><rb>確</rb><rt>たし</rt></ruby>かにそのとおりだと<ruby><rb>判断</rb><rt>はんだん</rt></ruby>する。",
+          "hyouki": [
+            "認める"
+          ]
+        },
+        {
+          "def": "<ruby><rb>承知</rb><rt>しょうち</rt></ruby>する。<ruby><rb>許</rb><rt>ゆる</rt></ruby>す。",
+          "hyouki": [
+            "認める"
+          ]
+        },
+        {
+          "def": "<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちがあると<ruby><rb>考</rb><rt>かんが</rt></ruby>える。<ruby><rb>評価</rb><rt>ひょうか</rt></ruby>する。",
+          "hyouki": [
+            "認める"
+          ]
+        },
+        {
+          "def": "<ruby><rb>確</rb><rt>たし</rt></ruby>かに<ruby><rb>自分</rb><rt>じぶん</rt></ruby>のしたことであると<ruby><rb>同意</rb><rt>どうい</rt></ruby>する。",
+          "hyouki": [
+            "認める"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>月</rb><rt>つき</rt></ruby>の１１<ruby><rb>日</rb><rt>にち</rt></ruby>から<ruby><rb>２０日</rb><rt>はつか</rt></ruby>までの<ruby><rb>間</rb><rt>あいだ</rt></ruby>。",
+          "hyouki": [
+            "中旬"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>実際</rb><rt>じっさい</rt></ruby>に<ruby><rb>見</rb><rt>み</rt></ruby>る。",
+          "hyouki": [
+            "認める"
+          ]
+        },
+        {
+          "def": "<ruby><rb>確</rb><rt>たし</rt></ruby>かにそのとおりだと<ruby><rb>判断</rb><rt>はんだん</rt></ruby>する。",
+          "hyouki": [
+            "認める"
+          ]
+        },
+        {
+          "def": "<ruby><rb>承知</rb><rt>しょうち</rt></ruby>する。<ruby><rb>許</rb><rt>ゆる</rt></ruby>す。",
+          "hyouki": [
+            "認める"
+          ]
+        },
+        {
+          "def": "<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちがあると<ruby><rb>考</rb><rt>かんが</rt></ruby>える。<ruby><rb>評価</rb><rt>ひょうか</rt></ruby>する。",
+          "hyouki": [
+            "認める"
+          ]
+        },
+        {
+          "def": "<ruby><rb>確</rb><rt>たし</rt></ruby>かに<ruby><rb>自分</rb><rt>じぶん</rt></ruby>のしたことであると<ruby><rb>同意</rb><rt>どうい</rt></ruby>する。",
+          "hyouki": [
+            "認める"
+          ]
+        }
+      ]
+    }
+  }
+}

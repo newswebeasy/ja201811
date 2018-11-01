@@ -1,0 +1,60 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "のどや<ruby><rb>気管</rb><rt>きかん</rt></ruby>などが、ウイルスによってただれる<ruby><rb>病気</rb><rt>びょうき</rt></ruby>。かぜに<ruby><rb>似</rb><rt>に</rt></ruby>ているが、<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>熱</rb><rt>ねつ</rt></ruby>が<ruby><rb>出</rb><rt>で</rt></ruby>て、うつりやすい。<ruby><rb>流行性感冒</rb><rt>りゅうこうせいかんぼう</rt></ruby>。<ruby><rb>流感</rb><rt>りゅうかん</rt></ruby>。",
+          "hyouki": [
+            "インフルエンザ"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>薬</rb><rt>くすり</rt></ruby>や、<ruby><rb>熱</rb><rt>ねつ</rt></ruby>などで、ばいきんを<ruby><rb>殺</rb><rt>ころ</rt></ruby>すこと。",
+          "hyouki": [
+            "消毒"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>木</rb><rt>き</rt></ruby>・<ruby><rb>石</rb><rt>いし</rt></ruby>・<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>などを、ほったりけずったりして、いろいろな<ruby><rb>形</rb><rt>かたち</rt></ruby>をつくること。また、その<ruby><rb>作品</rb><rt>さくひん</rt></ruby>。",
+          "hyouki": [
+            "彫刻"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>るときに、<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>色</rb><rt>いろ</rt></ruby>などを<ruby><rb>工夫</rb><rt>くふう</rt></ruby>すること。",
+          "hyouki": [
+            "デザイン"
+          ]
+        },
+        {
+          "def": "<ruby><rb>図案</rb><rt>ずあん</rt></ruby>。<ruby><rb>意匠</rb><rt>いしょう</rt></ruby>。",
+          "hyouki": [
+            "デザイン"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>機械</rb><rt>きかい</rt></ruby>などが<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>動</rb><rt>うご</rt></ruby>くこと。",
+          "hyouki": [
+            "自動"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>考</rb><rt>かんが</rt></ruby>え。<ruby><rb>思</rb><rt>おも</rt></ruby>いつき。<ruby><rb>工夫</rb><rt>くふう</rt></ruby>。アイディア。",
+          "hyouki": [
+            "アイデア"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>に<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、せりふの<ruby><rb>代</rb><rt>か</rt></ruby>わりに<ruby><rb>歌</rb><rt>うた</rt></ruby>で<ruby><rb>物語</rb><rt>ものがたり</rt></ruby>の<ruby><rb>筋</rb><rt>すじ</rt></ruby>を<ruby><rb>進</rb><rt>すす</rt></ruby>めていく<ruby><rb>劇</rb><rt>げき</rt></ruby>。<ruby><rb>歌劇</rb><rt>かげき</rt></ruby>。",
+          "hyouki": [
+            "オペラ"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>客</rb><rt>きゃく</rt></ruby>の<ruby><rb>前</rb><rt>まえ</rt></ruby>で、<ruby><rb>歌</rb><rt>うた</rt></ruby>やおどりや<ruby><rb>劇</rb><rt>げき</rt></ruby>などをすること。",
+          "hyouki": [
+            "公演"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>徳川家康</rb><rt>とくがわいえやす</rt></ruby>が、１６０３<ruby><rb>年</rb><rt>ねん</rt></ruby>に<ruby><rb>江戸</rb><rt>えど</rt></ruby>に<ruby><rb>幕府</rb><rt>ばくふ</rt></ruby>を<ruby><rb>開</rb><rt>ひら</rt></ruby>いてから、１８６７<ruby><rb>年</rb><rt>ねん</rt></ruby>にほろびるまでの<ruby><rb>約</rb><rt>やく</rt></ruby>２６０<ruby><rb>年間</rb><rt>ねんかん</rt></ruby>。<ruby><rb>鎖国</rb><rt>さこく</rt></ruby>のために<ruby><rb>日本</rb><rt>にっぽん</rt></ruby><ruby><rb>独特</rb><rt>どくとく</rt></ruby>の<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>が<ruby><rb>栄</rb><rt>さか</rt></ruby>えた。「<ruby><rb>徳川時代</rb><rt>とくがわじだい</rt></ruby>」ともいう。",
+          "hyouki": [
+            "江戸時代"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>液体</rb><rt>えきたい</rt></ruby>などが<ruby><rb>低</rb><rt>ひく</rt></ruby>いほうへ<ruby><rb>動</rb><rt>うご</rt></ruby>くようにする。",
+          "hyouki": [
+            "流す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>水</rb><rt>みず</rt></ruby>などにうかべて<ruby><rb>動</rb><rt>うご</rt></ruby>かす。",
+          "hyouki": [
+            "流す"
+          ]
+        },
+        {
+          "def": "よごれを<ruby><rb>洗</rb><rt>あら</rt></ruby>い<ruby><rb>落</rb><rt>お</rt></ruby>とす。",
+          "hyouki": [
+            "流す"
+          ]
+        },
+        {
+          "def": "うわさなどを<ruby><rb>広</rb><rt>ひろ</rt></ruby>める。",
+          "hyouki": [
+            "流す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>予定</rb><rt>よてい</rt></ruby>していたことを、<ruby><rb>取</rb><rt>と</rt></ruby>りやめる。",
+          "hyouki": [
+            "流す"
+          ]
+        },
+        {
+          "def": "そのことを<ruby><rb>気</rb><rt>き</rt></ruby>に<ruby><rb>留</rb><rt>と</rt></ruby>めない。",
+          "hyouki": [
+            "流す"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "しばいや<ruby><rb>映画</rb><rt>えいが</rt></ruby>などを<ruby><rb>見</rb><rt>み</rt></ruby>せる<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。",
+          "hyouki": [
+            "劇場"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>歌</rb><rt>うた</rt></ruby>を<ruby><rb>歌</rb><rt>うた</rt></ruby>うことを<ruby><rb>仕事</rb><rt>しごと</rt></ruby>にしている<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "歌手"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>話</rb><rt>はなし</rt></ruby>。<ruby><rb>物語</rb><rt>ものがたり</rt></ruby>。",
+          "hyouki": [
+            "ストーリー"
+          ]
+        },
+        {
+          "def": "<ruby><rb>小説</rb><rt>しょうせつ</rt></ruby>や<ruby><rb>映画</rb><rt>えいが</rt></ruby>などの<ruby><rb>筋</rb><rt>すじ</rt></ruby>。",
+          "hyouki": [
+            "ストーリー"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "あるものごとに、<ruby><rb>心</rb><rt>こころ</rt></ruby>を<ruby><rb>強</rb><rt>つよ</rt></ruby>く<ruby><rb>動</rb><rt>うご</rt></ruby>かされること。",
+          "hyouki": [
+            "感動"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "めいめい。<ruby><rb>両方</rb><rt>りょうほう</rt></ruby>。",
+          "hyouki": [
+            "互い"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>国際連合</rb><rt>こくさいれんごう</rt></ruby>の<ruby><rb>機関</rb><rt>きかん</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>保健衛生問題</rb><rt>ほけんえいせいもんだい</rt></ruby>について、<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>が<ruby><rb>協力</rb><rt>きょうりょく</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>う<ruby><rb>機関</rb><rt>きかん</rt></ruby>。",
+          "hyouki": [
+            "WHO"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>に<ruby><rb>悪</rb><rt>わる</rt></ruby>いところがなく、<ruby><rb>元気</rb><rt>げんき</rt></ruby>なようす。",
+          "hyouki": [
+            "健康"
+          ]
+        },
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>のぐあい。",
+          "hyouki": [
+            "健康"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ものごとを<ruby><rb>比</rb><rt>くら</rt></ruby>べるとき、そのもととなるよりどころ。<ruby><rb>標準</rb><rt>ひょうじゅん</rt></ruby>。",
+          "hyouki": [
+            "基準"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "お<ruby><rb>金</rb><rt>かね</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>少</rb><rt>すこ</rt></ruby>ししかなく、<ruby><rb>暮</rb><rt>く</rt></ruby>らしに<ruby><rb>困</rb><rt>こま</rt></ruby>る。<ruby><rb>貧乏</rb><rt>びんぼう</rt></ruby>だ。",
+          "hyouki": [
+            "貧しい"
+          ]
+        },
+        {
+          "def": "<ruby><rb>少</rb><rt>すく</rt></ruby>ない。とぼしい。",
+          "hyouki": [
+            "貧しい"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>胸</rb><rt>むね</rt></ruby>の<ruby><rb>左</rb><rt>ひだり</rt></ruby>と<ruby><rb>右</rb><rt>みぎ</rt></ruby>にあって、<ruby><rb>息</rb><rt>いき</rt></ruby>を<ruby><rb>吸</rb><rt>す</rt></ruby>ったり、はいたりするはたらきをするところ。<ruby><rb>肺臓</rb><rt>はいぞう</rt></ruby>。",
+          "hyouki": [
+            "肺"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>息</rb><rt>いき</rt></ruby>をはいたり、<ruby><rb>吸</rb><rt>す</rt></ruby>ったりすること。<ruby><rb>息</rb><rt>いき</rt></ruby>。",
+          "hyouki": [
+            "呼吸"
+          ]
+        },
+        {
+          "def": "<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>が<ruby><rb>酸素</rb><rt>さんそ</rt></ruby>を<ruby><rb>体</rb><rt>からだ</rt></ruby>に<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>入</rb><rt>い</rt></ruby>れ、<ruby><rb>二酸化炭素</rb><rt>にさんかたんそ</rt></ruby>を<ruby><rb>外</rb><rt>そと</rt></ruby>に<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。",
+          "hyouki": [
+            "呼吸"
+          ]
+        },
+        {
+          "def": "<ruby><rb>調子</rb><rt>ちょうし</rt></ruby>。<ruby><rb>気持</rb><rt>きも</rt></ruby>ち。",
+          "hyouki": [
+            "呼吸"
+          ]
+        },
+        {
+          "def": "こつ。",
+          "hyouki": [
+            "呼吸"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>石炭</rb><rt>せきたん</rt></ruby>や<ruby><rb>石油</rb><rt>せきゆ</rt></ruby>などを<ruby><rb>燃</rb><rt>も</rt></ruby>やして<ruby><rb>蒸気</rb><rt>じょうき</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>り、その<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>発電機</rb><rt>はつでんき</rt></ruby>を<ruby><rb>回</rb><rt>まわ</rt></ruby>して<ruby><rb>電気</rb><rt>でんき</rt></ruby>を<ruby><rb>起</rb><rt>お</rt></ruby>こす<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。",
+          "hyouki": [
+            "火力発電"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>大昔</rb><rt>おおむかし</rt></ruby>の<ruby><rb>植物</rb><rt>しょくぶつ</rt></ruby>が<ruby><rb>地下</rb><rt>ちか</rt></ruby>にうずもれて、<ruby><rb>長</rb><rt>なが</rt></ruby>い<ruby><rb>間</rb><rt>あいだ</rt></ruby>に<ruby><rb>固</rb><rt>かた</rt></ruby>まって、<ruby><rb>黒</rb><rt>くろ</rt></ruby>い<ruby><rb>石</rb><rt>いし</rt></ruby>のようになったもの。<ruby><rb>燃料</rb><rt>ねんりょう</rt></ruby>や<ruby><rb>化学工業</rb><rt>かがくこうぎょう</rt></ruby>の<ruby><rb>原料</rb><rt>げんりょう</rt></ruby>などに<ruby><rb>使</rb><rt>つか</rt></ruby>う。",
+          "hyouki": [
+            "石炭"
+          ]
+        }
+      ]
+    }
+  }
+}
