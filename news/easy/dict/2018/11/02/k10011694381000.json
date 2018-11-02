@@ -1,0 +1,162 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>思</rb><rt>おも</rt></ruby>い<ruby><rb>出</rb><rt>で</rt></ruby>に<ruby><rb>残</rb><rt>のこ</rt></ruby>しておくこと。また、その<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "記念"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>竹</rb><rt>たけ</rt></ruby>などで<ruby><rb>作</rb><rt>つく</rt></ruby>った、<ruby><rb>細</rb><rt>ほそ</rt></ruby>いじくの<ruby><rb>先</rb><rt>さき</rt></ruby>に、<ruby><rb>毛</rb><rt>け</rt></ruby>を<ruby><rb>束</rb><rt>たば</rt></ruby>にしてつけた、<ruby><rb>文字</rb><rt>もじ</rt></ruby>や<ruby><rb>絵</rb><rt>え</rt></ruby>をかくための<ruby><rb>道具</rb><rt>どうぐ</rt></ruby>。",
+          "hyouki": [
+            "筆"
+          ]
+        },
+        {
+          "def": "<ruby><rb>筆</rb><rt>ふで</rt></ruby>でかいた、<ruby><rb>文字</rb><rt>もじ</rt></ruby>や<ruby><rb>絵</rb><rt>え</rt></ruby>。",
+          "hyouki": [
+            "筆"
+          ]
+        },
+        {
+          "def": "<ruby><rb>文</rb><rt>ぶん</rt></ruby>を<ruby><rb>書</rb><rt>か</rt></ruby>くこと。<ruby><rb>文章</rb><rt>ぶんしょう</rt></ruby>。",
+          "hyouki": [
+            "筆"
+          ]
+        },
+        {
+          "def": "<ruby><rb>筆</rb><rt>ふで</rt></ruby>にすみをつける<ruby><rb>回数</rb><rt>かいすう</rt></ruby>。",
+          "hyouki": [
+            "筆"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "コンピューターなどを<ruby><rb>使</rb><rt>つか</rt></ruby>って、メッセージやデータなどのやりとりをする<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>電子</rb><rt>でんし</rt></ruby>メール。メール。",
+          "hyouki": [
+            "Eメール"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ありがたいと<ruby><rb>思</rb><rt>おも</rt></ruby>う<ruby><rb>気持</rb><rt>きも</rt></ruby>ち。また、その<ruby><rb>気持</rb><rt>きも</rt></ruby>ちを<ruby><rb>表</rb><rt>あらわ</rt></ruby>すこと。",
+          "hyouki": [
+            "感謝"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "たくさんの<ruby><rb>紙</rb><rt>かみ</rt></ruby>きれや<ruby><rb>棒</rb><rt>ぼう</rt></ruby>などに、<ruby><rb>番号</rb><rt>ばんごう</rt></ruby>やしるしをつけておき、その<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つを<ruby><rb>取</rb><rt>と</rt></ruby>って、<ruby><rb>当</rb><rt>あ</rt></ruby>たり<ruby><rb>外</rb><rt>はず</rt></ruby>れを<ruby><rb>決</rb><rt>き</rt></ruby>める<ruby><rb>方法</rb><rt>ほうほう</rt></ruby>。また、その<ruby><rb>紙</rb><rt>かみ</rt></ruby>きれや<ruby><rb>棒</rb><rt>ぼう</rt></ruby>。",
+          "hyouki": [
+            "くじ"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>で、<ruby><rb>年</rb><rt>とし</rt></ruby>につける<ruby><rb>呼</rb><rt>よ</rt></ruby>び<ruby><rb>名</rb><rt>な</rt></ruby>。<ruby><rb>元号</rb><rt>げんごう</rt></ruby>。<ruby><rb>平成</rb><rt>へいせい</rt></ruby>や<ruby><rb>昭和</rb><rt>しょうわ</rt></ruby>など。",
+          "hyouki": [
+            "年号"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "くじ<ruby><rb>引</rb><rt>び</rt></ruby>き。",
+          "hyouki": [
+            "抽選"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>同</rb><rt>おな</rt></ruby>じ。",
+          "hyouki": [
+            "等"
+          ]
+        },
+        {
+          "def": "<ruby><rb>位</rb><rt>くらい</rt></ruby>。<ruby><rb>順序</rb><rt>じゅんじょ</rt></ruby>。",
+          "hyouki": [
+            "等"
+          ]
+        },
+        {
+          "def": "など。",
+          "hyouki": [
+            "等"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "ぶつかる。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>命中</rb><rt>めいちゅう</rt></ruby>する。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "ねらったとおりうまくいく。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "（<ruby><rb>光</rb><rt>ひかり</rt></ruby>・<ruby><rb>風</rb><rt>かぜ</rt></ruby>などを）<ruby><rb>受</rb><rt>う</rt></ruby>けるようにする。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "ちょうど<ruby><rb>当</rb><rt>あ</rt></ruby>てはまる。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "その<ruby><rb>方角</rb><rt>ほうがく</rt></ruby>にある。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>仕事</rb><rt>しごと</rt></ruby>などを<ruby><rb>引</rb><rt>ひ</rt></ruby>き<ruby><rb>受</rb><rt>う</rt></ruby>ける。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>立</rb><rt>た</rt></ruby>ち<ruby><rb>向</rb><rt>む</rt></ruby>かう。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>確</rb><rt>たし</rt></ruby>かめる。<ruby><rb>調</rb><rt>しら</rt></ruby>べる。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "ひどい<ruby><rb>目</rb><rt>め</rt></ruby>にあわせる。",
+          "hyouki": [
+            "当たる"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>海</rb><rt>うみ</rt></ruby>や<ruby><rb>港</rb><rt>みなと</rt></ruby>で、<ruby><rb>船</rb><rt>ふね</rt></ruby>の<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>ったり、<ruby><rb>法</rb><rt>ほう</rt></ruby>に<ruby><rb>違反</rb><rt>いはん</rt></ruby>することを<ruby><rb>防</rb><rt>ふせ</rt></ruby>いだりする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。",
+          "hyouki": [
+            "海上保安庁"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>魚</rb><rt>さかな</rt></ruby>や<ruby><rb>貝</rb><rt>かい</rt></ruby>・<ruby><rb>海藻</rb><rt>かいそう</rt></ruby>などの<ruby><rb>水産物</rb><rt>すいさんぶつ</rt></ruby>を、とったり<ruby><rb>育</rb><rt>そだ</rt></ruby>てたりする<ruby><rb>仕事</rb><rt>しごと</rt></ruby>。",
+          "hyouki": [
+            "漁業"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "団体"
+          ]
+        },
+        {
+          "def": "<ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "団体"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>海</rb><rt>うみ</rt></ruby>の<ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>。",
+          "hyouki": [
+            "海面"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>海</rb><rt>うみ</rt></ruby>などの<ruby><rb>水面</rb><rt>すいめん</rt></ruby>が、<ruby><rb>高</rb><rt>たか</rt></ruby>くなったり<ruby><rb>低</rb><rt>ひく</rt></ruby>くなったりすること。また、<ruby><rb>水面</rb><rt>すいめん</rt></ruby>が<ruby><rb>高</rb><rt>たか</rt></ruby>く<ruby><rb>盛</rb><rt>も</rt></ruby>り<ruby><rb>上</rb><rt>あ</rt></ruby>がっている<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "波"
+          ]
+        },
+        {
+          "def": "ものごとの<ruby><rb>調子</rb><rt>ちょうし</rt></ruby>が、<ruby><rb>上</rb><rt>あ</rt></ruby>がったり<ruby><rb>下</rb><rt>さ</rt></ruby>がったり、また、よくなったり<ruby><rb>悪</rb><rt>わる</rt></ruby>くなったりすること。",
+          "hyouki": [
+            "波"
+          ]
+        },
+        {
+          "def": "つぎつぎとおし<ruby><rb>寄</rb><rt>よ</rt></ruby>せるものをたとえていうことば。",
+          "hyouki": [
+            "波"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>温度</rb><rt>おんど</rt></ruby>が<ruby><rb>０度</rb><rt>れいど</rt></ruby>より<ruby><rb>低</rb><rt>ひく</rt></ruby>くなって、<ruby><rb>水</rb><rt>みず</rt></ruby>が<ruby><rb>固</rb><rt>かた</rt></ruby>まったもの。",
+          "hyouki": [
+            "氷"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "ぶつかる。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>命中</rb><rt>めいちゅう</rt></ruby>する。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "ねらったとおりうまくいく。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "（<ruby><rb>光</rb><rt>ひかり</rt></ruby>・<ruby><rb>風</rb><rt>かぜ</rt></ruby>などを）<ruby><rb>受</rb><rt>う</rt></ruby>けるようにする。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "ちょうど<ruby><rb>当</rb><rt>あ</rt></ruby>てはまる。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "その<ruby><rb>方角</rb><rt>ほうがく</rt></ruby>にある。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>仕事</rb><rt>しごと</rt></ruby>などを<ruby><rb>引</rb><rt>ひ</rt></ruby>き<ruby><rb>受</rb><rt>う</rt></ruby>ける。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>立</rb><rt>た</rt></ruby>ち<ruby><rb>向</rb><rt>む</rt></ruby>かう。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>確</rb><rt>たし</rt></ruby>かめる。<ruby><rb>調</rb><rt>しら</rt></ruby>べる。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "ひどい<ruby><rb>目</rb><rt>め</rt></ruby>にあわせる。",
+          "hyouki": [
+            "当たる"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>規則</rb><rt>きそく</rt></ruby>。<ruby><rb>決</rb><rt>き</rt></ruby>まり。",
+          "hyouki": [
+            "ルール"
+          ]
+        }
+      ]
+    }
+  }
+}

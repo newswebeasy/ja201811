@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011695511000",
+  "news_prearranged_time": "2018-11-02 16:15:00",
+  "title": "ハロウィーン　フランスで若い人たちが事件を起こす",
+  "title_with_ruby": "ハロウィーン　フランスで<ruby>若<rt>わか</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>たちが<ruby>事件<rt>じけん</rt></ruby>を<ruby>起<rt>お</rt></ruby>こす",
+  "outline_with_ruby": "<p>１０<ruby>月<rt>がつ</rt></ruby>３１<ruby>日<rt>にち</rt></ruby>は<a href='javascript:void(0)' class='dicWin' id='id-0000'>ハロウィーン</a>で、フランスでもいろいろな<a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>格好<rt>かっこう</rt></ruby></a>をした<ruby>大勢<rt>おおぜい</rt></ruby>の<ruby>若<rt>わか</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>が<ruby>楽<rt>たの</rt></ruby>しみました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20181102/../20181102/K10011695511_1811020815_1811020817_01_03.jpg",
+  "news_web_movie_uri": "k10011695511_201811020815_201811020816.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011695511000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011695511000/k10011695511000.html"
+}
