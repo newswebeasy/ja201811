@@ -1,0 +1,74 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>地中</rb><rt>ちちゅう</rt></ruby>から<ruby><rb>出</rb><rt>で</rt></ruby>る、<ruby><rb>黒</rb><rt>くろ</rt></ruby>くどろどろした<ruby><rb>燃</rb><rt>も</rt></ruby>えやすい<ruby><rb>油</rb><rt>あぶら</rt></ruby>。<ruby><rb>大昔</rb><rt>おおむかし</rt></ruby>の<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>が<ruby><rb>地中</rb><rt>ちちゅう</rt></ruby>にうまってできたもの。<ruby><rb>地中</rb><rt>ちちゅう</rt></ruby>からとったままのものを<ruby><rb>原油</rb><rt>げんゆ</rt></ruby>といい、ガソリン・<ruby><rb>軽油</rb><rt>けいゆ</rt></ruby>・<ruby><rb>灯油</rb><rt>とうゆ</rt></ruby>・<ruby><rb>重油</rb><rt>じゅうゆ</rt></ruby>などを<ruby><rb>作</rb><rt>つく</rt></ruby>る。<ruby><rb>化学工業</rb><rt>かがくこうぎょう</rt></ruby>の<ruby><rb>原料</rb><rt>げんりょう</rt></ruby>としても<ruby><rb>使</rb><rt>つか</rt></ruby>われる。",
+          "hyouki": [
+            "石油"
+          ]
+        },
+        {
+          "def": "「<span class=\"dic_sansyogogi\">1)</span>」から<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>燃料</rb><rt>ねんりょう</rt></ruby>やじゅんかつ<ruby><rb>油</rb><rt>ゆ</rt></ruby>などの<ruby><rb>製品</rb><rt>せいひん</rt></ruby>。<ruby><rb>特</rb><rt>とく</rt></ruby>に、<ruby><rb>灯油</rb><rt>とうゆ</rt></ruby>のこと。",
+          "hyouki": [
+            "石油"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>共和国</rb><rt>きょうわこく</rt></ruby>で、その<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "大統領"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>核分裂</rb><rt>かくぶんれつ</rt></ruby>や<ruby><rb>核融合</rb><rt>かくゆうごう</rt></ruby>によって<ruby><rb>出</rb><rt>で</rt></ruby>るエネルギーを<ruby><rb>利用</rb><rt>りよう</rt></ruby>した<ruby><rb>兵器</rb><rt>へいき</rt></ruby>。<ruby><rb>原子爆弾</rb><rt>げんしばくだん</rt></ruby>や、<ruby><rb>水素爆弾</rb><rt>すいそばくだん</rt></ruby>など。",
+          "hyouki": [
+            "核兵器"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "あいだ。へだたり。",
+          "hyouki": [
+            "間"
+          ]
+        },
+        {
+          "def": "ひろがり。",
+          "hyouki": [
+            "間"
+          ]
+        },
+        {
+          "def": "ある<ruby><rb>関係</rb><rt>かんけい</rt></ruby>をもったまとまり。",
+          "hyouki": [
+            "間"
+          ]
+        },
+        {
+          "def": "<ruby><rb>相手</rb><rt>あいて</rt></ruby>のようすをうかがう。",
+          "hyouki": [
+            "間"
+          ]
+        },
+        {
+          "def": "へや。へやを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。",
+          "hyouki": [
+            "間"
+          ]
+        },
+        {
+          "def": "<ruby><rb>昔</rb><rt>むかし</rt></ruby>の<ruby><rb>尺貫法</rb><rt>しゃっかんほう</rt></ruby>で、<ruby><rb>長</rb><rt>なが</rt></ruby>さの<ruby><rb>単位</rb><rt>たんい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>一間</rb><rt>いっけん</rt></ruby>は<ruby><rb>約</rb><rt>やく</rt></ruby>一・八メートル。",
+          "hyouki": [
+            "間"
+          ]
+        }
+      ]
+    }
+  }
+}

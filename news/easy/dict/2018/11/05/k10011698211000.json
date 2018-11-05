@@ -1,0 +1,66 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>小説</rb><rt>しょうせつ</rt></ruby>や<ruby><rb>劇</rb><rt>げき</rt></ruby>・<ruby><rb>童話</rb><rt>どうわ</rt></ruby>などを<ruby><rb>書</rb><rt>か</rt></ruby>く<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "作家"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>や<ruby><rb>調査</rb><rt>ちょうさ</rt></ruby>のもととして<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>材料</rb><rt>ざいりょう</rt></ruby>。",
+          "hyouki": [
+            "資料"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>人</rb><rt>ひと</rt></ruby>にあげる。プレゼントする。",
+          "hyouki": [
+            "贈る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>手</rb><rt>て</rt></ruby>がらのあった<ruby><rb>人</rb><rt>ひと</rt></ruby>に、<ruby><rb>位</rb><rt>くらい</rt></ruby>やくんしょうなどをあたえる。",
+          "hyouki": [
+            "贈る"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>印刷</rb><rt>いんさつ</rt></ruby>したり、<ruby><rb>話</rb><rt>はなし</rt></ruby>をしたりするための、もとになる<ruby><rb>文章</rb><rt>ぶんしょう</rt></ruby>。",
+          "hyouki": [
+            "原稿"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などの<ruby><rb>記事</rb><rt>きじ</rt></ruby>を、<ruby><rb>取材</rb><rt>しゅざい</rt></ruby>したり<ruby><rb>書</rb><rt>か</rt></ruby>いたりする<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "記者"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "たがいに<ruby><rb>行</rb><rt>い</rt></ruby>き<ruby><rb>来</rb><rt>き</rt></ruby>すること。<ruby><rb>交</rb><rt>ま</rt></ruby>じり<ruby><rb>合</rb><rt>あ</rt></ruby>うこと。",
+          "hyouki": [
+            "交流"
+          ]
+        },
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>まった<ruby><rb>時間</rb><rt>じかん</rt></ruby>ごとに、<ruby><rb>流</rb><rt>なが</rt></ruby>れの<ruby><rb>方向</rb><rt>ほうこう</rt></ruby>が<ruby><rb>逆</rb><rt>ぎゃく</rt></ruby>になる<ruby><rb>電流</rb><rt>でんりゅう</rt></ruby>。",
+          "hyouki": [
+            "交流"
+          ]
+        }
+      ]
+    }
+  }
+}

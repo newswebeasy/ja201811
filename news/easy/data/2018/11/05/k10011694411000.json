@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011694411000",
+  "news_prearranged_time": "2018-11-05 11:30:00",
+  "title": "和歌山県の動物園でパンダの赤ちゃんの体の重さを調べる",
+  "title_with_ruby": "<ruby>和歌山県<rt>わかやまけん</rt></ruby>の<ruby>動物園<rt>どうぶつえん</rt></ruby>でパンダの<ruby>赤<rt>あか</rt></ruby>ちゃんの<ruby>体<rt>からだ</rt></ruby>の<ruby>重<rt>おも</rt></ruby>さを<ruby>調<rt>しら</rt></ruby>べる",
+  "outline_with_ruby": "<p>１１<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>は<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>計量<rt>けいりょう</rt></ruby></a><a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>記念日<rt>きねんび</rt></ruby></a>です。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20181101/../20181101/K10011694411_1811011400_1811011430_01_03.jpg",
+  "news_web_movie_uri": "k10011694411_201811011434_201811011436.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011694411000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011694411000/k10011694411000.html"
+}
