@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011699721000",
+  "news_prearranged_time": "2018-11-06 15:50:00",
+  "title": "インフルエンザになった子どもを１人にしないで",
+  "title_with_ruby": "インフルエンザになった<ruby>子<rt>こ</rt></ruby>どもを<ruby>１人<rt>ひとり</rt></ruby>にしないで",
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0000'>インフルエンザ</a>になる<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>える<ruby>季節<rt>きせつ</rt></ruby>になりました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20181106/../20181106/K10011699721_1811060533_1811060544_01_03.jpg",
+  "news_web_movie_uri": "k10011699721_201811060533_201811060544.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011699721000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011699721000/k10011699721000.html"
+}

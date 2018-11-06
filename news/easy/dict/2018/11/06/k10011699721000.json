@@ -1,0 +1,90 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "のどや<ruby><rb>気管</rb><rt>きかん</rt></ruby>などが、ウイルスによってただれる<ruby><rb>病気</rb><rt>びょうき</rt></ruby>。かぜに<ruby><rb>似</rb><rt>に</rt></ruby>ているが、<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>熱</rb><rt>ねつ</rt></ruby>が<ruby><rb>出</rb><rt>で</rt></ruby>て、うつりやすい。<ruby><rb>流行性感冒</rb><rt>りゅうこうせいかんぼう</rt></ruby>。<ruby><rb>流感</rb><rt>りゅうかん</rt></ruby>。",
+          "hyouki": [
+            "インフルエンザ"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>国民</rb><rt>こくみん</rt></ruby>の<ruby><rb>健康</rb><rt>けんこう</rt></ruby>や<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>る<ruby><rb>仕事</rb><rt>しごと</rt></ruby>や、<ruby><rb>労働者</rb><rt>ろうどうしゃ</rt></ruby>が<ruby><rb>仕事</rb><rt>しごと</rt></ruby>を<ruby><rb>見</rb><rt>み</rt></ruby>つけるのを<ruby><rb>助</rb><rt>たす</rt></ruby>けたり、<ruby><rb>労働者</rb><rt>ろうどうしゃ</rt></ruby>を<ruby><rb>保護</rb><rt>ほご</rt></ruby>したりする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>厚労省</rb><rt>こうろうしょう</rt></ruby>。",
+          "hyouki": [
+            "厚生労働省"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "とつぜん。にわかに。",
+          "hyouki": [
+            "急に"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>乱暴</rb><rt>らんぼう</rt></ruby>なことをする。",
+          "hyouki": [
+            "暴れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>思</rb><rt>おも</rt></ruby>うぞんぶん<ruby><rb>自由</rb><rt>じゆう</rt></ruby>なことをする。",
+          "hyouki": [
+            "暴れる"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "ふつうとちがう<ruby><rb>特別</rb><rt>とくべつ</rt></ruby>なようす。",
+          "hyouki": [
+            "異常"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。<ruby><rb>動作</rb><rt>どうさ</rt></ruby>。",
+          "hyouki": [
+            "行動"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "ことがら。できごと。",
+          "hyouki": [
+            "件"
+          ]
+        },
+        {
+          "def": "ことがらの<ruby><rb>数</rb><rt>かず</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。",
+          "hyouki": [
+            "件"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "コンクリートで<ruby><rb>造</rb><rt>つく</rt></ruby>った<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>建物</rb><rt>たてもの</rt></ruby>で、<ruby><rb>高級</rb><rt>こうきゅう</rt></ruby>な<ruby><rb>感</rb><rt>かん</rt></ruby>じがするアパート。",
+          "hyouki": [
+            "マンション"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>洋風</rb><rt>ようふう</rt></ruby>の<ruby><rb>建物</rb><rt>たてもの</rt></ruby>から<ruby><rb>張</rb><rt>は</rt></ruby>り<ruby><rb>出</rb><rt>だ</rt></ruby>した、ひさしのあるえんがわ。",
+          "hyouki": [
+            "ベランダ"
+          ]
+        }
+      ]
+    }
+  }
+}

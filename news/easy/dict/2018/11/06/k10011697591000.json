@@ -1,0 +1,140 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "デザイナーが<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>新</rb><rt>あたら</rt></ruby>しい<ruby><rb>型</rb><rt>かた</rt></ruby>の<ruby><rb>服</rb><rt>ふく</rt></ruby>などを<ruby><rb>発表</rb><rt>はっぴょう</rt></ruby>する<ruby><rb>会</rb><rt>かい</rt></ruby>。",
+          "hyouki": [
+            "ファッションショー"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "しばいやおどりなどの<ruby><rb>演技</rb><rt>えんぎ</rt></ruby>をする<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。ステージ。",
+          "hyouki": [
+            "舞台"
+          ]
+        },
+        {
+          "def": "<ruby><rb>腕前</rb><rt>うでまえ</rt></ruby>を<ruby><rb>見</rb><rt>み</rt></ruby>せる<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。",
+          "hyouki": [
+            "舞台"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>急</rb><rt>きゅう</rt></ruby>に。思いがけなく。",
+          "hyouki": [
+            "突然"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>模型</rb><rt>もけい</rt></ruby>。",
+          "hyouki": [
+            "モデル"
+          ]
+        },
+        {
+          "def": "<ruby><rb>型</rb><rt>かた</rt></ruby>。",
+          "hyouki": [
+            "モデル"
+          ]
+        },
+        {
+          "def": "<ruby><rb>手本</rb><rt>てほん</rt></ruby>。<ruby><rb>模範</rb><rt>もはん</rt></ruby>。",
+          "hyouki": [
+            "モデル"
+          ]
+        },
+        {
+          "def": "<ruby><rb>絵</rb><rt>え</rt></ruby>・<ruby><rb>彫刻</rb><rt>ちょうこく</rt></ruby>・<ruby><rb>写真</rb><rt>しゃしん</rt></ruby>などの<ruby><rb>題材</rb><rt>だいざい</rt></ruby>になる<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "モデル"
+          ]
+        },
+        {
+          "def": "<ruby><rb>劇</rb><rt>げき</rt></ruby>や<ruby><rb>小説</rb><rt>しょうせつ</rt></ruby>などのもとになった、<ruby><rb>実際</rb><rt>じっさい</rt></ruby>の<ruby><rb>事件</rb><rt>じけん</rt></ruby>や<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "モデル"
+          ]
+        },
+        {
+          "def": "ファッションモデル。",
+          "hyouki": [
+            "モデル"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>舌</rb><rt>した</rt></ruby>で<ruby><rb>物</rb><rt>もの</rt></ruby>にさわる。<ruby><rb>味</rb><rt>あじ</rt></ruby>をみる。",
+          "hyouki": [
+            "なめる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>経験</rb><rt>けいけん</rt></ruby>する。<ruby><rb>味</rb><rt>あじ</rt></ruby>わう。",
+          "hyouki": [
+            "なめる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>軽</rb><rt>かる</rt></ruby>くみる。ばかにする。",
+          "hyouki": [
+            "なめる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>火</rb><rt>ひ</rt></ruby>が<ruby><rb>燃</rb><rt>も</rt></ruby>える。",
+          "hyouki": [
+            "なめる"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>勢</rb><rt>いきお</rt></ruby>いよくだきつく。",
+          "hyouki": [
+            "飛び付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>飛</rb><rt>と</rt></ruby>び<ruby><rb>上</rb><rt>あ</rt></ruby>がって<ruby><rb>手</rb><rt>て</rt></ruby>でつかむ。",
+          "hyouki": [
+            "飛び付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>心</rb><rt>こころ</rt></ruby>がひかれて<ruby><rb>手</rb><rt>て</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>す。",
+          "hyouki": [
+            "飛び付く"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>映像</rb><rt>えいぞう</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        },
+        {
+          "def": "「ビデオテープ」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>映像</rb><rt>えいぞう</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>を、<ruby><rb>磁気</rb><rt>じき</rt></ruby>テープに<ruby><rb>記録</rb><rt>きろく</rt></ruby>したり<ruby><rb>再生</rb><rt>さいせい</rt></ruby>したりする<ruby><rb>装置</rb><rt>そうち</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        }
+      ]
+    }
+  }
+}
