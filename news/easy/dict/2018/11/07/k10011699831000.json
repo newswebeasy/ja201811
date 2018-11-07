@@ -1,0 +1,156 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "アジア<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>の<ruby><rb>東</rb><rt>ひがし</rt></ruby>と<ruby><rb>日本列島</rb><rt>にほんれっとう</rt></ruby>にはさまれた<ruby><rb>海</rb><rt>うみ</rt></ruby>。",
+          "hyouki": [
+            "日本海"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>魚</rb><rt>さかな</rt></ruby>などをとること。",
+          "hyouki": [
+            "漁"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "かたいこうらでおおわれた<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。<ruby><rb>海</rb><rt>うみ</rt></ruby>にすむタカアシガニ・ケガニや、<ruby><rb>谷川</rb><rt>たにがわ</rt></ruby>にすむサワガニなどがいる。<ruby><rb>足</rb><rt>あし</rt></ruby>が１０<ruby><rb>本</rb><rt>ぽん</rt></ruby>あり、そのうちの２<ruby><rb>本</rb><rt>ほん</rt></ruby>がはさみになっている。",
+          "hyouki": [
+            "蟹"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ただ<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。また、ほんの<ruby><rb>少</rb><rt>すこ</rt></ruby>し。",
+          "hyouki": [
+            "隻"
+          ]
+        },
+        {
+          "def": "<ruby><rb>船</rb><rt>ふね</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。",
+          "hyouki": [
+            "隻"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>糸</rb><rt>いと</rt></ruby>や<ruby><rb>針金</rb><rt>はりがね</rt></ruby>などで、<ruby><rb>目</rb><rt>め</rt></ruby>をあらく<ruby><rb>編</rb><rt>あ</rt></ruby>んだもの。<ruby><rb>虫</rb><rt>むし</rt></ruby>や<ruby><rb>魚</rb><rt>さかな</rt></ruby>・けものなどをとるのに<ruby><rb>使</rb><rt>つか</rt></ruby>う。",
+          "hyouki": [
+            "網"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>文字</rb><rt>もじ</rt></ruby>や<ruby><rb>記号</rb><rt>きごう</rt></ruby>などを<ruby><rb>書</rb><rt>か</rt></ruby>いた、<ruby><rb>小</rb><rt>ちい</rt></ruby>さい<ruby><rb>板</rb><rt>いた</rt></ruby>や<ruby><rb>紙</rb><rt>かみ</rt></ruby>。",
+          "hyouki": [
+            "札"
+          ]
+        },
+        {
+          "def": "<ruby><rb>神社</rb><rt>じんじゃ</rt></ruby>や<ruby><rb>寺</rb><rt>てら</rt></ruby>で<ruby><rb>出</rb><rt>だ</rt></ruby>すお<ruby><rb>守</rb><rt>まも</rt></ruby>り。",
+          "hyouki": [
+            "札"
+          ]
+        },
+        {
+          "def": "かるたやトランプなどのカード。",
+          "hyouki": [
+            "札"
+          ]
+        },
+        {
+          "def": "<ruby><rb>入場券</rb><rt>にゅうじょうけん</rt></ruby>。",
+          "hyouki": [
+            "札"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>が、はなれないようにする。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "しるしを<ruby><rb>残</rb><rt>のこ</rt></ruby>す。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>書</rb><rt>か</rt></ruby>きこむ。しるす。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>加</rb><rt>くわ</rt></ruby>える。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "そっとあとについて<ruby><rb>行</rb><rt>い</rt></ruby>く。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "ものごとを<ruby><rb>収</rb><rt>おさ</rt></ruby>める。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>を<ruby><rb>向</rb><rt>む</rt></ruby>ける。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>値段</rb><rt>ねだん</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "そばに<ruby><rb>付</rb><rt>つ</rt></ruby>きそわせる。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "…し<ruby><rb>慣</rb><rt>な</rt></ruby>れている。",
+          "hyouki": [
+            "付ける"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>男性</rb><rt>だんせい</rt></ruby>にあたるもの。",
+          "hyouki": [
+            "雄"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>で、<ruby><rb>子</rb><rt>こ</rt></ruby>や<ruby><rb>卵</rb><rt>たまご</rt></ruby>を<ruby><rb>生</rb><rt>う</rt></ruby>む<ruby><rb>能力</rb><rt>のうりょく</rt></ruby>があるほう。",
+          "hyouki": [
+            "雌"
+          ]
+        }
+      ]
+    }
+  }
+}

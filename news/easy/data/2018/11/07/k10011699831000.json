@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011699831000",
+  "news_prearranged_time": "2018-11-07 11:30:00",
+  "title": "日本海で「ズワイガニ」の漁が始まる",
+  "title_with_ruby": "<ruby>日本海<rt>にほんかい</rt></ruby>で「ズワイガニ」の<ruby>漁<rt>りょう</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まる",
+  "outline_with_ruby": "<p><ruby>冬<rt>ふゆ</rt></ruby>のおいしい<a href='javascript:void(0)' class='dicWin' id='id-0002'>かに</a>「ズワイガニ」の<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>漁<rt>りょう</rt></ruby></a>が<ruby>６日<rt>むいか</rt></ruby>から<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>日本海<rt>にほんかい</rt></ruby></a>で<ruby>始<rt>はじ</rt></ruby>まりました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20181106/../20181106/K10011699831_1811060713_1811060716_01_03.jpg",
+  "news_web_movie_uri": "k10011699831_201811060713_201811060715.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011699831000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011699831000/k10011699831000.html"
+}
