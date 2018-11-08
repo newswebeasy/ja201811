@@ -1,0 +1,124 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>冷房</rb><rt>れいぼう</rt></ruby>や<ruby><rb>冷蔵庫</rb><rt>れいぞうこ</rt></ruby>、スプレーなどに<ruby><rb>使</rb><rt>つか</rt></ruby>われたガス。オゾン<ruby><rb>層</rb><rt>そう</rt></ruby>をはかいするので、<ruby><rb>使</rb><rt>つか</rt></ruby>われなくなった。",
+          "hyouki": [
+            "フロンガス"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>第二次世界大戦</rb><rt>だいにじせかいたいせん</rt></ruby>が<ruby><rb>終</rb><rt>お</rt></ruby>わった１９４５<ruby><rb>年</rb><rt>ねん</rt></ruby>、<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>平和</rb><rt>へいわ</rt></ruby>と<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>るために<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>本部</rb><rt>ほんぶ</rt></ruby>はアメリカのニューヨークにある。<ruby><rb>国連</rb><rt>こくれん</rt></ruby>。<ruby><rb>UN</rb><rt>ユーエヌ</rt></ruby>。",
+          "hyouki": [
+            "国際連合"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>空気中</rb><rt>くうきちゅう</rt></ruby>や<ruby><rb>酸素</rb><rt>さんそ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>で、<ruby><rb>放電</rb><rt>ほうでん</rt></ruby>することによってできる<ruby><rb>気体</rb><rt>きたい</rt></ruby>。<ruby><rb>漂白</rb><rt>ひょうはく</rt></ruby>や<ruby><rb>消毒</rb><rt>しょうどく</rt></ruby>などに<ruby><rb>使</rb><rt>つか</rt></ruby>われ、<ruby><rb>特有</rb><rt>とくゆう</rt></ruby>のにおいがある。",
+          "hyouki": [
+            "オゾン"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>に<ruby><rb>悪</rb><rt>わる</rt></ruby>いところがなく、<ruby><rb>元気</rb><rt>げんき</rt></ruby>なようす。",
+          "hyouki": [
+            "健康"
+          ]
+        },
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>のぐあい。",
+          "hyouki": [
+            "健康"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>で<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>熱</rb><rt>ねつ</rt></ruby>と<ruby><rb>光</rb><rt>ひかり</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>している<ruby><rb>星</rb><rt>ほし</rt></ruby>。<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>に<ruby><rb>熱</rb><rt>ねつ</rt></ruby>や<ruby><rb>光</rb><rt>ひかり</rt></ruby>をあたえ、<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>を<ruby><rb>育</rb><rt>そだ</rt></ruby>てる。お<ruby><rb>日</rb><rt>ひ</rt></ruby>さま。",
+          "hyouki": [
+            "太陽"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "プリズムで<ruby><rb>日光</rb><rt>にっこう</rt></ruby>を<ruby><rb>分</rb><rt>わ</rt></ruby>けると、むらさき<ruby><rb>色</rb><rt>いろ</rt></ruby>の<ruby><rb>外側</rb><rt>そとがわ</rt></ruby>に<ruby><rb>現</rb><rt>あらわ</rt></ruby>れる、<ruby><rb>目</rb><rt>め</rt></ruby>に<ruby><rb>見</rb><rt>み</rt></ruby>えない<ruby><rb>光線</rb><rt>こうせん</rt></ruby>。はだの<ruby><rb>日焼</rb><rt>ひや</rt></ruby>けを<ruby><rb>起</rb><rt>お</rt></ruby>こす。",
+          "hyouki": [
+            "紫外線"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>過</rb><rt>す</rt></ruby>ぎてきた<ruby><rb>時代</rb><rt>じだい</rt></ruby>。",
+          "hyouki": [
+            "年代"
+          ]
+        },
+        {
+          "def": "ひとまとまりにして<ruby><rb>区切</rb><rt>くぎ</rt></ruby>った<ruby><rb>期間</rb><rt>きかん</rt></ruby>。",
+          "hyouki": [
+            "年代"
+          ]
+        },
+        {
+          "def": "<ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>年</rb><rt>とし</rt></ruby>ごろの<ruby><rb>人</rb><rt>ひと</rt></ruby>たち。<ruby><rb>世代</rb><rt>せだい</rt></ruby>。",
+          "hyouki": [
+            "年代"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>の<ruby><rb>南</rb><rt>みなみ</rt></ruby>のはし。",
+          "hyouki": [
+            "南極"
+          ]
+        },
+        {
+          "def": "<ruby><rb>南極大陸</rb><rt>なんきょくたいりく</rt></ruby>。",
+          "hyouki": [
+            "南極"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>の<ruby><rb>北</rb><rt>きた</rt></ruby>のはし。",
+          "hyouki": [
+            "北極"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>数量</rb><rt>すうりょう</rt></ruby>や<ruby><rb>程度</rb><rt>ていど</rt></ruby>が<ruby><rb>少</rb><rt>すく</rt></ruby>なくなる。",
+          "hyouki": [
+            "減る"
+          ]
+        },
+        {
+          "def": "すく。",
+          "hyouki": [
+            "減る"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>少</rb><rt>すく</rt></ruby>なくする。",
+          "hyouki": [
+            "減らす"
+          ]
+        }
+      ]
+    }
+  }
+}

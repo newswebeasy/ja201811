@@ -1,0 +1,110 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "できごとやものごとのようすについての<ruby><rb>知</rb><rt>し</rt></ruby>らせ。",
+          "hyouki": [
+            "情報"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>実際</rb><rt>じっさい</rt></ruby>にためしてみること。",
+          "hyouki": [
+            "実験"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>都道府県</rb><rt>とどうふけん</rt></ruby>・<ruby><rb>市区町村</rb><rt>しくちょうそん</rt></ruby>などの<ruby><rb>地方自治体</rb><rt>ちほうじちたい</rt></ruby>や<ruby><rb>選挙</rb><rt>せんきょ</rt></ruby>の<ruby><rb>世話</rb><rt>せわ</rt></ruby>、<ruby><rb>郵便</rb><rt>ゆうびん</rt></ruby>・<ruby><rb>郵便貯金</rb><rt>ゆうびんちょきん</rt></ruby>・<ruby><rb>簡易保険</rb><rt>かんいほけん</rt></ruby>・<ruby><rb>電気通信</rb><rt>でんきつうしん</rt></ruby>などについての<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする、<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。",
+          "hyouki": [
+            "総務省"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>台風</rb><rt>たいふう</rt></ruby>・<ruby><rb>地震</rb><rt>じしん</rt></ruby>・<ruby><rb>大水</rb><rt>おおみず</rt></ruby>などによる<ruby><rb>災難</rb><rt>さいなん</rt></ruby>。",
+          "hyouki": [
+            "災害"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>組織</rb><rt>そしき</rt></ruby>。",
+          "hyouki": [
+            "システム"
+          ]
+        },
+        {
+          "def": "ひとまとまりの<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>合</rb><rt>あ</rt></ruby>わせ。",
+          "hyouki": [
+            "システム"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "４<ruby><rb>年</rb><rt>ねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、１８９６<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。",
+          "hyouki": [
+            "オリンピック"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>身体障害者</rb><rt>しんたいしょうがいしゃ</rt></ruby>の<ruby><rb>国際</rb><rt>こくさい</rt></ruby>スポーツ<ruby><rb>大会</rb><rt>たいかい</rt></ruby>。４<ruby><rb>年</rb><rt>ねん</rt></ruby>に<ruby><rb>一度</rb><rt>いちど</rt></ruby>、オリンピック<ruby><rb>開催地</rb><rt>かいさいち</rt></ruby>で<ruby><rb>行</rb><rt>おこな</rt></ruby>われる。",
+          "hyouki": [
+            "パラリンピック"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>危</rb><rt>あぶ</rt></ruby>ない<ruby><rb>目</rb><rt>め</rt></ruby>にあわないように、にげること。",
+          "hyouki": [
+            "避難"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>電気</rb><rt>でんき</rt></ruby>の<ruby><rb>信号</rb><rt>しんごう</rt></ruby>を、<ruby><rb>音声</rb><rt>おんせい</rt></ruby>に<ruby><rb>変</rb><rt>か</rt></ruby>えて<ruby><rb>聞</rb><rt>き</rt></ruby>かせるための<ruby><rb>器械</rb><rt>きかい</rt></ruby>。",
+          "hyouki": [
+            "スピーカー"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>形</rb><rt>かたち</rt></ruby>やようすをえがいたもの。",
+          "hyouki": [
+            "図"
+          ]
+        },
+        {
+          "def": "ようす。さま。",
+          "hyouki": [
+            "図"
+          ]
+        },
+        {
+          "def": "<ruby><rb>書物</rb><rt>しょもつ</rt></ruby>。",
+          "hyouki": [
+            "図"
+          ]
+        },
+        {
+          "def": "<ruby><rb>計画</rb><rt>けいかく</rt></ruby>。たくらみ。",
+          "hyouki": [
+            "図"
+          ]
+        }
+      ]
+    }
+  }
+}

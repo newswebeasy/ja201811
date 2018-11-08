@@ -1,0 +1,70 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "アメリカやイギリスなどの<ruby><rb>国会</rb><rt>こっかい</rt></ruby>のように、<ruby><rb>二</rb><rt>ふた</rt></ruby>つの<ruby><rb>議院</rb><rt>ぎいん</rt></ruby>でできている<ruby><rb>国会</rb><rt>こっかい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>参議院</rb><rt>さんぎいん</rt></ruby>にあたる。",
+          "hyouki": [
+            "上院"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "アメリカやイギリスなどの<ruby><rb>国会</rb><rt>こっかい</rt></ruby>で、<ruby><rb>二</rb><rt>ふた</rt></ruby>つの<ruby><rb>議院</rb><rt>ぎいん</rt></ruby>でできている、その<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>衆議院</rb><rt>しゅうぎいん</rt></ruby>にあたる。",
+          "hyouki": [
+            "下院"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>国民</rb><rt>こくみん</rt></ruby>に<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>議員</rb><rt>ぎいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まって、<ruby><rb>国</rb><rt>くに</rt></ruby>や<ruby><rb>地方</rb><rt>ちほう</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>について<ruby><rb>話</rb><rt>はな</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>い、<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>めをする<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>の<ruby><rb>国会</rb><rt>こっかい</rt></ruby>と、<ruby><rb>都道府県</rb><rt>とどうふけん</rt></ruby>などの<ruby><rb>地方議会</rb><rt>ちほうぎかい</rt></ruby>とがある。",
+          "hyouki": [
+            "議会"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ある<ruby><rb>役目</rb><rt>やくめ</rt></ruby>につく<ruby><rb>人</rb><rt>ひと</rt></ruby>を、<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>から<ruby><rb>選</rb><rt>えら</rt></ruby>ぶこと。",
+          "hyouki": [
+            "選挙"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>選挙</rb><rt>せんきょ</rt></ruby>で<ruby><rb>選</rb><rt>えら</rt></ruby>ばれ、<ruby><rb>国会</rb><rt>こっかい</rt></ruby>や<ruby><rb>地方</rb><rt>ちほう</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>で、<ruby><rb>政治</rb><rt>せいじ</rt></ruby>に<ruby><rb>関</rb><rt>かん</rt></ruby>することをいろいろ<ruby><rb>相談</rb><rt>そうだん</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>国会議員</rb><rt>こっかいぎいん</rt></ruby>・<ruby><rb>県議会議員</rb><rt>けんぎかいぎいん</rt></ruby>など。",
+          "hyouki": [
+            "議員"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。",
+          "hyouki": [
+            "結果"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>共和国</rb><rt>きょうわこく</rt></ruby>で、その<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "大統領"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>政治</rb><rt>せいじ</rt></ruby>について、<ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>考</rb><rt>かんが</rt></ruby>えを<ruby><rb>持</rb><rt>も</rt></ruby>つ<ruby><rb>人</rb><rt>ひと</rt></ruby>たちが<ruby><rb>集</rb><rt>あつ</rt></ruby>まって<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>団体</rb><rt>だんたい</rt></ruby>。",
+          "hyouki": [
+            "政党"
+          ]
+        }
+      ]
+    }
+  }
+}

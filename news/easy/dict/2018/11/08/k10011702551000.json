@@ -1,0 +1,62 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>職業</rb><rt>しょくぎょう</rt></ruby>につくこと。",
+          "hyouki": [
+            "就職"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "じかに<ruby><rb>会</rb><rt>あ</rt></ruby>うこと。",
+          "hyouki": [
+            "面接"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "その<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>や<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になる<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>のある<ruby><rb>都市</rb><rt>とし</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>、アメリカのワシントンなど。<ruby><rb>首府</rb><rt>しゅふ</rt></ruby>。",
+          "hyouki": [
+            "首都"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "コンピューターを<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>とした<ruby><rb>情報技術</rb><rt>じょうほうぎじゅつ</rt></ruby>。",
+          "hyouki": [
+            "IT"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>景色</rb><rt>けしき</rt></ruby>のよい<ruby><rb>所</rb><rt>ところ</rt></ruby>や<ruby><rb>名所</rb><rt>めいしょ</rt></ruby>などを<ruby><rb>見物</rb><rt>けんぶつ</rt></ruby>して<ruby><rb>回</rb><rt>まわ</rt></ruby>ること。",
+          "hyouki": [
+            "観光"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "その<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>に<ruby><rb>勤</rb><rt>つと</rt></ruby>めている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>会社員</rb><rt>かいしゃいん</rt></ruby>。",
+          "hyouki": [
+            "社員"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "その<ruby><rb>場</rb><rt>ば</rt></ruby>の<ruby><rb>感</rb><rt>かん</rt></ruby>じや<ruby><rb>気分</rb><rt>きぶん</rt></ruby>。",
+          "hyouki": [
+            "雰囲気"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011701141000",
+  "news_prearranged_time": "2018-11-08 11:30:00",
+  "title": "地震などの情報をスマートフォンに送る新しい技術の実験",
+  "title_with_ruby": "<ruby>地震<rt>じしん</rt></ruby>などの<ruby>情報<rt>じょうほう</rt></ruby>をスマートフォンに<ruby>送<rt>おく</rt></ruby>る<ruby>新<rt>あたら</rt></ruby>しい<ruby>技術<rt>ぎじゅつ</rt></ruby>の<ruby>実験<rt>じっけん</rt></ruby>",
+  "outline_with_ruby": "<p>インターネットを<ruby>使<rt>つか</rt></ruby>うことができないときでも、<ruby>音<rt>おと</rt></ruby>を<ruby>使<rt>つか</rt></ruby>ってスマートフォンなどに<ruby>絵<rt>え</rt></ruby>や<ruby>字<rt>じ</rt></ruby>などの<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>情報<rt>じょうほう</rt></ruby></a>を<ruby>送<rt>おく</rt></ruby>る<ruby>新<rt>あたら</rt></ruby>しい<ruby>技術<rt>ぎじゅつ</rt></ruby>があります。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20181107/../20181107/K10011701141_1811071103_1811071103_01_03.jpg",
+  "news_web_movie_uri": "k10011701141_201811071100_201811071103.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011701141000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011701141000/k10011701141000.html"
+}
