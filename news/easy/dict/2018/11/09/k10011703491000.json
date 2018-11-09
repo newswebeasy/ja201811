@@ -1,0 +1,150 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>米</rb><rt>こめ</rt></ruby>から<ruby><rb>造</rb><rt>つく</rt></ruby>る、<ruby><rb>日本特有</rb><rt>にっぽんとくゆう</rt></ruby>の<ruby><rb>酒</rb><rt>さけ</rt></ruby>。<ruby><rb>清酒</rb><rt>せいしゅ</rt></ruby>。",
+          "hyouki": [
+            "日本酒"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。",
+          "hyouki": [
+            "イベント"
+          ]
+        },
+        {
+          "def": "<ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。",
+          "hyouki": [
+            "イベント"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "ある<ruby><rb>範囲</rb><rt>はんい</rt></ruby>に<ruby><rb>区切</rb><rt>くぎ</rt></ruby>られた<ruby><rb>土地</rb><rt>とち</rt></ruby>。",
+          "hyouki": [
+            "地域"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "団体"
+          ]
+        },
+        {
+          "def": "<ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "団体"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>ること。",
+          "hyouki": [
+            "参加"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>春</rb><rt>はる</rt></ruby>の<ruby><rb>初</rb><rt>はじ</rt></ruby>め、<ruby><rb>葉</rb><rt>は</rt></ruby>よりも<ruby><rb>先</rb><rt>さき</rt></ruby>に、<ruby><rb>白</rb><rt>しろ</rt></ruby>や<ruby><rb>紅</rb><rt>くれない</rt></ruby>のかおりのよい<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>咲</rb><rt>さ</rt></ruby>く<ruby><rb>木</rb><rt>き</rt></ruby>。<ruby><rb>六月</rb><rt>ろくがつ</rt></ruby>ごろ<ruby><rb>実</rb><rt>み</rt></ruby>が<ruby><rb>大</rb><rt>おお</rt></ruby>きくなり、<ruby><rb>梅</rb><rt>うめ</rt></ruby>ぼしや<ruby><rb>梅酒</rb><rt>うめしゅ</rt></ruby>などにする。",
+          "hyouki": [
+            "梅"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "いいにおい。",
+          "hyouki": [
+            "香り"
+          ]
+        },
+        {
+          "def": "そのものから<ruby><rb>感</rb><rt>かん</rt></ruby>じられる<ruby><rb>品</rb><rt>ひん</rt></ruby>の<ruby><rb>高</rb><rt>たか</rt></ruby>さ。",
+          "hyouki": [
+            "香り"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。",
+          "hyouki": [
+            "人気"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>共通</rb><rt>きょうつう</rt></ruby>する<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>によって<ruby><rb>分</rb><rt>わ</rt></ruby>けたもの。",
+          "hyouki": [
+            "種類"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>液体</rb><rt>えきたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>空気</rb><rt>くうき</rt></ruby>が<ruby><rb>入</rb><rt>はい</rt></ruby>って、<ruby><rb>丸</rb><rt>まる</rt></ruby>くふくれた<ruby><rb>玉</rb><rt>たま</rt></ruby>。あぶく。",
+          "hyouki": [
+            "泡"
+          ]
+        },
+        {
+          "def": "（<ruby><rb>口</rb><rt>くち</rt></ruby>から<ruby><rb>出</rb><rt>で</rt></ruby>る）つば。",
+          "hyouki": [
+            "泡"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "ちがっていること。",
+          "hyouki": [
+            "違い"
+          ]
+        },
+        {
+          "def": "まちがい。",
+          "hyouki": [
+            "違い"
+          ]
+        },
+        {
+          "def": "<ruby><rb>差</rb><rt>さ</rt></ruby>。",
+          "hyouki": [
+            "違い"
+          ]
+        }
+      ]
+    }
+  }
+}

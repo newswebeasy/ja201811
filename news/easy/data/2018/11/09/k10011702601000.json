@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011702601000",
+  "news_prearranged_time": "2018-11-09 11:30:00",
+  "title": "日本のユニセフ「スポーツをしている子どもを守ろう」",
+  "title_with_ruby": "<ruby>日本<rt>にっぽん</rt></ruby>のユニセフ「スポーツをしている<ruby>子<rt>こ</rt></ruby>どもを<ruby>守<rt>まも</rt></ruby>ろう」",
+  "outline_with_ruby": "<p><ruby>日本<rt>にっぽん</rt></ruby>では、スポーツの<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>選手<rt>せんしゅ</rt></ruby></a>が<a href='javascript:void(0)' class='dicWin' id='id-0003'>コーチ</a>などから<a href='javascript:void(0)' class='dicWin' id='id-0004'><ruby>暴力<rt>ぼうりょく</rt></ruby></a>やパワーハラスメントを<ruby>受<rt>う</rt></ruby>ける<ruby>問題<rt>もんだい</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>きました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20181108/../20181108/K10011702601_1811080745_1811080748_01_03.jpg",
+  "news_web_movie_uri": "k10011702601_201811080745_201811080748.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011702601000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011702601000/k10011702601000.html"
+}

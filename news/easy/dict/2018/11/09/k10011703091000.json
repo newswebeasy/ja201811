@@ -1,0 +1,182 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>共和国</rb><rt>きょうわこく</rt></ruby>で、その<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "大統領"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>自分</rb><rt>じぶん</rt></ruby>のほうが<ruby><rb>正</rb><rt>ただ</rt></ruby>しいと<ruby><rb>言</rb><rt>い</rt></ruby>い<ruby><rb>合</rb><rt>あ</rt></ruby>う。<ruby><rb>口</rb><rt>くち</rt></ruby>げんかをする。",
+          "hyouki": [
+            "言い争う"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などの<ruby><rb>記事</rb><rt>きじ</rt></ruby>を、<ruby><rb>取材</rb><rt>しゅざい</rt></ruby>したり<ruby><rb>書</rb><rt>か</rt></ruby>いたりする<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "記者"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "アメリカのワシントンにある<ruby><rb>大統領</rb><rt>だいとうりょう</rt></ruby>の<ruby><rb>官邸</rb><rt>かんてい</rt></ruby>。ここで<ruby><rb>大統領</rb><rt>だいとうりょう</rt></ruby>が<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>う。<ruby><rb>建物</rb><rt>たてもの</rt></ruby>が<ruby><rb>白</rb><rt>しろ</rt></ruby>いのでこう<ruby><rb>呼</rb><rt>よ</rt></ruby>ばれる。",
+          "hyouki": [
+            "ホワイトハウス"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。",
+          "hyouki": [
+            "政府"
+          ]
+        },
+        {
+          "def": "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。",
+          "hyouki": [
+            "政府"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "ある<ruby><rb>役目</rb><rt>やくめ</rt></ruby>につく<ruby><rb>人</rb><rt>ひと</rt></ruby>を、<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>から<ruby><rb>選</rb><rt>えら</rt></ruby>ぶこと。",
+          "hyouki": [
+            "選挙"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。また、<ruby><rb>知</rb><rt>し</rt></ruby>らせるために<ruby><rb>書</rb><rt>か</rt></ruby>かれたものなど。コマーシャル。",
+          "hyouki": [
+            "広告"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>自分</rb><rt>じぶん</rt></ruby>のほうが<ruby><rb>正</rb><rt>ただ</rt></ruby>しいと<ruby><rb>言</rb><rt>い</rt></ruby>い<ruby><rb>合</rb><rt>あ</rt></ruby>う。<ruby><rb>口</rb><rt>くち</rt></ruby>げんかをする。",
+          "hyouki": [
+            "言い争う"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>録音</rb><rt>ろくおん</rt></ruby>や<ruby><rb>放送</rb><rt>ほうそう</rt></ruby>をするとき、<ruby><rb>声</rb><rt>こえ</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>を<ruby><rb>電気</rb><rt>でんき</rt></ruby>の<ruby><rb>流</rb><rt>なが</rt></ruby>れに<ruby><rb>変</rb><rt>か</rt></ruby>える<ruby><rb>器械</rb><rt>きかい</rt></ruby>。マイク。マイクロフォン。",
+          "hyouki": [
+            "マイクロホン"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "わきへ<ruby><rb>寄</rb><rt>よ</rt></ruby>る。さける。",
+          "hyouki": [
+            "よける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐ。のがれる。",
+          "hyouki": [
+            "よける"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>長</rb><rt>なが</rt></ruby>くする。",
+          "hyouki": [
+            "伸ばす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>んだものをまっすぐにする。また、<ruby><rb>広</rb><rt>ひろ</rt></ruby>げる。",
+          "hyouki": [
+            "伸ばす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>曲</rb><rt>ま</rt></ruby>がったものをまっすぐにする。",
+          "hyouki": [
+            "伸ばす"
+          ]
+        },
+        {
+          "def": "もっとよくする。",
+          "hyouki": [
+            "伸ばす"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "とがめないで<ruby><rb>済</rb><rt>す</rt></ruby>ませる。",
+          "hyouki": [
+            "許す"
+          ]
+        },
+        {
+          "def": "してもよいと<ruby><rb>認</rb><rt>みと</rt></ruby>める。",
+          "hyouki": [
+            "許す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>聞</rb><rt>き</rt></ruby>き<ruby><rb>入</rb><rt>い</rt></ruby>れる。<ruby><rb>受</rb><rt>う</rt></ruby>け<ruby><rb>入</rb><rt>い</rt></ruby>れる。",
+          "hyouki": [
+            "許す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>気</rb><rt>き</rt></ruby>をゆるめる。<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>解</rb><rt>と</rt></ruby>ける。",
+          "hyouki": [
+            "許す"
+          ]
+        }
+      ],
+      "0012": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0013": [
+        {
+          "def": "やられたことに<ruby><rb>対</rb><rt>たい</rt></ruby>して、やり<ruby><rb>返</rb><rt>かえ</rt></ruby>すこと。<ruby><rb>復</rb><rt>ふく</rt></ruby>しゅう。",
+          "hyouki": [
+            "仕返し"
+          ]
+        }
+      ],
+      "0014": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>治</rb><rt>おさ</rt></ruby>める<ruby><rb>権利</rb><rt>けんり</rt></ruby>が<ruby><rb>国民</rb><rt>こくみん</rt></ruby>にあり、<ruby><rb>国民全体</rb><rt>こくみんぜんたい</rt></ruby>の<ruby><rb>幸</rb><rt>しあわ</rt></ruby>せや<ruby><rb>利益</rb><rt>りえき</rt></ruby>を<ruby><rb>考</rb><rt>かんが</rt></ruby>えて<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>治</rb><rt>おさ</rt></ruby>めようとする<ruby><rb>考</rb><rt>かんが</rt></ruby>え<ruby><rb>方</rb><rt>かた</rt></ruby>。デモクラシー。",
+          "hyouki": [
+            "民主主義"
+          ]
+        }
+      ],
+      "0015": [
+        {
+          "def": "おそれさせる。<ruby><rb>危</rb><rt>あぶ</rt></ruby>なくする。",
+          "hyouki": [
+            "脅かす"
+          ]
+        }
+      ]
+    }
+  }
+}

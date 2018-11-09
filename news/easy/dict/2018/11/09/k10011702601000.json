@@ -1,0 +1,140 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>国連</rb><rt>こくれん</rt></ruby>の<ruby><rb>機関</rb><rt>きかん</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つで、<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>の<ruby><rb>不幸</rb><rt>ふこう</rt></ruby>な<ruby><rb>子</rb><rt>こ</rt></ruby>どもたちを<ruby><rb>助</rb><rt>たす</rt></ruby>ける<ruby><rb>活動</rb><rt>かつどう</rt></ruby>をする。",
+          "hyouki": [
+            "UNICEF"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>害</rb><rt>がい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けないように、<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐ。",
+          "hyouki": [
+            "守る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>めたとおりにする。",
+          "hyouki": [
+            "守る"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "選手"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "スポーツで、そのやり<ruby><rb>方</rb><rt>かた</rt></ruby>などを<ruby><rb>教</rb><rt>おし</rt></ruby>えること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "コーチ"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>力</rb><rt>ちから</rt></ruby>でする、<ruby><rb>乱暴</rb><rt>らんぼう</rt></ruby>な<ruby><rb>行</rb><rt>おこな</rt></ruby>い。",
+          "hyouki": [
+            "暴力"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>害</rb><rt>がい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けないように、<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐ。",
+          "hyouki": [
+            "守る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>めたとおりにする。",
+          "hyouki": [
+            "守る"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>教</rb><rt>おし</rt></ruby>え<ruby><rb>導</rb><rt>みちび</rt></ruby>くこと。",
+          "hyouki": [
+            "指導"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>団体</rb><rt>だんたい</rt></ruby>・<ruby><rb>組織</rb><rt>そしき</rt></ruby>などの<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>となるところ。",
+          "hyouki": [
+            "本部"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "ばらばらだったものを<ruby><rb>一</rb><rt>ひと</rt></ruby>つにする。",
+          "hyouki": [
+            "まとめる"
+          ]
+        },
+        {
+          "def": "うまく<ruby><rb>解決</rb><rt>かいけつ</rt></ruby>する。",
+          "hyouki": [
+            "まとめる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>一</rb><rt>ひと</rt></ruby>つのものとして、きちんと<ruby><rb>仕上</rb><rt>しあ</rt></ruby>げる。",
+          "hyouki": [
+            "まとめる"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "ものごとについて、<ruby><rb>正</rb><rt>ただ</rt></ruby>しくはっきり<ruby><rb>知</rb><rt>し</rt></ruby>っていること。また、<ruby><rb>知</rb><rt>し</rt></ruby>っている<ruby><rb>内容</rb><rt>ないよう</rt></ruby>。",
+          "hyouki": [
+            "知識"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "ちょっとしたことを<ruby><rb>教</rb><rt>おし</rt></ruby>えて<ruby><rb>助</rb><rt>たす</rt></ruby>けること。また、そのことば。<ruby><rb>助言</rb><rt>じょげん</rt></ruby>。",
+          "hyouki": [
+            "アドバイス"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "団体"
+          ]
+        },
+        {
+          "def": "<ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "団体"
+          ]
+        }
+      ],
+      "0012": [
+        {
+          "def": "<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>や<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をするときの、<ruby><rb>組</rb><rt>くみ</rt></ruby>や<ruby><rb>団体</rb><rt>だんたい</rt></ruby>。",
+          "hyouki": [
+            "チーム"
+          ]
+        }
+      ]
+    }
+  }
+}

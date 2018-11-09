@@ -1,0 +1,100 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "のどや<ruby><rb>気管</rb><rt>きかん</rt></ruby>がしげきされて、<ruby><rb>急</rb><rt>きゅう</rt></ruby>に<ruby><rb>激</rb><rt>はげ</rt></ruby>しく<ruby><rb>出</rb><rt>で</rt></ruby>る<ruby><rb>強</rb><rt>つよ</rt></ruby>い<ruby><rb>息</rb><rt>いき</rt></ruby>。",
+          "hyouki": [
+            "咳"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "しびれて、<ruby><rb>感</rb><rt>かん</rt></ruby>じがなくなること。",
+          "hyouki": [
+            "麻痺"
+          ]
+        },
+        {
+          "def": "はたらきがにぶること。",
+          "hyouki": [
+            "麻痺"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>日本脳炎</rb><rt>にほんのうえん</rt></ruby>やインフルエンザなどの<ruby><rb>病気</rb><rt>びょうき</rt></ruby>を<ruby><rb>起</rb><rt>お</rt></ruby>こす、ふつうの<ruby><rb>顕微鏡</rb><rt>けんびきょう</rt></ruby>では<ruby><rb>見</rb><rt>み</rt></ruby>えないような、<ruby><rb>非常</rb><rt>ひじょう</rt></ruby>に<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>。ビールス。",
+          "hyouki": [
+            "ウイルス"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>病気</rb><rt>びょうき</rt></ruby>やけがをよくする。",
+          "hyouki": [
+            "治す"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "ものごとを<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>する<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>をする<ruby><rb>施設</rb><rt>しせつ</rt></ruby>。",
+          "hyouki": [
+            "研究所"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>一</rb><rt>ひと</rt></ruby>つ、<ruby><rb>二</rb><rt>ふた</rt></ruby>つ、<ruby><rb>三</rb><rt>みっ</rt></ruby>つなどと<ruby><rb>数</rb><rt>かぞ</rt></ruby>えた<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>数量</rb><rt>すうりょう</rt></ruby>。すう。",
+          "hyouki": [
+            "数"
+          ]
+        },
+        {
+          "def": "いくつもあること。たくさん。",
+          "hyouki": [
+            "数"
+          ]
+        },
+        {
+          "def": "<ruby><rb>数</rb><rt>かぞ</rt></ruby>えあげる<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちのあるもの。なかま。",
+          "hyouki": [
+            "数"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>動</rb><rt>うご</rt></ruby>くようにする。",
+          "hyouki": [
+            "動かす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>位置</rb><rt>いち</rt></ruby>を<ruby><rb>変</rb><rt>か</rt></ruby>える。",
+          "hyouki": [
+            "動かす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>感動</rb><rt>かんどう</rt></ruby>させる。",
+          "hyouki": [
+            "動かす"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>子</rb><rt>こ</rt></ruby>どもの<ruby><rb>病気</rb><rt>びょうき</rt></ruby>を<ruby><rb>治</rb><rt>なお</rt></ruby>すことを<ruby><rb>専門</rb><rt>せんもん</rt></ruby>にする<ruby><rb>医学</rb><rt>いがく</rt></ruby>の<ruby><rb>分野</rb><rt>ぶんや</rt></ruby>。",
+          "hyouki": [
+            "小児科"
+          ]
+        }
+      ]
+    }
+  }
+}
