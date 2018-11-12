@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011703681000",
+  "news_prearranged_time": "2018-11-12 11:30:00",
+  "title": "インドの首都ニューデリー　空気が汚くて市民の健康が心配",
+  "title_with_ruby": "インドの<ruby>首都<rt>しゅと</rt></ruby>ニューデリー　<ruby>空気<rt>くうき</rt></ruby>が<ruby>汚<rt>きたな</rt></ruby>くて<ruby>市民<rt>しみん</rt></ruby>の<ruby>健康<rt>けんこう</rt></ruby>が<ruby>心配<rt>しんぱい</rt></ruby>",
+  "outline_with_ruby": "<p>インドの<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>首都<rt>しゅと</rt></ruby></a>ニューデリーでは、<ruby>空気<rt>くうき</rt></ruby>を<ruby>汚<rt>きたな</rt></ruby>くするＰＭ２．５という<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>物質<rt>ぶっしつ</rt></ruby></a>の<a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>濃度<rt>のうど</rt></ruby></a>が<ruby>高<rt>たか</rt></ruby>くなっています。",
+  "has_news_web_image": true,
+  "has_news_web_movie": false,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20181108/../20181108/K10011703681_1811081908_1811081913_01_02.jpg",
+  "news_web_movie_uri": "",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011703681000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011703681000/k10011703681000.html"
+}

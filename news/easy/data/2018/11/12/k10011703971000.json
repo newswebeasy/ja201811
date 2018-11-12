@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011703971000",
+  "news_prearranged_time": "2018-11-12 11:30:00",
+  "title": "東京オリンピック　会場の周りでドローンを使ってはいけない",
+  "title_with_ruby": "<ruby>東京<rt>とうきょう</rt></ruby>オリンピック　<ruby>会場<rt>かいじょう</rt></ruby>の<ruby>周<rt>まわ</rt></ruby>りでドローンを<ruby>使<rt>つか</rt></ruby>ってはいけない",
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>総理<rt>そうり</rt></ruby><ruby>大臣<rt>だいじん</rt></ruby></a>が<ruby>仕事<rt>しごと</rt></ruby>をするための<ruby>建物<rt>たてもの</rt></ruby>の<ruby>屋上<rt>おくじょう</rt></ruby>に３<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>、ドローンが<ruby>落<rt>お</rt></ruby>ちました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20181109/../20181109/K10011703971_1811090537_1811090538_01_03.jpg",
+  "news_web_movie_uri": "k10011703971_201811090537_201811090538.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011703971000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011703971000/k10011703971000.html"
+}

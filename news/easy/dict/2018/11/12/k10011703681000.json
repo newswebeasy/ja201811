@@ -1,0 +1,230 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "その<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>や<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になる<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>のある<ruby><rb>都市</rb><rt>とし</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>、アメリカのワシントンなど。<ruby><rb>首府</rb><rt>しゅふ</rt></ruby>。",
+          "hyouki": [
+            "首都"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>に<ruby><rb>悪</rb><rt>わる</rt></ruby>いところがなく、<ruby><rb>元気</rb><rt>げんき</rt></ruby>なようす。",
+          "hyouki": [
+            "健康"
+          ]
+        },
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>心</rb><rt>こころ</rt></ruby>のぐあい。",
+          "hyouki": [
+            "健康"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>見</rb><rt>み</rt></ruby>たりさわったりすることができるもの。<ruby><rb>品物</rb><rt>しなもの</rt></ruby>。",
+          "hyouki": [
+            "物質"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>液体</rb><rt>えきたい</rt></ruby>や<ruby><rb>気体</rb><rt>きたい</rt></ruby>のこい、うすいの<ruby><rb>度合</rb><rt>どあ</rt></ruby>い。",
+          "hyouki": [
+            "濃度"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>国際連合</rb><rt>こくさいれんごう</rt></ruby>の<ruby><rb>機関</rb><rt>きかん</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>保健衛生問題</rb><rt>ほけんえいせいもんだい</rt></ruby>について、<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>が<ruby><rb>協力</rb><rt>きょうりょく</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>う<ruby><rb>機関</rb><rt>きかん</rt></ruby>。",
+          "hyouki": [
+            "WHO"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "ものごとを<ruby><rb>比</rb><rt>くら</rt></ruby>べるとき、そのもととなるよりどころ。<ruby><rb>標準</rb><rt>ひょうじゅん</rt></ruby>。",
+          "hyouki": [
+            "基準"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>激</rb><rt>はげ</rt></ruby>しいせきが<ruby><rb>出</rb><rt>で</rt></ruby>て、<ruby><rb>息</rb><rt>いき</rt></ruby>が<ruby><rb>苦</rb><rt>くる</rt></ruby>しくなる<ruby><rb>発作</rb><rt>ほっさ</rt></ruby>が<ruby><rb>起</rb><rt>お</rt></ruby>きる<ruby><rb>病気</rb><rt>びょうき</rt></ruby>。",
+          "hyouki": [
+            "喘息"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>気管支</rb><rt>きかんし</rt></ruby>がはれて、<ruby><rb>熱</rb><rt>ねつ</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>す<ruby><rb>病気</rb><rt>びょうき</rt></ruby>。",
+          "hyouki": [
+            "気管支炎"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "お<ruby><rb>面</rb><rt>めん</rt></ruby>。<ruby><rb>仮面</rb><rt>かめん</rt></ruby>。",
+          "hyouki": [
+            "マスク"
+          ]
+        },
+        {
+          "def": "ほこりなどを<ruby><rb>吸</rb><rt>す</rt></ruby>わないように、<ruby><rb>口</rb><rt>くち</rt></ruby>や<ruby><rb>鼻</rb><rt>はな</rt></ruby>をおおう<ruby><rb>布</rb><rt>ぬの</rt></ruby>。",
+          "hyouki": [
+            "マスク"
+          ]
+        },
+        {
+          "def": "ガスなどを<ruby><rb>吸</rb><rt>す</rt></ruby>わないように、<ruby><rb>消防士</rb><rt>しょうぼうし</rt></ruby>などが<ruby><rb>顔</rb><rt>かお</rt></ruby>につけるお<ruby><rb>面</rb><rt>めん</rt></ruby>。<ruby><rb>防毒面</rb><rt>ぼうどくめん</rt></ruby>。",
+          "hyouki": [
+            "マスク"
+          ]
+        },
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、キャッチャーや<ruby><rb>球審</rb><rt>きゅうしん</rt></ruby>がかぶるもの。",
+          "hyouki": [
+            "マスク"
+          ]
+        },
+        {
+          "def": "<ruby><rb>顔</rb><rt>かお</rt></ruby>。<ruby><rb>顔</rb><rt>かお</rt></ruby>だち。",
+          "hyouki": [
+            "マスク"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>糸</rb><rt>いと</rt></ruby>で<ruby><rb>織</rb><rt>お</rt></ruby>った<ruby><rb>物</rb><rt>もの</rt></ruby>。<ruby><rb>織物</rb><rt>おりもの</rt></ruby>。きれ。",
+          "hyouki": [
+            "布"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>長</rb><rt>なが</rt></ruby>いものを、はしから<ruby><rb>丸</rb><rt>まる</rt></ruby>める。",
+          "hyouki": [
+            "巻く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>長</rb><rt>なが</rt></ruby>いものを<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りにからみつける。",
+          "hyouki": [
+            "巻く"
+          ]
+        },
+        {
+          "def": "ぐるぐるとまるく<ruby><rb>動</rb><rt>うご</rt></ruby>く。また、<ruby><rb>動</rb><rt>うご</rt></ruby>かす。",
+          "hyouki": [
+            "巻く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>回</rb><rt>まわ</rt></ruby>してしめる。",
+          "hyouki": [
+            "巻く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>囲</rb><rt>かこ</rt></ruby>む。",
+          "hyouki": [
+            "巻く"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "<ruby><rb>神</rb><rt>かみ</rt></ruby>をまつる<ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>や<ruby><rb>儀式</rb><rt>ぎしき</rt></ruby>。<ruby><rb>供</rb><rt>そな</rt></ruby>え<ruby><rb>物</rb><rt>もの</rt></ruby>をし、<ruby><rb>笛</rb><rt>ふえ</rt></ruby>をふいたり<ruby><rb>太鼓</rb><rt>たいこ</rt></ruby>を<ruby><rb>鳴</rb><rt>な</rt></ruby>らしたり、おみこしをかついだりする。<ruby><rb>祭礼</rb><rt>さいれい</rt></ruby>。",
+          "hyouki": [
+            "祭り"
+          ]
+        },
+        {
+          "def": "にぎやかに<ruby><rb>行</rb><rt>おこな</rt></ruby>う、もよおし。",
+          "hyouki": [
+            "祭り"
+          ]
+        }
+      ],
+      "0012": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。",
+          "hyouki": [
+            "政府"
+          ]
+        },
+        {
+          "def": "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。",
+          "hyouki": [
+            "政府"
+          ]
+        }
+      ],
+      "0013": [
+        {
+          "def": "いろいろな<ruby><rb>火薬</rb><rt>かやく</rt></ruby>を<ruby><rb>混</rb><rt>ま</rt></ruby>ぜて<ruby><rb>作</rb><rt>つく</rt></ruby>ったものに<ruby><rb>火</rb><rt>ひ</rt></ruby>をつけ、はじけて<ruby><rb>出</rb><rt>で</rt></ruby>る<ruby><rb>光</rb><rt>ひかり</rt></ruby>の<ruby><rb>色</rb><rt>いろ</rt></ruby>や<ruby><rb>形</rb><rt>かたち</rt></ruby>の<ruby><rb>美</rb><rt>うつく</rt></ruby>しさなどを<ruby><rb>楽</rb><rt>たの</rt></ruby>しむもの。",
+          "hyouki": [
+            "花火"
+          ]
+        }
+      ],
+      "0014": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>燃</rb><rt>も</rt></ruby>えるときに<ruby><rb>出</rb><rt>で</rt></ruby>る<ruby><rb>気体</rb><rt>きたい</rt></ruby>。けむ。けぶり。",
+          "hyouki": [
+            "煙"
+          ]
+        },
+        {
+          "def": "けむりのように<ruby><rb>見</rb><rt>み</rt></ruby>えるもの。",
+          "hyouki": [
+            "煙"
+          ]
+        }
+      ],
+      "0015": [
+        {
+          "def": "<ruby><rb>建物</rb><rt>たてもの</rt></ruby>・<ruby><rb>道路</rb><rt>どうろ</rt></ruby>・<ruby><rb>橋</rb><rt>はし</rt></ruby>などを<ruby><rb>造</rb><rt>つく</rt></ruby>ったり、<ruby><rb>直</rb><rt>なお</rt></ruby>したりすること。また、その<ruby><rb>仕事</rb><rt>しごと</rt></ruby>。",
+          "hyouki": [
+            "工事"
+          ]
+        }
+      ],
+      "0016": [
+        {
+          "def": "<ruby><rb>大昔</rb><rt>おおむかし</rt></ruby>の<ruby><rb>植物</rb><rt>しょくぶつ</rt></ruby>が<ruby><rb>地下</rb><rt>ちか</rt></ruby>にうずもれて、<ruby><rb>長</rb><rt>なが</rt></ruby>い<ruby><rb>間</rb><rt>あいだ</rt></ruby>に<ruby><rb>固</rb><rt>かた</rt></ruby>まって、<ruby><rb>黒</rb><rt>くろ</rt></ruby>い<ruby><rb>石</rb><rt>いし</rt></ruby>のようになったもの。<ruby><rb>燃料</rb><rt>ねんりょう</rt></ruby>や<ruby><rb>化学工業</rb><rt>かがくこうぎょう</rt></ruby>の<ruby><rb>原料</rb><rt>げんりょう</rt></ruby>などに<ruby><rb>使</rb><rt>つか</rt></ruby>う。",
+          "hyouki": [
+            "石炭"
+          ]
+        }
+      ],
+      "0017": [
+        {
+          "def": "<ruby><rb>火</rb><rt>ひ</rt></ruby>の<ruby><rb>燃</rb><rt>も</rt></ruby>える<ruby><rb>勢</rb><rt>いきお</rt></ruby>い。<ruby><rb>火</rb><rt>ひ</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>。",
+          "hyouki": [
+            "火力"
+          ]
+        }
+      ],
+      "0018": [
+        {
+          "def": "<ruby><rb>電気</rb><rt>でんき</rt></ruby>を<ruby><rb>起</rb><rt>お</rt></ruby>こす<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "発電所"
+          ]
+        }
+      ]
+    }
+  }
+}

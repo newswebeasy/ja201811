@@ -1,0 +1,38 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>気象</rb><rt>きしょう</rt></ruby>や<ruby><rb>地震</rb><rt>じしん</rt></ruby>の<ruby><rb>観測</rb><rt>かんそく</rt></ruby>をする<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>天気予報</rb><rt>てんきよほう</rt></ruby>の<ruby><rb>発表</rb><rt>はっぴょう</rt></ruby>もする。",
+          "hyouki": [
+            "気象台"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>大気</rb><rt>たいき</rt></ruby>（<ruby><rb>空気</rb><rt>くうき</rt></ruby>）の<ruby><rb>温度</rb><rt>おんど</rt></ruby>。",
+          "hyouki": [
+            "気温"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "アジア<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>の<ruby><rb>東</rb><rt>ひがし</rt></ruby>と<ruby><rb>日本列島</rb><rt>にほんれっとう</rt></ruby>にはさまれた<ruby><rb>海</rb><rt>うみ</rt></ruby>。",
+          "hyouki": [
+            "日本海"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "アジアの<ruby><rb>北東部</rb><rt>ほくとうぶ</rt></ruby>に<ruby><rb>面</rb><rt>めん</rt></ruby>し、カムチャツカ<ruby><rb>半島</rb><rt>はんとう</rt></ruby>・<ruby><rb>千島列島</rb><rt>ちしまれっとう</rt></ruby>に<ruby><rb>囲</rb><rt>かこ</rt></ruby>まれた<ruby><rb>海</rb><rt>うみ</rt></ruby>。サケ・カニ・マスのよい<ruby><rb>漁場</rb><rt>ぎょじょう</rt></ruby>である。",
+          "hyouki": [
+            "オホーツク海"
+          ]
+        }
+      ]
+    }
+  }
+}
