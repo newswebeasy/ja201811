@@ -1,0 +1,204 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "あることに、<ruby><rb>特</rb><rt>とく</rt></ruby>にくわしい<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "博士"
+          ]
+        },
+        {
+          "def": "<ruby><rb>学問</rb><rt>がくもん</rt></ruby>にすぐれた<ruby><rb>人</rb><rt>ひと</rt></ruby>にあたえられる<ruby><rb>呼</rb><rt>よ</rt></ruby>び<ruby><rb>名</rb><rt>な</rt></ruby>。<ruby><rb>正式</rb><rt>せいしき</rt></ruby>には「はくし」という。",
+          "hyouki": [
+            "博士"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>足</rb><rt>あし</rt></ruby>の<ruby><rb>不自由</rb><rt>ふじゆう</rt></ruby>な<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>病気</rb><rt>びょうき</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>などが、<ruby><rb>腰</rb><rt>こし</rt></ruby>かけたまま<ruby><rb>移動</rb><rt>いどう</rt></ruby>できるように<ruby><rb>車</rb><rt>くるま</rt></ruby>をつけた、いす。",
+          "hyouki": [
+            "車椅子"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>買</rb><rt>か</rt></ruby>い<ruby><rb>手</rb><rt>て</rt></ruby>に<ruby><rb>競争</rb><rt>きょうそう</rt></ruby>で<ruby><rb>値段</rb><rt>ねだん</rt></ruby>をつけさせ、いちばん<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>値段</rb><rt>ねだん</rt></ruby>をつけた<ruby><rb>人</rb><rt>ひと</rt></ruby>に、その<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>売</rb><rt>う</rt></ruby>る<ruby><rb>方法</rb><rt>ほうほう</rt></ruby>。<ruby><rb>競売</rb><rt>きょうばい</rt></ruby>。オークション。せり。",
+          "hyouki": [
+            "競り売り"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>・<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>・<ruby><rb>星</rb><rt>ほし</rt></ruby>などのある、<ruby><rb>果</rb><rt>は</rt></ruby>てしなく<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>空間</rb><rt>くうかん</rt></ruby>のこと。<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>は<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>を<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>にして<ruby><rb>銀河系宇宙</rb><rt>ぎんがけいうちゅう</rt></ruby>にあり、この<ruby><rb>銀河系宇宙</rb><rt>ぎんがけいうちゅう</rt></ruby>のようなものがたくさん<ruby><rb>集</rb><rt>あつ</rt></ruby>まって<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>っている。",
+          "hyouki": [
+            "宇宙"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>が<ruby><rb>買</rb><rt>か</rt></ruby>われる。",
+          "hyouki": [
+            "売れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>られる。",
+          "hyouki": [
+            "売れる"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "ほかと<ruby><rb>区別</rb><rt>くべつ</rt></ruby>するためにつけるもの。",
+          "hyouki": [
+            "印"
+          ]
+        },
+        {
+          "def": "<ruby><rb>証拠</rb><rt>しょうこ</rt></ruby>。",
+          "hyouki": [
+            "印"
+          ]
+        },
+        {
+          "def": "<ruby><rb>気持</rb><rt>きも</rt></ruby>ちを<ruby><rb>表</rb><rt>あらわ</rt></ruby>したもの。",
+          "hyouki": [
+            "印"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>が、はなれないようにする。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "しるしを<ruby><rb>残</rb><rt>のこ</rt></ruby>す。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>書</rb><rt>か</rt></ruby>きこむ。しるす。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>加</rb><rt>くわ</rt></ruby>える。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "そっとあとについて<ruby><rb>行</rb><rt>い</rt></ruby>く。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "ものごとを<ruby><rb>収</rb><rt>おさ</rt></ruby>める。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>を<ruby><rb>向</rb><rt>む</rt></ruby>ける。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>値段</rb><rt>ねだん</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "そばに<ruby><rb>付</rb><rt>つ</rt></ruby>きそわせる。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "…し<ruby><rb>慣</rb><rt>な</rt></ruby>れている。",
+          "hyouki": [
+            "付ける"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "ためになること。<ruby><rb>役</rb><rt>やく</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>つこと。",
+          "hyouki": [
+            "利益"
+          ]
+        },
+        {
+          "def": "もうけ。<ruby><rb>得</rb><rt>とく</rt></ruby>。",
+          "hyouki": [
+            "利益"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>力</rb><rt>ちから</rt></ruby>をそえて<ruby><rb>助</rb><rt>たす</rt></ruby>けること。",
+          "hyouki": [
+            "支援"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "団体"
+          ]
+        },
+        {
+          "def": "<ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "団体"
+          ]
+        }
+      ]
+    }
+  }
+}

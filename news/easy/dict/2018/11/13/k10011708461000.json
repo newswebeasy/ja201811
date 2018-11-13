@@ -1,0 +1,76 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "選手"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>九人</rb><rt>くにん</rt></ruby>ずつの<ruby><rb>二</rb><rt>に</rt></ruby>チームが、たがいにバットでボールを<ruby><rb>打</rb><rt>う</rt></ruby>ってせめ<ruby><rb>合</rb><rt>あ</rt></ruby>い、<ruby><rb>点</rb><rt>てん</rt></ruby>を<ruby><rb>争</rb><rt>あらそ</rt></ruby>う<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。ベースボール。",
+          "hyouki": [
+            "野球"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などの<ruby><rb>記事</rb><rt>きじ</rt></ruby>を、<ruby><rb>取材</rb><rt>しゅざい</rt></ruby>したり<ruby><rb>書</rb><rt>か</rt></ruby>いたりする<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "記者"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>新</rb><rt>あたら</rt></ruby>しく、<ruby><rb>仲間</rb><rt>なかま</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>ってきた<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>新入</rb><rt>しんい</rt></ruby>り。",
+          "hyouki": [
+            "新人"
+          ]
+        },
+        {
+          "def": "ある<ruby><rb>分野</rb><rt>ぶんや</rt></ruby>で<ruby><rb>新</rb><rt>あたら</rt></ruby>しく<ruby><rb>知</rb><rt>し</rt></ruby>られるようになった<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "新人"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "めざましく<ruby><rb>働</rb><rt>はたら</rt></ruby>くこと。",
+          "hyouki": [
+            "活躍"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、バッターにボールを<ruby><rb>投</rb><rt>な</rt></ruby>げる<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>投手</rb><rt>とうしゅ</rt></ruby>。",
+          "hyouki": [
+            "ピッチャー"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、ボールを<ruby><rb>打</rb><rt>う</rt></ruby>つ<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>打者</rb><rt>だしゃ</rt></ruby>。",
+          "hyouki": [
+            "バッター"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、<ruby><rb>打</rb><rt>う</rt></ruby>った<ruby><rb>球</rb><rt>たま</rt></ruby>が<ruby><rb>外野</rb><rt>がいや</rt></ruby>のスタンドに<ruby><rb>入</rb><rt>はい</rt></ruby>ったりして、<ruby><rb>打者</rb><rt>だしゃ</rt></ruby>が<ruby><rb>一気</rb><rt>いっき</rt></ruby>に<ruby><rb>本塁</rb><rt>ほんるい</rt></ruby>まで<ruby><rb>帰</rb><rt>かえ</rt></ruby>ることのできるヒット。ホーマー。<ruby><rb>本塁打</rb><rt>ほんるいだ</rt></ruby>。",
+          "hyouki": [
+            "ホームラン"
+          ]
+        }
+      ]
+    }
+  }
+}
