@@ -1,0 +1,50 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>頭</rb><rt>あたま</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にあって、<ruby><rb>考</rb><rt>かんが</rt></ruby>えたり<ruby><rb>体</rb><rt>からだ</rt></ruby>を<ruby><rb>動</rb><rt>うご</rt></ruby>かしたりするはたらきを<ruby><rb>受</rb><rt>う</rt></ruby>け<ruby><rb>持</rb><rt>も</rt></ruby>つところ。",
+          "hyouki": [
+            "脳"
+          ]
+        },
+        {
+          "def": "<ruby><rb>頭</rb><rt>あたま</rt></ruby>のはたらき。",
+          "hyouki": [
+            "脳"
+          ]
+        },
+        {
+          "def": "<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>となる<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "脳"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>悪</rb><rt>わる</rt></ruby>いところがないかを<ruby><rb>調</rb><rt>しら</rt></ruby>べること。",
+          "hyouki": [
+            "検査"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>を<ruby><rb>血液</rb><rt>けつえき</rt></ruby>が<ruby><rb>流</rb><rt>なが</rt></ruby>れる<ruby><rb>管</rb><rt>くだ</rt></ruby>。<ruby><rb>動脈</rb><rt>どうみゃく</rt></ruby>・<ruby><rb>静脈</rb><rt>じょうみゃく</rt></ruby>・<ruby><rb>毛細血管</rb><rt>もうさいけっかん</rt></ruby>がある。",
+          "hyouki": [
+            "血管"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。",
+          "hyouki": [
+            "可能性"
+          ]
+        }
+      ]
+    }
+  }
+}

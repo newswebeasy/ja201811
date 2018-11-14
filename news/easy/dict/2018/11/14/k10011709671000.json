@@ -1,0 +1,146 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "みんなのあこがれになっている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>人気者</rb><rt>にんきもの</rt></ruby>。",
+          "hyouki": [
+            "アイドル"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>原子核分裂</rb><rt>げんしかくぶんれつ</rt></ruby>によって<ruby><rb>起</rb><rt>お</rt></ruby>こる、ものすごい<ruby><rb>力</rb><rt>ちから</rt></ruby>と<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>熱</rb><rt>ねつ</rt></ruby>を<ruby><rb>利用</rb><rt>りよう</rt></ruby>した<ruby><rb>爆弾</rb><rt>ばくだん</rt></ruby>。<ruby><rb>一度</rb><rt>いちど</rt></ruby>に<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>殺</rb><rt>ころ</rt></ruby>す。<ruby><rb>原爆</rb><rt>げんばく</rt></ruby>。",
+          "hyouki": [
+            "原子爆弾"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>広</rb><rt>ひろ</rt></ruby>げた<ruby><rb>形</rb><rt>かたち</rt></ruby>が<ruby><rb>T</rb><rt>ティー</rt></ruby>の<ruby><rb>字</rb><rt>じ</rt></ruby>に<ruby><rb>似</rb><rt>に</rt></ruby>た、<ruby><rb>丸首</rb><rt>まるくび</rt></ruby>のシャツ。",
+          "hyouki": [
+            "Tシャツ"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。",
+          "hyouki": [
+            "人気"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。",
+          "hyouki": [
+            "グループ"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>成績</rb><rt>せいせき</rt></ruby>などの<ruby><rb>順位</rb><rt>じゅんい</rt></ruby>。<ruby><rb>等級</rb><rt>とうきゅう</rt></ruby>。",
+          "hyouki": [
+            "ランキング"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>損害</rb><rt>そんがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。また、<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>害</rb><rt>がい</rt></ruby>。",
+          "hyouki": [
+            "被害"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "（<ruby><rb>思</rb><rt>おも</rt></ruby>いがけないものごとに）たまたま<ruby><rb>出</rb><rt>で</rt></ruby>あう。",
+          "hyouki": [
+            "遭う"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "（<ruby><rb>相手</rb><rt>あいて</rt></ruby>に）けがをさせる。",
+          "hyouki": [
+            "傷つける"
+          ]
+        },
+        {
+          "def": "（<ruby><rb>物</rb><rt>もの</rt></ruby>に）<ruby><rb>傷</rb><rt>きず</rt></ruby>をつける。",
+          "hyouki": [
+            "傷つける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>のめいよや、<ruby><rb>気持</rb><rt>きも</rt></ruby>ちに<ruby><rb>傷</rb><rt>きず</rt></ruby>をつける。",
+          "hyouki": [
+            "傷つける"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>第一次世界大戦後</rb><rt>だいいちじせかいたいせんご</rt></ruby>にドイツでできた<ruby><rb>政党</rb><rt>せいとう</rt></ruby>。<ruby><rb>党首</rb><rt>とうしゅ</rt></ruby>ヒトラーの<ruby><rb>独裁</rb><rt>どくさい</rt></ruby>のもと、<ruby><rb>第二次世界大戦</rb><rt>だいにじせかいたいせん</rt></ruby>を<ruby><rb>引</rb><rt>ひ</rt></ruby>き<ruby><rb>起</rb><rt>お</rt></ruby>こしたが、<ruby><rb>連合国</rb><rt>れんごうこく</rt></ruby>に<ruby><rb>負</rb><rt>ま</rt></ruby>けた。ナチ。",
+          "hyouki": [
+            "ナチス"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "しるし。<ruby><rb>記号</rb><rt>きごう</rt></ruby>。また、しるしをつけること。",
+          "hyouki": [
+            "マーク"
+          ]
+        },
+        {
+          "def": "<ruby><rb>特</rb><rt>とく</rt></ruby>に<ruby><rb>目</rb><rt>め</rt></ruby>をつけて<ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>すること。",
+          "hyouki": [
+            "マーク"
+          ]
+        },
+        {
+          "def": "<ruby><rb>記録</rb><rt>きろく</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>ること。",
+          "hyouki": [
+            "マーク"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "つながり。つながりになったもののひとまとまり。",
+          "hyouki": [
+            "系"
+          ]
+        },
+        {
+          "def": "<ruby><rb>血筋</rb><rt>ちすじ</rt></ruby>。",
+          "hyouki": [
+            "系"
+          ]
+        }
+      ],
+      "0012": [
+        {
+          "def": "<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "団体"
+          ]
+        },
+        {
+          "def": "<ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "団体"
+          ]
+        }
+      ]
+    }
+  }
+}
