@@ -1,0 +1,82 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くする。",
+          "hyouki": [
+            "増やす"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。",
+          "hyouki": [
+            "政府"
+          ]
+        },
+        {
+          "def": "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。",
+          "hyouki": [
+            "政府"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>っていない<ruby><rb>政党</rb><rt>せいとう</rt></ruby>。",
+          "hyouki": [
+            "野党"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>外国</rb><rt>がいこく</rt></ruby>から<ruby><rb>来</rb><rt>き</rt></ruby>た<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>旅券</rb><rt>りょけん</rt></ruby>を<ruby><rb>調</rb><rt>しら</rt></ruby>べ、その<ruby><rb>国</rb><rt>くに</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>ることを<ruby><rb>認</rb><rt>みと</rt></ruby>める<ruby><rb>許可証</rb><rt>きょかしょう</rt></ruby>。<ruby><rb>査証</rb><rt>さしょう</rt></ruby>。",
+          "hyouki": [
+            "ビザ"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>共通</rb><rt>きょうつう</rt></ruby>する<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>によって<ruby><rb>分</rb><rt>わ</rt></ruby>けたもの。",
+          "hyouki": [
+            "種類"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>年</rb><rt>とし</rt></ruby>をとった<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>老人</rb><rt>ろうじん</rt></ruby>。",
+          "hyouki": [
+            "年寄り"
+          ]
+        },
+        {
+          "def": "<ruby><rb>力士</rb><rt>りきし</rt></ruby>を<ruby><rb>引退</rb><rt>いんたい</rt></ruby>して、<ruby><rb>日本</rb><rt>にほん</rt></ruby><ruby><rb>相撲</rb><rt>すもう</rt></ruby><ruby><rb>協会</rb><rt>きょうかい</rt></ruby>の<ruby><rb>役員</rb><rt>やくいん</rt></ruby>になった<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "年寄り"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>病人</rb><rt>びょうにん</rt></ruby>などを<ruby><rb>介抱</rb><rt>かいほう</rt></ruby>し、<ruby><rb>世話</rb><rt>せわ</rt></ruby>をすること。",
+          "hyouki": [
+            "介護"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くする。",
+          "hyouki": [
+            "増やす"
+          ]
+        }
+      ]
+    }
+  }
+}

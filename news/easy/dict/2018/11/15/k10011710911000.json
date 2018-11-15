@@ -1,0 +1,212 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "おだやかで、<ruby><rb>無事</rb><rt>ぶじ</rt></ruby>なこと。",
+          "hyouki": [
+            "平和"
+          ]
+        },
+        {
+          "def": "<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>がなく、<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>が<ruby><rb>無事</rb><rt>ぶじ</rt></ruby>に<ruby><rb>治</rb><rt>おさ</rt></ruby>まっていること。",
+          "hyouki": [
+            "平和"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>と<ruby><rb>国</rb><rt>くに</rt></ruby>との<ruby><rb>間</rb><rt>あいだ</rt></ruby>で<ruby><rb>決</rb><rt>き</rt></ruby>め、<ruby><rb>文章</rb><rt>ぶんしょう</rt></ruby>に<ruby><rb>書</rb><rt>か</rt></ruby>いた<ruby><rb>約束</rb><rt>やくそく</rt></ruby>。",
+          "hyouki": [
+            "条約"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "くくる。つなぐ。しばる。",
+          "hyouki": [
+            "結ぶ"
+          ]
+        },
+        {
+          "def": "はなれているものや<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>をつなぐ。",
+          "hyouki": [
+            "結ぶ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>関係</rb><rt>かんけい</rt></ruby>をつける。",
+          "hyouki": [
+            "結ぶ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>約束</rb><rt>やくそく</rt></ruby>などを<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "結ぶ"
+          ]
+        },
+        {
+          "def": "かたく<ruby><rb>閉</rb><rt>と</rt></ruby>じる。",
+          "hyouki": [
+            "結ぶ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>生</rb><rt>しょう</rt></ruby>じる。<ruby><rb>生</rb><rt>う</rt></ruby>み<ruby><rb>出</rb><rt>だ</rt></ruby>す。",
+          "hyouki": [
+            "結ぶ"
+          ]
+        },
+        {
+          "def": "しめくくる。",
+          "hyouki": [
+            "結ぶ"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>話</rb><rt>はな</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>うこと。<ruby><rb>相談</rb><rt>そうだん</rt></ruby>。",
+          "hyouki": [
+            "話し合い"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>前</rb><rt>まえ</rt></ruby>のほうへ<ruby><rb>出</rb><rt>だ</rt></ruby>す。",
+          "hyouki": [
+            "進める"
+          ]
+        },
+        {
+          "def": "<ruby><rb>程度</rb><rt>ていど</rt></ruby>を<ruby><rb>上</rb><rt>あ</rt></ruby>げる。",
+          "hyouki": [
+            "進める"
+          ]
+        },
+        {
+          "def": "ものごとを、はかどらせる。",
+          "hyouki": [
+            "進める"
+          ]
+        },
+        {
+          "def": "<ruby><rb>時計</rb><rt>とけい</rt></ruby>の<ruby><rb>針</rb><rt>はり</rt></ruby>を<ruby><rb>早</rb><rt>はや</rt></ruby>める。",
+          "hyouki": [
+            "進める"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>内閣総理大臣</rb><rt>ないかくそうりだいじん</rt></ruby>のこと。<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>の<ruby><rb>最高責任者</rb><rt>さいこうせきにんしゃ</rt></ruby>で、<ruby><rb>国会議員</rb><rt>こっかいぎいん</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>から<ruby><rb>議員</rb><rt>ぎいん</rt></ruby>が<ruby><rb>選</rb><rt>えら</rt></ruby>び、<ruby><rb>天皇</rb><rt>てんのう</rt></ruby>が<ruby><rb>認</rb><rt>みと</rt></ruby>めて<ruby><rb>決</rb><rt>き</rt></ruby>まる。<ruby><rb>首相</rb><rt>しゅしょう</rt></ruby>。<ruby><rb>総理</rb><rt>そうり</rt></ruby>。",
+          "hyouki": [
+            "総理大臣"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>共和国</rb><rt>きょうわこく</rt></ruby>で、その<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "大統領"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>北海道</rb><rt>ほっかいどう</rt></ruby>の<ruby><rb>東</rb><rt>ひがし</rt></ruby>にある、<ruby><rb>国後</rb><rt>くなしり</rt></ruby>・<ruby><rb>択捉</rb><rt>えとろふ</rt></ruby>・<ruby><rb>歯舞</rb><rt>はぼまい</rt></ruby>・<ruby><rb>色丹</rb><rt>しこたん</rt></ruby>の<ruby><rb>諸島</rb><rt>しょとう</rt></ruby>のこと。<ruby><rb>第二次世界大戦</rb><rt>だいにじせかいたいせん</rt></ruby>のあと、もともと<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>領土</rb><rt>りょうど</rt></ruby>だから<ruby><rb>返</rb><rt>かえ</rt></ruby>してほしいとロシアに<ruby><rb>求</rb><rt>もと</rt></ruby>めている。",
+          "hyouki": [
+            "北方領土"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "１９３９<ruby><rb>年</rb><rt>ねん</rt></ruby>から１９４５<ruby><rb>年</rb><rt>ねん</rt></ruby>まで、<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>・ドイツ・イタリアが、イギリス・フランス・アメリカ・ソ<ruby><rb>連</rb><rt>れん</rt></ruby>・<ruby><rb>中国</rb><rt>ちゅうごく</rt></ruby>などの<ruby><rb>連合国</rb><rt>れんごうこく</rt></ruby>と<ruby><rb>戦</rb><rt>たたか</rt></ruby>った<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。１９４５<ruby><rb>年</rb><rt>ねん</rt></ruby>（<ruby><rb>昭和</rb><rt>しょうわ</rt></ruby><ruby><rb>２０年</rb><rt>にじゅうねん</rt></ruby>）<ruby><rb>８月</rb><rt>はちがつ</rt></ruby><ruby><rb>１５</rb><rt>じゅうご</rt></ruby><ruby><rb>日</rb><rt>にち</rt></ruby>に<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>が<ruby><rb>降伏</rb><rt>こうふく</rt></ruby>して<ruby><rb>終</rb><rt>お</rt></ruby>わった。",
+          "hyouki": [
+            "第二次世界大戦"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "くくる。つなぐ。しばる。",
+          "hyouki": [
+            "結ぶ"
+          ]
+        },
+        {
+          "def": "はなれているものや<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>をつなぐ。",
+          "hyouki": [
+            "結ぶ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>関係</rb><rt>かんけい</rt></ruby>をつける。",
+          "hyouki": [
+            "結ぶ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>約束</rb><rt>やくそく</rt></ruby>などを<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "結ぶ"
+          ]
+        },
+        {
+          "def": "かたく<ruby><rb>閉</rb><rt>と</rt></ruby>じる。",
+          "hyouki": [
+            "結ぶ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>生</rb><rt>しょう</rt></ruby>じる。<ruby><rb>生</rb><rt>う</rt></ruby>み<ruby><rb>出</rb><rt>だ</rt></ruby>す。",
+          "hyouki": [
+            "結ぶ"
+          ]
+        },
+        {
+          "def": "しめくくる。",
+          "hyouki": [
+            "結ぶ"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "１９１７<ruby><rb>年</rb><rt>ねん</rt></ruby>に、ロシア<ruby><rb>帝国</rb><rt>ていこく</rt></ruby>をたおしてできた<ruby><rb>国</rb><rt>くに</rt></ruby>。１９９１<ruby><rb>年</rb><rt>ねん</rt></ruby>に<ruby><rb>解体</rb><rt>かいたい</rt></ruby>して、<ruby><rb>今</rb><rt>いま</rt></ruby>のロシアやカザフスタンなどに<ruby><rb>分</rb><rt>わ</rt></ruby>かれた。ソ<ruby><rb>連</rb><rt>れん</rt></ruby>。",
+          "hyouki": [
+            "ソビエト連邦"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0012": [
+        {
+          "def": "（<ruby><rb>建物</rb><rt>たてもの</rt></ruby>などの）<ruby><rb>土台</rb><rt>どだい</rt></ruby>。いしずえ。",
+          "hyouki": [
+            "基礎"
+          ]
+        },
+        {
+          "def": "ものごとの<ruby><rb>大</rb><rt>おお</rt></ruby>もと。",
+          "hyouki": [
+            "基礎"
+          ]
+        }
+      ]
+    }
+  }
+}
