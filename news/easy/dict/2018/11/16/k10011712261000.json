@@ -1,0 +1,66 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>秋</rb><rt>あき</rt></ruby>になって、<ruby><rb>木</rb><rt>き</rt></ruby>の<ruby><rb>葉</rb><rt>は</rt></ruby>が<ruby><rb>赤</rb><rt>あか</rt></ruby>くなること。また、その<ruby><rb>葉</rb><rt>は</rt></ruby>。",
+          "hyouki": [
+            "紅葉"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "７１０<ruby><rb>年</rb><rt>ねん</rt></ruby>から７９４<ruby><rb>年</rb><rt>ねん</rt></ruby>まで、<ruby><rb>奈良</rb><rt>なら</rt></ruby>に<ruby><rb>都</rb><rt>みやこ</rt></ruby>があった<ruby><rb>時代</rb><rt>じだい</rt></ruby>。<ruby><rb>飛鳥</rb><rt>あすか</rt></ruby><ruby><rb>時代</rb><rt>じだい</rt></ruby>に<ruby><rb>続</rb><rt>つづ</rt></ruby>く<ruby><rb>時代</rb><rt>じだい</rt></ruby>で、<ruby><rb>仏教</rb><rt>ぶっきょう</rt></ruby>が<ruby><rb>栄</rb><rt>さか</rt></ruby>えた。",
+          "hyouki": [
+            "奈良時代"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>宝</rb><rt>たから</rt></ruby>。<ruby><rb>特</rb><rt>とく</rt></ruby>に、<ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>指定</rb><rt>してい</rt></ruby>し、<ruby><rb>保護</rb><rt>ほご</rt></ruby>している<ruby><rb>建物</rb><rt>たてもの</rt></ruby>・<ruby><rb>彫刻</rb><rt>ちょうこく</rt></ruby>・<ruby><rb>絵</rb><rt>え</rt></ruby>など。",
+          "hyouki": [
+            "国宝"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>光</rb><rt>ひかり</rt></ruby>。<ruby><rb>照明</rb><rt>しょうめい</rt></ruby>。",
+          "hyouki": [
+            "ライト"
+          ]
+        },
+        {
+          "def": "<ruby><rb>明</rb><rt>あか</rt></ruby>るいこと。",
+          "hyouki": [
+            "ライト"
+          ]
+        },
+        {
+          "def": "<ruby><rb>軽</rb><rt>かる</rt></ruby>いこと。",
+          "hyouki": [
+            "ライト"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>山</rb><rt>やま</rt></ruby>に<ruby><rb>生</rb><rt>は</rt></ruby>えていたり、<ruby><rb>庭</rb><rt>にわ</rt></ruby>に<ruby><rb>植</rb><rt>う</rt></ruby>えたりする<ruby><rb>木</rb><rt>き</rt></ruby>。<ruby><rb>種</rb><rt>たね</rt></ruby>には<ruby><rb>羽</rb><rt>はね</rt></ruby>があり、<ruby><rb>葉</rb><rt>は</rt></ruby>はカエルの<ruby><rb>手</rb><rt>て</rt></ruby>に<ruby><rb>似</rb><rt>に</rt></ruby>ている。<ruby><rb>秋</rb><rt>あき</rt></ruby>に<ruby><rb>赤</rb><rt>あか</rt></ruby>く<ruby><rb>紅葉</rb><rt>こうよう</rt></ruby>するイロハカエデ、<ruby><rb>黄色</rb><rt>きいろ</rt></ruby>になるイタヤカエデなど。",
+          "hyouki": [
+            "楓"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>葉</rb><rt>は</rt></ruby>は<ruby><rb>扇形</rb><rt>おうぎがた</rt></ruby>で、<ruby><rb>秋</rb><rt>あき</rt></ruby>になると<ruby><rb>黄葉</rb><rt>こうよう</rt></ruby>する<ruby><rb>木</rb><rt>き</rt></ruby>。<ruby><rb>街路樹</rb><rt>がいろじゅ</rt></ruby>などに<ruby><rb>植</rb><rt>う</rt></ruby>える。<ruby><rb>実</rb><rt>み</rt></ruby>は「ぎんなん」といって<ruby><rb>食</rb><rt>た</rt></ruby>べられる。",
+          "hyouki": [
+            "銀杏"
+          ]
+        }
+      ]
+    }
+  }
+}

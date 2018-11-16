@@ -1,0 +1,174 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。",
+          "hyouki": [
+            "協力"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>前</rb><rt>まえ</rt></ruby>のほうへ<ruby><rb>出</rb><rt>だ</rt></ruby>す。",
+          "hyouki": [
+            "進める"
+          ]
+        },
+        {
+          "def": "<ruby><rb>程度</rb><rt>ていど</rt></ruby>を<ruby><rb>上</rb><rt>あ</rt></ruby>げる。",
+          "hyouki": [
+            "進める"
+          ]
+        },
+        {
+          "def": "ものごとを、はかどらせる。",
+          "hyouki": [
+            "進める"
+          ]
+        },
+        {
+          "def": "<ruby><rb>時計</rb><rt>とけい</rt></ruby>の<ruby><rb>針</rb><rt>はり</rt></ruby>を<ruby><rb>早</rb><rt>はや</rt></ruby>める。",
+          "hyouki": [
+            "進める"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "アジア<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>の<ruby><rb>東</rb><rt>ひがし</rt></ruby>と<ruby><rb>日本列島</rb><rt>にほんれっとう</rt></ruby>にはさまれた<ruby><rb>海</rb><rt>うみ</rt></ruby>。",
+          "hyouki": [
+            "日本海"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。",
+          "hyouki": [
+            "イベント"
+          ]
+        },
+        {
+          "def": "<ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。",
+          "hyouki": [
+            "イベント"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "さやに<ruby><rb>入</rb><rt>はい</rt></ruby>ったままの、<ruby><rb>緑色</rb><rt>みどりいろ</rt></ruby>のまだ<ruby><rb>若</rb><rt>わか</rt></ruby>い<ruby><rb>大豆</rb><rt>だいず</rt></ruby>。また、それをゆでた<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "枝豆"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>や、<ruby><rb>地方公共団体</rb><rt>ちほうこうきょうだんたい</rt></ruby>の<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>官庁</rb><rt>かんちょう</rt></ruby>。<ruby><rb>役場</rb><rt>やくば</rt></ruby>。",
+          "hyouki": [
+            "役所"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>事業</rb><rt>じぎょう</rt></ruby>をやっていくこと。",
+          "hyouki": [
+            "経営"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "おさえつけて<ruby><rb>形</rb><rt>かたち</rt></ruby>をこわす。",
+          "hyouki": [
+            "潰す"
+          ]
+        },
+        {
+          "def": "だめにする。<ruby><rb>失</rb><rt>うしな</rt></ruby>う。",
+          "hyouki": [
+            "潰す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>空</rb><rt>あ</rt></ruby>いたところを、うめる。",
+          "hyouki": [
+            "潰す"
+          ]
+        },
+        {
+          "def": "そこなう。",
+          "hyouki": [
+            "潰す"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>西洋料理</rb><rt>せいようりょうり</rt></ruby>の<ruby><rb>味</rb><rt>あじ</rt></ruby>つけに<ruby><rb>使</rb><rt>つか</rt></ruby>う、<ruby><rb>液体</rb><rt>えきたい</rt></ruby>の<ruby><rb>調味料</rb><rt>ちょうみりょう</rt></ruby>。<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。",
+          "hyouki": [
+            "ソース"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "（<ruby><rb>穀物</rb><rt>こくもつ</rt></ruby>などを）<ruby><rb>非常</rb><rt>ひじょう</rt></ruby>に<ruby><rb>細</rb><rt>こま</rt></ruby>かにくだいたもの。<ruby><rb>粉末</rb><rt>ふんまつ</rt></ruby>。",
+          "hyouki": [
+            "粉"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "かつおぶし・コンブなど、<ruby><rb>味</rb><rt>あじ</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>すのに<ruby><rb>使</rb><rt>つか</rt></ruby>うもの。また、<ruby><rb>味</rb><rt>あじ</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>したしる。",
+          "hyouki": [
+            "だし"
+          ]
+        },
+        {
+          "def": "うまく<ruby><rb>利用</rb><rt>りよう</rt></ruby>すること。",
+          "hyouki": [
+            "だし"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "<ruby><rb>魚</rb><rt>さかな</rt></ruby>やエビ、<ruby><rb>野菜</rb><rt>やさい</rt></ruby>などに、<ruby><rb>水</rb><rt>みず</rt></ruby>でといた<ruby><rb>小麦粉</rb><rt>こむぎこ</rt></ruby>をつけて、<ruby><rb>油</rb><rt>あぶら</rt></ruby>であげたもの。",
+          "hyouki": [
+            "天ぷら"
+          ]
+        }
+      ],
+      "0012": [
+        {
+          "def": "<ruby><rb>小麦粉</rb><rt>こむぎこ</rt></ruby>を、<ruby><rb>水</rb><rt>みず</rt></ruby>でこねてうすくのばし、<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>く<ruby><rb>切</rb><rt>き</rt></ruby>ってゆでた<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "うどん"
+          ]
+        }
+      ],
+      "0013": [
+        {
+          "def": "<ruby><rb>共通</rb><rt>きょうつう</rt></ruby>する<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>によって<ruby><rb>分</rb><rt>わ</rt></ruby>けたもの。",
+          "hyouki": [
+            "種類"
+          ]
+        }
+      ],
+      "0014": [
+        {
+          "def": "ちょうどよい<ruby><rb>機会</rb><rt>きかい</rt></ruby>。",
+          "hyouki": [
+            "チャンス"
+          ]
+        }
+      ]
+    }
+  }
+}
