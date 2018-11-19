@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011715381000",
+  "news_prearranged_time": "2018-11-19 16:35:00",
+  "title": "東京ディズニーランド　１１時間待った人もいた",
+  "title_with_ruby": "<ruby>東京<rt>とうきょう</rt></ruby>ディズニーランド　１１<ruby>時間<rt>じかん</rt></ruby><ruby>待<rt>ま</rt></ruby>った<ruby>人<rt>ひと</rt></ruby>もいた",
+  "outline_with_ruby": "<p>「ミッキーマウス」という<a href='javascript:void(0)' class='dicWin' id='id-0000'>キャラクター</a>は、９０<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>の１１<ruby>月<rt>がつ</rt></ruby>１８<ruby>日<rt>にち</rt></ruby>に<a href='javascript:void(0)' class='dicWin' id='id-0001'>ディズニー</a>の<ruby>映画<rt>えいが</rt></ruby>に<ruby>初<rt>はじ</rt></ruby>めて<ruby>出<rt>で</rt></ruby>ました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20181118/../20181118/K10011715381_1811182021_1811182022_01_02.jpg",
+  "news_web_movie_uri": "k10011715381_201811182104_201811182113.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011715381000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011715381000/k10011715381000.html"
+}

@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011712051000",
+  "news_prearranged_time": "2018-11-19 11:30:00",
+  "title": "アニメと日本の料理を一緒に楽しむことができる居酒屋",
+  "title_with_ruby": "アニメと<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>料理<rt>りょうり</rt></ruby>を<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>楽<rt>たの</rt></ruby>しむことができる<ruby>居酒屋<rt>いざかや</rt></ruby>",
+  "outline_with_ruby": "<p><ruby>東京<rt>とうきょう</rt></ruby>の<ruby>浅草<rt>あさくさ</rt></ruby>に１６<ruby>日<rt>にち</rt></ruby>、「<ruby>異<rt>い</rt></ruby><ruby>世界<rt>せかい</rt></ruby><ruby>居酒屋<rt>いざかや</rt></ruby>～<ruby>古都<rt>こと</rt></ruby>アイテーリアの<ruby>居酒屋<rt>いざかや</rt></ruby>のぶ～」という<a href='javascript:void(0)' class='dicWin' id='id-0000'>アニメ</a>に<ruby>出<rt>で</rt></ruby>てくる<ruby>居酒屋<rt>いざかや</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じような<ruby>店<rt>みせ</rt></ruby>が<a href='javascript:void(0)' class='dicWin' id='id-0001'>オープン</a>しました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": false,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20181115/../20181115/K10011712051_1811151820_1811152006_01_02.jpg",
+  "news_web_movie_uri": "",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011712051000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011712051000/k10011712051000.html"
+}

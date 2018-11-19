@@ -1,0 +1,102 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "アコヤガイなどの<ruby><rb>貝類</rb><rt>かいるい</rt></ruby>のからの<ruby><rb>中</rb><rt>なか</rt></ruby>にできる、<ruby><rb>銀色</rb><rt>ぎんいろ</rt></ruby>やもも<ruby><rb>色</rb><rt>いろ</rt></ruby>に<ruby><rb>光</rb><rt>ひか</rt></ruby>る<ruby><rb>玉</rb><rt>たま</rt></ruby>。<ruby><rb>指輪</rb><rt>ゆびわ</rt></ruby>や<ruby><rb>首</rb><rt>くび</rt></ruby>かざりなどに<ruby><rb>使</rb><rt>つか</rt></ruby>う。パール。",
+          "hyouki": [
+            "真珠"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>買</rb><rt>か</rt></ruby>い<ruby><rb>手</rb><rt>て</rt></ruby>に<ruby><rb>競争</rb><rt>きょうそう</rt></ruby>で<ruby><rb>値段</rb><rt>ねだん</rt></ruby>をつけさせ、いちばん<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>値段</rb><rt>ねだん</rt></ruby>をつけた<ruby><rb>人</rb><rt>ひと</rt></ruby>に、その<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>売</rb><rt>う</rt></ruby>る<ruby><rb>方法</rb><rt>ほうほう</rt></ruby>。<ruby><rb>競売</rb><rt>きょうばい</rt></ruby>。オークション。せり。",
+          "hyouki": [
+            "競り売り"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>宝石</rb><rt>ほうせき</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>で、もっともかたくてよく<ruby><rb>光</rb><rt>ひか</rt></ruby>る、<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちの<ruby><rb>高</rb><rt>たか</rt></ruby>いもの。ダイヤ。ダイアモンド。<ruby><rb>金剛石</rb><rt>こんごうせき</rt></ruby>。",
+          "hyouki": [
+            "ダイヤモンド"
+          ]
+        },
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで<ruby><rb>内野</rb><rt>ないや</rt></ruby>のこと。",
+          "hyouki": [
+            "ダイヤモンド"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>飾</rb><rt>かざ</rt></ruby>ること。また、<ruby><rb>飾</rb><rt>かざ</rt></ruby>って<ruby><rb>美</rb><rt>うつく</rt></ruby>しく<ruby><rb>見</rb><rt>み</rt></ruby>せるもの。",
+          "hyouki": [
+            "飾り"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "ぽたりぽたりと<ruby><rb>垂</rb><rt>た</rt></ruby>れる<ruby><rb>水</rb><rt>みず</rt></ruby>。",
+          "hyouki": [
+            "滴"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>宝石</rb><rt>ほうせき</rt></ruby>やメダルなどを<ruby><rb>長</rb><rt>なが</rt></ruby>いくさりにつけたもの。<ruby><rb>首</rb><rt>くび</rt></ruby>に<ruby><rb>下</rb><rt>さ</rt></ruby>げてかざりにする。",
+          "hyouki": [
+            "ペンダント"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>王</rb><rt>おう</rt></ruby>の<ruby><rb>妻</rb><rt>つま</rt></ruby>。きさき。",
+          "hyouki": [
+            "王妃"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>命</rb><rt>いのち</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>る。",
+          "hyouki": [
+            "殺す"
+          ]
+        },
+        {
+          "def": "（<ruby><rb>笑</rb><rt>わら</rt></ruby>い・あくび・<ruby><rb>息</rb><rt>いき</rt></ruby>などを）おさえて<ruby><rb>止</rb><rt>と</rt></ruby>める。",
+          "hyouki": [
+            "殺す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>役</rb><rt>やく</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>たなくする。",
+          "hyouki": [
+            "殺す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、アウトにする。",
+          "hyouki": [
+            "殺す"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>親</rb><rt>おや</rt></ruby>から<ruby><rb>分</rb><rt>わ</rt></ruby>かれたり、<ruby><rb>結婚</rb><rt>けっこん</rt></ruby>でつながったりしている<ruby><rb>人</rb><rt>ひと</rt></ruby>たち。<ruby><rb>身内</rb><rt>みうち</rt></ruby>。<ruby><rb>親戚</rb><rt>しんせき</rt></ruby>。",
+          "hyouki": [
+            "親類"
+          ]
+        }
+      ]
+    }
+  }
+}

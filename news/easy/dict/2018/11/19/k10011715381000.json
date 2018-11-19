@@ -1,0 +1,58 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>性格</rb><rt>せいかく</rt></ruby>。<ruby><rb>持</rb><rt>も</rt></ruby>ち<ruby><rb>味</rb><rt>あじ</rt></ruby>。",
+          "hyouki": [
+            "キャラクター"
+          ]
+        },
+        {
+          "def": "まんが・<ruby><rb>映画</rb><rt>えいが</rt></ruby>・<ruby><rb>劇</rb><rt>げき</rt></ruby>などに<ruby><rb>出</rb><rt>で</rt></ruby>てくる<ruby><rb>人物</rb><rt>じんぶつ</rt></ruby>や<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。",
+          "hyouki": [
+            "キャラクター"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "（１９０１～１９６６）アメリカの<ruby><rb>映画製作者</rb><rt>えいがせいさくしゃ</rt></ruby>、<ruby><rb>事業家</rb><rt>じぎょうか</rt></ruby>。「ミッキーマウス」「<ruby><rb>白雪姫</rb><rt>しらゆきひめ</rt></ruby>」など<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>映画</rb><rt>えいが</rt></ruby>を<ruby><rb>製作</rb><rt>せいさく</rt></ruby>した。「ディズニーランド」の<ruby><rb>創始者</rb><rt>そうししゃ</rt></ruby>。",
+          "hyouki": [
+            "ディズニー"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>一</rb><rt>ひと</rt></ruby>つの<ruby><rb>仕事</rb><rt>しごと</rt></ruby>のために、それぞれの<ruby><rb>役割</rb><rt>やくわり</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>け<ruby><rb>持</rb><rt>も</rt></ruby>って<ruby><rb>働</rb><rt>はたら</rt></ruby>く<ruby><rb>人</rb><rt>ひと</rt></ruby>たち。",
+          "hyouki": [
+            "スタッフ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>映画</rb><rt>えいが</rt></ruby>や<ruby><rb>劇</rb><rt>げき</rt></ruby>、テレビなどで、<ruby><rb>出演者</rb><rt>しゅつえんしゃ</rt></ruby><ruby><rb>以外</rb><rt>いがい</rt></ruby>の<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>係</rb><rt>かかり</rt></ruby>。<ruby><rb>監督</rb><rt>かんとく</rt></ruby>・カメラマン・<ruby><rb>道具係</rb><rt>どうぐがかり</rt></ruby>など。",
+          "hyouki": [
+            "スタッフ"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>順序</rb><rt>じゅんじょ</rt></ruby>に<ruby><rb>従</rb><rt>したが</rt></ruby>ってすること。また、その<ruby><rb>順序</rb><rt>じゅんじょ</rt></ruby>。",
+          "hyouki": [
+            "順番"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。",
+          "hyouki": [
+            "グループ"
+          ]
+        }
+      ]
+    }
+  }
+}

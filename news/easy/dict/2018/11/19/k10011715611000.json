@@ -1,0 +1,74 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "たがいに<ruby><rb>反対</rb><rt>はんたい</rt></ruby>の<ruby><rb>立場</rb><rt>たちば</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>って、<ruby><rb>張</rb><rt>は</rt></ruby>り<ruby><rb>合</rb><rt>あ</rt></ruby>うこと。",
+          "hyouki": [
+            "対立"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "アジア・オーストラリア・<ruby><rb>南北</rb><rt>なんぼく</rt></ruby>アメリカ・<ruby><rb>南極</rb><rt>なんきょく</rt></ruby>の<ruby><rb>五</rb><rt>いつ</rt></ruby>つの<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>に<ruby><rb>囲</rb><rt>かこ</rt></ruby>まれた、<ruby><rb>世界</rb><rt>せかい</rt></ruby>でいちばん<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>海</rb><rt>うみ</rt></ruby>。",
+          "hyouki": [
+            "太平洋"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "たがいに<ruby><rb>話</rb><rt>はな</rt></ruby>す。",
+          "hyouki": [
+            "話し合う"
+          ]
+        },
+        {
+          "def": "<ruby><rb>意見</rb><rt>いけん</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>う。",
+          "hyouki": [
+            "話し合う"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ある<ruby><rb>範囲</rb><rt>はんい</rt></ruby>に<ruby><rb>区切</rb><rt>くぎ</rt></ruby>られた<ruby><rb>土地</rb><rt>とち</rt></ruby>。",
+          "hyouki": [
+            "地域"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>教</rb><rt>おし</rt></ruby>え<ruby><rb>導</rb><rt>みちび</rt></ruby>く<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>指導者</rb><rt>しどうしゃ</rt></ruby>。",
+          "hyouki": [
+            "リーダー"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "ためになること。<ruby><rb>役</rb><rt>やく</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>つこと。",
+          "hyouki": [
+            "利益"
+          ]
+        },
+        {
+          "def": "もうけ。<ruby><rb>得</rb><rt>とく</rt></ruby>。",
+          "hyouki": [
+            "利益"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>会議</rb><rt>かいぎ</rt></ruby>を<ruby><rb>進</rb><rt>すす</rt></ruby>めたり、まとめたりする<ruby><rb>役</rb><rt>やく</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "議長"
+          ]
+        }
+      ]
+    }
+  }
+}
