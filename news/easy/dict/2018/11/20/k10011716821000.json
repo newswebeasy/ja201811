@@ -1,0 +1,122 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>会</rb><rt>かい</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "会長"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>罪</rb><rt>つみ</rt></ruby>を<ruby><rb>犯</rb><rt>おか</rt></ruby>した<ruby><rb>疑</rb><rt>うたが</rt></ruby>いのある<ruby><rb>人</rb><rt>ひと</rt></ruby>を、<ruby><rb>警察</rb><rt>けいさつ</rt></ruby>がつかまえること。",
+          "hyouki": [
+            "逮捕"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>犯罪</rb><rt>はんざい</rt></ruby>を<ruby><rb>調</rb><rt>しら</rt></ruby>べ、<ruby><rb>裁判所</rb><rt>さいばんしょ</rt></ruby>にうったえる<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>検察官</rb><rt>けんさつかん</rt></ruby>は、ここで<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をしている。",
+          "hyouki": [
+            "検察庁"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "やとい<ruby><rb>主</rb><rt>ぬし</rt></ruby>が、<ruby><rb>働</rb><rt>はたら</rt></ruby>いた<ruby><rb>人</rb><rt>ひと</rt></ruby>にはらうお<ruby><rb>金</rb><rt>かね</rt></ruby>。<ruby><rb>給与</rb><rt>きゅうよ</rt></ruby>。サラリー。",
+          "hyouki": [
+            "給料"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>書</rb><rt>か</rt></ruby>き<ruby><rb>物</rb><rt>もの</rt></ruby>。<ruby><rb>書</rb><rt>か</rt></ruby>きつけ。<ruby><rb>文書</rb><rt>ぶんしょ</rt></ruby>。",
+          "hyouki": [
+            "書類"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>まりを<ruby><rb>破</rb><rt>やぶ</rt></ruby>ること。",
+          "hyouki": [
+            "違反"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "あやしいと<ruby><rb>思</rb><rt>おも</rt></ruby>うこと。<ruby><rb>変</rb><rt>へん</rt></ruby>に<ruby><rb>思</rb><rt>おも</rt></ruby>うこと。",
+          "hyouki": [
+            "疑い"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>勤</rb><rt>つと</rt></ruby>めや<ruby><rb>役目</rb><rt>やくめ</rt></ruby>から<ruby><rb>退</rb><rt>しりぞ</rt></ruby>く。",
+          "hyouki": [
+            "辞める"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>事業</rb><rt>じぎょう</rt></ruby>をやっていくこと。",
+          "hyouki": [
+            "経営"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>少</rb><rt>すく</rt></ruby>なくする。",
+          "hyouki": [
+            "減らす"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "その<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>に<ruby><rb>勤</rb><rt>つと</rt></ruby>めている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>会社員</rb><rt>かいしゃいん</rt></ruby>。",
+          "hyouki": [
+            "社員"
+          ]
+        }
+      ],
+      "0012": [
+        {
+          "def": "もとのよい<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>にもどること。",
+          "hyouki": [
+            "回復"
+          ]
+        }
+      ]
+    }
+  }
+}

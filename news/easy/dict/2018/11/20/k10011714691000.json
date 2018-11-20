@@ -1,0 +1,86 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "どこに<ruby><rb>行</rb><rt>い</rt></ruby>ったのかわからないこと。",
+          "hyouki": [
+            "行方不明"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>海中</rb><rt>かいちゅう</rt></ruby>にもぐって<ruby><rb>活動</rb><rt>かつどう</rt></ruby>する<ruby><rb>軍艦</rb><rt>ぐんかん</rt></ruby>。<ruby><rb>魚雷</rb><rt>ぎょらい</rt></ruby>（<ruby><rb>水中</rb><rt>すいちゅう</rt></ruby>を<ruby><rb>進</rb><rt>すす</rt></ruby>んでゆく<ruby><rb>爆弾</rb><rt>ばくだん</rt></ruby>）などの<ruby><rb>武器</rb><rt>ぶき</rt></ruby>を<ruby><rb>備</rb><rt>そな</rt></ruby>える。",
+          "hyouki": [
+            "潜水艦"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>。<ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "軍"
+          ]
+        },
+        {
+          "def": "<ruby><rb>戦</rb><rt>たたか</rt></ruby>い。<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。",
+          "hyouki": [
+            "軍"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ヨーロッパやアフリカ<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>と<ruby><rb>南北</rb><rt>なんぼく</rt></ruby>アメリカ<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>との<ruby><rb>間</rb><rt>あいだ</rt></ruby>にある<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>海</rb><rt>うみ</rt></ruby>。",
+          "hyouki": [
+            "大西洋"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "くぼんだ<ruby><rb>物</rb><rt>もの</rt></ruby>のいちばん<ruby><rb>下</rb><rt>した</rt></ruby>の<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。",
+          "hyouki": [
+            "底"
+          ]
+        },
+        {
+          "def": "いちばんおく<ruby><rb>深</rb><rt>ふか</rt></ruby>いところ。",
+          "hyouki": [
+            "底"
+          ]
+        },
+        {
+          "def": "ものごとの<ruby><rb>果</rb><rt>は</rt></ruby>て。<ruby><rb>限</rb><rt>かぎ</rt></ruby>り。",
+          "hyouki": [
+            "底"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。",
+          "hyouki": [
+            "政府"
+          ]
+        },
+        {
+          "def": "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。",
+          "hyouki": [
+            "政府"
+          ]
+        }
+      ]
+    }
+  }
+}

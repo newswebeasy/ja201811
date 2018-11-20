@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011716921000",
+  "news_prearranged_time": "2018-11-20 16:15:00",
+  "title": "グアテマラで火山が噴火　４０００人に逃げるように言う",
+  "title_with_ruby": "グアテマラで<ruby>火山<rt>かざん</rt></ruby>が<ruby>噴火<rt>ふんか</rt></ruby>　４０００<ruby>人<rt>にん</rt></ruby>に<ruby>逃<rt>に</rt></ruby>げるように<ruby>言<rt>い</rt></ruby>う",
+  "outline_with_ruby": "<p>グアテマラにある<ruby>高<rt>たか</rt></ruby>さ３７００ｍぐらいのフエゴ<ruby>火山<rt>かざん</rt></ruby>が<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>噴火<rt>ふんか</rt></ruby></a>しました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20181120/../20181120/K10011716921_1811200904_1811200909_01_02.jpg",
+  "news_web_movie_uri": "k10011716921_201811200944_201811200945.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011716921000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011716921000/k10011716921000.html"
+}

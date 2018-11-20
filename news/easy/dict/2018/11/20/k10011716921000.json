@@ -1,0 +1,140 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>地下</rb><rt>ちか</rt></ruby>のマグマが、<ruby><rb>地表</rb><rt>ちひょう</rt></ruby>にふき<ruby><rb>出</rb><rt>だ</rt></ruby>して<ruby><rb>山</rb><rt>やま</rt></ruby>となっている<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "火山"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>火山</rb><rt>かざん</rt></ruby>が<ruby><rb>爆発</rb><rt>ばくはつ</rt></ruby>して、とけた<ruby><rb>溶岩</rb><rt>ようがん</rt></ruby>や、<ruby><rb>火山灰</rb><rt>かざんばい</rt></ruby>・<ruby><rb>水蒸気</rb><rt>すいじょうき</rt></ruby>・ガスをふき<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。",
+          "hyouki": [
+            "噴火"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>地下</rb><rt>ちか</rt></ruby>のとけた<ruby><rb>岩</rb><rt>いわ</rt></ruby>が、<ruby><rb>火山</rb><rt>かざん</rt></ruby>の<ruby><rb>噴火</rb><rt>ふんか</rt></ruby>で<ruby><rb>地上</rb><rt>ちじょう</rt></ruby>に<ruby><rb>流</rb><rt>なが</rt></ruby>れ<ruby><rb>出</rb><rt>で</rt></ruby>たもの。また、それが<ruby><rb>冷</rb><rt>ひ</rt></ruby>えて<ruby><rb>固</rb><rt>かた</rt></ruby>まった<ruby><rb>岩</rb><rt>いわ</rt></ruby>。",
+          "hyouki": [
+            "溶岩"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>液体</rb><rt>えきたい</rt></ruby>などが、<ruby><rb>低</rb><rt>ひく</rt></ruby>いほうへ<ruby><rb>動</rb><rt>うご</rt></ruby>く。",
+          "hyouki": [
+            "流れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>時</rb><rt>とき</rt></ruby>がたつ。",
+          "hyouki": [
+            "流れる"
+          ]
+        },
+        {
+          "def": "うかんで<ruby><rb>行</rb><rt>い</rt></ruby>く。",
+          "hyouki": [
+            "流れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>広</rb><rt>ひろ</rt></ruby>がって<ruby><rb>行</rb><rt>い</rt></ruby>く。",
+          "hyouki": [
+            "流れる"
+          ]
+        },
+        {
+          "def": "とりやめになる。",
+          "hyouki": [
+            "流れる"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>燃</rb><rt>も</rt></ruby>えるときに<ruby><rb>出</rb><rt>で</rt></ruby>る<ruby><rb>気体</rb><rt>きたい</rt></ruby>。けむ。けぶり。",
+          "hyouki": [
+            "煙"
+          ]
+        },
+        {
+          "def": "けむりのように<ruby><rb>見</rb><rt>み</rt></ruby>えるもの。",
+          "hyouki": [
+            "煙"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>映像</rb><rt>えいぞう</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        },
+        {
+          "def": "「ビデオテープ」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>映像</rb><rt>えいぞう</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>を、<ruby><rb>磁気</rb><rt>じき</rt></ruby>テープに<ruby><rb>記録</rb><rt>きろく</rt></ruby>したり<ruby><rb>再生</rb><rt>さいせい</rt></ruby>したりする<ruby><rb>装置</rb><rt>そうち</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "オレンジの<ruby><rb>実</rb><rt>み</rt></ruby>のような<ruby><rb>色</rb><rt>いろ</rt></ruby>。だいだい<ruby><rb>色</rb><rt>いろ</rt></ruby>。",
+          "hyouki": [
+            "オレンジ色"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>山</rb><rt>やま</rt></ruby>などのいちばん<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>頂上</rb><rt>ちょうじょう</rt></ruby>。",
+          "hyouki": [
+            "頂"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "（<ruby><rb>下</rb><rt>した</rt></ruby>の<ruby><rb>字</rb><rt>じ</rt></ruby>や<ruby><rb>絵</rb><rt>え</rt></ruby>が）すけて<ruby><rb>見</rb><rt>み</rt></ruby>える。",
+          "hyouki": [
+            "写る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>写真</rb><rt>しゃしん</rt></ruby>にとられる。",
+          "hyouki": [
+            "写る"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。",
+          "hyouki": [
+            "政府"
+          ]
+        },
+        {
+          "def": "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。",
+          "hyouki": [
+            "政府"
+          ]
+        }
+      ]
+    }
+  }
+}

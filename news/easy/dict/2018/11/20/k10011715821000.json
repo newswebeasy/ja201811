@@ -1,0 +1,54 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>楽</rb><rt>たの</rt></ruby>しく<ruby><rb>遊</rb><rt>あそ</rt></ruby>べるように、<ruby><rb>遊</rb><rt>あそ</rt></ruby>び<ruby><rb>道具</rb><rt>どうぐ</rt></ruby>などが<ruby><rb>備</rb><rt>そな</rt></ruby>えてある<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "遊園地"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>実物</rb><rt>じつぶつ</rt></ruby>の<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>仕組</rb><rt>しく</rt></ruby>みに<ruby><rb>似</rb><rt>に</rt></ruby>せて<ruby><rb>作</rb><rt>つく</rt></ruby>ったもの。ひながた。",
+          "hyouki": [
+            "模型"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>を<ruby><rb>飛行</rb><rt>ひこう</rt></ruby>するための<ruby><rb>乗</rb><rt>の</rt></ruby>り<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "宇宙船"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>考</rb><rt>かんが</rt></ruby>え・<ruby><rb>気持</rb><rt>きも</rt></ruby>ちなど、<ruby><rb>目</rb><rt>め</rt></ruby>に<ruby><rb>見</rb><rt>み</rt></ruby>えないものを、<ruby><rb>色</rb><rt>いろ</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>・<ruby><rb>形</rb><rt>かたち</rt></ruby>などにたとえて<ruby><rb>表</rb><rt>あらわ</rt></ruby>すこと。また、<ruby><rb>表</rb><rt>あらわ</rt></ruby>したもの。シンボル。",
+          "hyouki": [
+            "象徴"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>重</rb><rt>おも</rt></ruby>い<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>ち<ruby><rb>上</rb><rt>あ</rt></ruby>げたり<ruby><rb>動</rb><rt>うご</rt></ruby>かしたりする<ruby><rb>機械</rb><rt>きかい</rt></ruby>。<ruby><rb>起重機</rb><rt>きじゅうき</rt></ruby>。",
+          "hyouki": [
+            "クレーン"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>月</rb><rt>つき</rt></ruby>の<ruby><rb>１１</rb><rt>じゅういち</rt></ruby><ruby><rb>日</rb><rt>にち</rt></ruby>から<ruby><rb>２０日</rb><rt>はつか</rt></ruby>までの<ruby><rb>間</rb><rt>あいだ</rt></ruby>。",
+          "hyouki": [
+            "中旬"
+          ]
+        }
+      ]
+    }
+  }
+}
