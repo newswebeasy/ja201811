@@ -1,0 +1,202 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>規則</rb><rt>きそく</rt></ruby><ruby><rb>正</rb><rt>ただ</rt></ruby>しく<ruby><rb>手足</rb><rt>てあし</rt></ruby>を<ruby><rb>動</rb><rt>うご</rt></ruby>かす<ruby><rb>運動</rb><rt>うんどう</rt></ruby>。",
+          "hyouki": [
+            "体操"
+          ]
+        },
+        {
+          "def": "「<ruby><rb>体操競技</rb><rt>たいそうきょうぎ</rt></ruby>」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。",
+          "hyouki": [
+            "体操"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>技術</rb><rt>ぎじゅつ</rt></ruby>。<ruby><rb>腕前</rb><rt>うでまえ</rt></ruby>。",
+          "hyouki": [
+            "技"
+          ]
+        },
+        {
+          "def": "すもうや<ruby><rb>柔道</rb><rt>じゅうどう</rt></ruby>などで、<ruby><rb>相手</rb><rt>あいて</rt></ruby>を<ruby><rb>負</rb><rt>ま</rt></ruby>かすための<ruby><rb>動作</rb><rt>どうさ</rt></ruby>。",
+          "hyouki": [
+            "技"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>点数</rb><rt>てんすう</rt></ruby>をつけること。",
+          "hyouki": [
+            "採点"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>評価</rb><rt>ひょうか</rt></ruby>をするときの<ruby><rb>標準</rb><rt>ひょうじゅん</rt></ruby>。<ruby><rb>水準</rb><rt>すいじゅん</rt></ruby>。",
+          "hyouki": [
+            "レベル"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "選手"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>組織</rb><rt>そしき</rt></ruby>。",
+          "hyouki": [
+            "システム"
+          ]
+        },
+        {
+          "def": "ひとまとまりの<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>合</rb><rt>あ</rt></ruby>わせ。",
+          "hyouki": [
+            "システム"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>実際</rb><rt>じっさい</rt></ruby>にためしてみること。",
+          "hyouki": [
+            "実験"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "プリズムで<ruby><rb>日光</rb><rt>にっこう</rt></ruby>を<ruby><rb>分</rb><rt>わ</rt></ruby>けたとき、<ruby><rb>赤色</rb><rt>あかいろ</rt></ruby>の<ruby><rb>外側</rb><rt>そとがわ</rt></ruby>に<ruby><rb>現</rb><rt>あらわ</rt></ruby>れる<ruby><rb>目</rb><rt>め</rt></ruby>に<ruby><rb>見</rb><rt>み</rt></ruby>えない<ruby><rb>光線</rb><rt>こうせん</rt></ruby>。<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>温</rb><rt>あたた</rt></ruby>めるので<ruby><rb>熱線</rb><rt>ねっせん</rt></ruby>ともいう。<ruby><rb>医療</rb><rt>いりょう</rt></ruby>・<ruby><rb>通信</rb><rt>つうしん</rt></ruby>・<ruby><rb>写真</rb><rt>しゃしん</rt></ruby>などに<ruby><rb>使</rb><rt>つか</rt></ruby>われる。",
+          "hyouki": [
+            "赤外線"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "ぶつける。",
+          "hyouki": [
+            "当てる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>命中</rb><rt>めいちゅう</rt></ruby>させる。",
+          "hyouki": [
+            "当てる"
+          ]
+        },
+        {
+          "def": "ねらったとおりになる。",
+          "hyouki": [
+            "当てる"
+          ]
+        },
+        {
+          "def": "くっつける。あてがう。",
+          "hyouki": [
+            "当てる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>光</rb><rt>ひかり</rt></ruby>や<ruby><rb>風</rb><rt>かぜ</rt></ruby>などを<ruby><rb>受</rb><rt>う</rt></ruby>けるようにする。",
+          "hyouki": [
+            "当てる"
+          ]
+        },
+        {
+          "def": "あてはめる。",
+          "hyouki": [
+            "当てる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>仕事</rb><rt>しごと</rt></ruby>などをさせる。",
+          "hyouki": [
+            "当てる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>名前</rb><rt>なまえ</rt></ruby>を<ruby><rb>指</rb><rt>さ</rt></ruby>す。",
+          "hyouki": [
+            "当てる"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>光</rb><rt>ひかり</rt></ruby>によって<ruby><rb>映</rb><rt>うつ</rt></ruby>し<ruby><rb>出</rb><rt>だ</rt></ruby>された、<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>姿</rb><rt>すがた</rt></ruby>。",
+          "hyouki": [
+            "映像"
+          ]
+        },
+        {
+          "def": "<ruby><rb>頭</rb><rt>あたま</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にうかんだ<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>形</rb><rt>かたち</rt></ruby>やようす。イメージ。",
+          "hyouki": [
+            "映像"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>考</rb><rt>かんが</rt></ruby>えるもとになる<ruby><rb>材料</rb><rt>ざいりょう</rt></ruby>や<ruby><rb>事実</rb><rt>じじつ</rt></ruby>。",
+          "hyouki": [
+            "データ"
+          ]
+        },
+        {
+          "def": "コンピューターで<ruby><rb>使</rb><rt>つか</rt></ruby>えるように、<ruby><rb>数字</rb><rt>すうじ</rt></ruby>や<ruby><rb>記号</rb><rt>きごう</rt></ruby>に<ruby><rb>置</rb><rt>お</rt></ruby>きかえられた<ruby><rb>資料</rb><rt>しりょう</rt></ruby>。",
+          "hyouki": [
+            "データ"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "よく<ruby><rb>調</rb><rt>しら</rt></ruby>べて、よいか<ruby><rb>悪</rb><rt>わる</rt></ruby>いかの<ruby><rb>判断</rb><rt>はんだん</rt></ruby>をすること。",
+          "hyouki": [
+            "審判"
+          ]
+        },
+        {
+          "def": "スポーツで、<ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>け・<ruby><rb>反則</rb><rt>はんそく</rt></ruby>などを<ruby><rb>裁</rb><rt>さば</rt></ruby>くこと。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "審判"
+          ]
+        }
+      ],
+      "0012": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。",
+          "hyouki": [
+            "大会"
+          ]
+        },
+        {
+          "def": "ある<ruby><rb>組織</rb><rt>そしき</rt></ruby>の<ruby><rb>全員</rb><rt>ぜんいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。",
+          "hyouki": [
+            "大会"
+          ]
+        }
+      ],
+      "0013": [
+        {
+          "def": "４<ruby><rb>年</rb><rt>ねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、１８９６<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。",
+          "hyouki": [
+            "オリンピック"
+          ]
+        }
+      ]
+    }
+  }
+}
