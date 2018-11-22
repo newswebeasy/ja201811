@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011718051000",
+  "news_prearranged_time": "2018-11-22 11:30:00",
+  "title": "保険会社が人工衛星の写真を使って雨の被害を調べる",
+  "title_with_ruby": "<ruby>保険<rt>ほけん</rt></ruby><ruby>会社<rt>がいしゃ</rt></ruby>が<ruby>人工衛星<rt>じんこうえいせい</rt></ruby>の<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>使<rt>つか</rt></ruby>って<ruby>雨<rt>あめ</rt></ruby>の<ruby>被害<rt>ひがい</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べる",
+  "outline_with_ruby": "<p><ruby>台風<rt>たいふう</rt></ruby>やたくさんの<ruby>雨<rt>あめ</rt></ruby>で<ruby>家<rt>いえ</rt></ruby>などに<ruby>水<rt>みず</rt></ruby>が<ruby>入<rt>はい</rt></ruby>ったとき、<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>保険<rt>ほけん</rt></ruby></a><ruby>会社<rt>がいしゃ</rt></ruby>はその<ruby>家<rt>いえ</rt></ruby>などへ<ruby>行<rt>い</rt></ruby>って、どのくらい<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>被害<rt>ひがい</rt></ruby></a>があったか<ruby>調<rt>しら</rt></ruby>べています。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20181121/../20181121/K10011718051_1811210017_1811210019_01_02.jpg",
+  "news_web_movie_uri": "k10011718051_201811210441_201811210450.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011718051000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011718051000/k10011718051000.html"
+}

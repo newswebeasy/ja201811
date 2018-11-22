@@ -1,0 +1,44 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>暖</rb><rt>あたた</rt></ruby>かな<ruby><rb>海</rb><rt>うみ</rt></ruby>にすむ<ruby><rb>魚</rb><rt>さかな</rt></ruby>。<ruby><rb>背</rb><rt>せ</rt></ruby>は<ruby><rb>青</rb><rt>あお</rt></ruby>く<ruby><rb>腹</rb><rt>はら</rt></ruby>は<ruby><rb>白</rb><rt>しろ</rt></ruby>い。<ruby><rb>横腹</rb><rt>よこはら</rt></ruby>に<ruby><rb>黄色</rb><rt>きいろ</rt></ruby>い<ruby><rb>筋</rb><rt>すじ</rt></ruby>がある。<ruby><rb>育</rb><rt>そだ</rt></ruby>つにつれて<ruby><rb>名前</rb><rt>なまえ</rt></ruby>が<ruby><rb>変</rb><rt>か</rt></ruby>わる<ruby><rb>出世魚</rb><rt>しゅっせうお</rt></ruby>。<ruby><rb>関東</rb><rt>かんとう</rt></ruby>では、ワカシ→イナダ→ワラサ→ブリ、<ruby><rb>関西</rb><rt>かんさい</rt></ruby>では、ツバス→ハマチ→メジロ→ブリと<ruby><rb>変</rb><rt>か</rt></ruby>わる。",
+          "hyouki": [
+            "ぶり"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>魚</rb><rt>さかな</rt></ruby>・<ruby><rb>貝</rb><rt>かい</rt></ruby>・<ruby><rb>海藻</rb><rt>かいそう</rt></ruby>などを、<ruby><rb>人工的</rb><rt>じんこうてき</rt></ruby>に<ruby><rb>育</rb><rt>そだ</rt></ruby>てふやすこと。",
+          "hyouki": [
+            "養殖"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>を<ruby><rb>育</rb><rt>そだ</rt></ruby>てたり、とらえたりするための<ruby><rb>食物</rb><rt>しょくもつ</rt></ruby>。え。",
+          "hyouki": [
+            "餌"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>をさそいこむためにあたえるもの。",
+          "hyouki": [
+            "餌"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>見</rb><rt>み</rt></ruby>たりさわったりすることができるもの。<ruby><rb>品物</rb><rt>しなもの</rt></ruby>。",
+          "hyouki": [
+            "物質"
+          ]
+        }
+      ]
+    }
+  }
+}
