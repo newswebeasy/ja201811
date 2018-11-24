@@ -17,28 +17,7 @@
       "textPos": ""
     }
   ],
-  "relationNews": [
-    {
-      "link": "html/20181117/k10011714131000.html",
-      "title": "ロシア 無人宇宙輸送船の打ち上げ成功 ソユーズ再開へ",
-      "date": "11月17日  6時58分",
-      "datetime": "2018-11-17T06:58",
-      "imgPath": "html/20181117/K10011714131_1811170651_1811170658_01_03.jpg",
-      "iconPath": "html/20181117/K10011714131_1811170651_1811170658_02_01.jpg",
-      "video": "https://www3.nhk.or.jp/news/html/20181117/movie/k10011714131_201811170651_201811170657.html",
-      "duration": 57
-    },
-    {
-      "link": "html/20181115/k10011711121000.html",
-      "title": "宇宙ビジネス活性化させる法律 きょう施行",
-      "date": "11月15日  4時08分",
-      "datetime": "2018-11-15T04:08",
-      "imgPath": "html/20181115/K10011711121_1811150206_1811150408_01_02.jpg",
-      "iconPath": "html/20181115/K10011711121_1811150206_1811150408_02_01.jpg",
-      "video": "https://www3.nhk.or.jp/news/html/20181115/movie/k10011711121_201811150446_201811150451.html",
-      "duration": 67
-    }
-  ],
+  "relationNews": [],
   "relationLink": [
     {
       "link": "//www3.nhk.or.jp/news/web_tokushu/2018_0208.html",
