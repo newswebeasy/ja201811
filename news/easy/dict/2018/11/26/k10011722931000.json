@@ -1,0 +1,68 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>肉</rb><rt>にく</rt></ruby>・とうふ・ネギなどを<ruby><rb>入</rb><rt>い</rt></ruby>れて、にながら<ruby><rb>食</rb><rt>た</rt></ruby>べる<ruby><rb>料理</rb><rt>りょうり</rt></ruby>。",
+          "hyouki": [
+            "すき焼き"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>世界</rb><rt>せかい</rt></ruby>でいちばんすぐれた<ruby><rb>記録</rb><rt>きろく</rt></ruby>。",
+          "hyouki": [
+            "世界記録"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "コンニャクという<ruby><rb>作物</rb><rt>さくもつ</rt></ruby>のいも（こんにゃく<ruby><rb>玉</rb><rt>だま</rt></ruby>）から<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>。おでん・<ruby><rb>田楽</rb><rt>でんがく</rt></ruby>などにして<ruby><rb>食</rb><rt>た</rt></ruby>べる。",
+          "hyouki": [
+            "こんにゃく"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>植物</rb><rt>しょくぶつ</rt></ruby>の<ruby><rb>根</rb><rt>ね</rt></ruby>や<ruby><rb>地下茎</rb><rt>ちかけい</rt></ruby>が、でんぷんなどの<ruby><rb>養分</rb><rt>ようぶん</rt></ruby>をたくわえて<ruby><rb>大</rb><rt>おお</rt></ruby>きくなったもの。サツマイモ・サトイモ・ジャガイモなど。ダリアなどの<ruby><rb>球根</rb><rt>きゅうこん</rt></ruby>もいう。",
+          "hyouki": [
+            "芋"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>戦</rb><rt>たたか</rt></ruby>いをしかけること。チャレンジ。",
+          "hyouki": [
+            "挑戦"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>煮</rb><rt>に</rt></ruby>るのに<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>道具</rb><rt>どうぐ</rt></ruby>。",
+          "hyouki": [
+            "鍋"
+          ]
+        },
+        {
+          "def": "「<span class=\"dic_sansyogogi\">1)</span>」で<ruby><rb>煮</rb><rt>に</rt></ruby>ながら<ruby><rb>食</rb><rt>た</rt></ruby>べる<ruby><rb>料理</rb><rt>りょうり</rt></ruby>。",
+          "hyouki": [
+            "鍋"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。",
+          "hyouki": [
+            "結果"
+          ]
+        }
+      ]
+    }
+  }
+}

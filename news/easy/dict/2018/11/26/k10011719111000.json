@@ -1,0 +1,114 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>海</rb><rt>うみ</rt></ruby>にすむ<ruby><rb>大形</rb><rt>おおがた</rt></ruby>の<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。シロナガスクジラ・マッコウクジラ・セミクジラなど<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。<ruby><rb>哺乳類</rb><rt>ほにゅうるい</rt></ruby>で、<ruby><rb>子</rb><rt>こ</rt></ruby>は<ruby><rb>乳</rb><rt>ちち</rt></ruby>を<ruby><rb>飲</rb><rt>の</rt></ruby>んで<ruby><rb>育</rb><rt>そだ</rt></ruby>つ。",
+          "hyouki": [
+            "鯨"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>熱</rb><rt>ねつ</rt></ruby>や<ruby><rb>圧力</rb><rt>あつりょく</rt></ruby>を<ruby><rb>加</rb><rt>くわ</rt></ruby>えて、<ruby><rb>自由</rb><rt>じゆう</rt></ruby>に<ruby><rb>形</rb><rt>かたち</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>ることができる<ruby><rb>物質</rb><rt>ぶっしつ</rt></ruby>。<ruby><rb>特</rb><rt>とく</rt></ruby>に<ruby><rb>合成樹脂</rb><rt>ごうせいじゅし</rt></ruby>を<ruby><rb>指</rb><rt>さ</rt></ruby>す。<ruby><rb>使</rb><rt>つか</rt></ruby>い<ruby><rb>道</rb><rt>みち</rt></ruby>が<ruby><rb>広</rb><rt>ひろ</rt></ruby>い。",
+          "hyouki": [
+            "プラスチック"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>生</rb><rt>い</rt></ruby>き<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>巻</rb><rt>ま</rt></ruby>き、<ruby><rb>影響</rb><rt>えいきょう</rt></ruby>をあたえる<ruby><rb>周</rb><rt>まわ</rt></ruby>りの<ruby><rb>世界</rb><rt>せかい</rt></ruby>。",
+          "hyouki": [
+            "環境"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>元気</rb><rt>げんき</rt></ruby>よく<ruby><rb>動</rb><rt>うご</rt></ruby>いたり、<ruby><rb>働</rb><rt>はたら</rt></ruby>いたりすること。",
+          "hyouki": [
+            "活動"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>貧困</rb><rt>ひんこん</rt></ruby>・<ruby><rb>飢餓</rb><rt>きが</rt></ruby>・<ruby><rb>難民</rb><rt>なんみん</rt></ruby>・<ruby><rb>環境</rb><rt>かんきょう</rt></ruby>などの<ruby><rb>問題</rb><rt>もんだい</rt></ruby>に<ruby><rb>国境</rb><rt>こっきょう</rt></ruby>をこえて<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>組</rb><rt>く</rt></ruby>む、<ruby><rb>民間</rb><rt>みんかん</rt></ruby>の<ruby><rb>援助団体</rb><rt>えんじょだんたい</rt></ruby>のこと。",
+          "hyouki": [
+            "NGO"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "者"
+          ]
+        },
+        {
+          "def": "ものごと。ことがら。",
+          "hyouki": [
+            "者"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>紙</rb><rt>かみ</rt></ruby>や<ruby><rb>布</rb><rt>ぬの</rt></ruby>などで<ruby><rb>作</rb><rt>つく</rt></ruby>り、<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>入</rb><rt>い</rt></ruby>れて、<ruby><rb>口</rb><rt>くち</rt></ruby>をしめるようにした<ruby><rb>入</rb><rt>い</rt></ruby>れ<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "袋"
+          ]
+        },
+        {
+          "def": "「<span class=\"dic_sansyogogi\">1)</span>」に<ruby><rb>似</rb><rt>に</rt></ruby>た<ruby><rb>形</rb><rt>かたち</rt></ruby>のもの。",
+          "hyouki": [
+            "袋"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>結</rb><rt>むす</rt></ruby>んだり、<ruby><rb>束</rb><rt>たば</rt></ruby>ねたりするのに<ruby><rb>使</rb><rt>つか</rt></ruby>う、<ruby><rb>太</rb><rt>ふと</rt></ruby>い<ruby><rb>糸</rb><rt>いと</rt></ruby>のようなもの。",
+          "hyouki": [
+            "ひも"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>品物</rb><rt>しなもの</rt></ruby>。",
+          "hyouki": [
+            "製品"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>少</rb><rt>すく</rt></ruby>なくする。",
+          "hyouki": [
+            "減らす"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "クジラのなかまで、<ruby><rb>海</rb><rt>うみ</rt></ruby>や<ruby><rb>川</rb><rt>かわ</rt></ruby>にすむ<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。<ruby><rb>口先</rb><rt>くちさき</rt></ruby>がくちばしのような<ruby><rb>形</rb><rt>かたち</rt></ruby>にのび、<ruby><rb>歯</rb><rt>は</rt></ruby>がある。<ruby><rb>泳</rb><rt>およ</rt></ruby>ぎがうまく<ruby><rb>頭</rb><rt>あたま</rt></ruby>もよくて、<ruby><rb>芸</rb><rt>げい</rt></ruby>をしたりする。",
+          "hyouki": [
+            "海豚"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "<ruby><rb>水中</rb><rt>すいちゅう</rt></ruby>や<ruby><rb>陸上</rb><rt>りくじょう</rt></ruby>で<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>し、<ruby><rb>体</rb><rt>からだ</rt></ruby>がかたいこうらでおおわれた<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。<ruby><rb>池</rb><rt>いけ</rt></ruby>や<ruby><rb>川</rb><rt>かわ</rt></ruby>にすむイシガメ・スッポン、<ruby><rb>陸</rb><rt>りく</rt></ruby>にすむゾウガメ、<ruby><rb>海</rb><rt>うみ</rt></ruby>にすむアカウミガメなど<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。ほとんどの<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>が<ruby><rb>首</rb><rt>くび</rt></ruby>や<ruby><rb>尾</rb><rt>お</rt></ruby>、<ruby><rb>足</rb><rt>あし</rt></ruby>をこうらの<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>引</rb><rt>ひ</rt></ruby>っこめることができる。",
+          "hyouki": [
+            "亀"
+          ]
+        }
+      ]
+    }
+  }
+}

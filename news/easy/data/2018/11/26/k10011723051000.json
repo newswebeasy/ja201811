@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011723051000",
+  "news_prearranged_time": "2018-11-26 16:10:00",
+  "title": "寒くなるとお年寄りが風呂で亡くなる事故が増える",
+  "title_with_ruby": "<ruby>寒<rt>さむ</rt></ruby>くなるとお<ruby>年寄<rt>としよ</rt></ruby>りが<ruby>風呂<rt>ふろ</rt></ruby>で<ruby>亡<rt>な</rt></ruby>くなる<ruby>事故<rt>じこ</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>える",
+  "outline_with_ruby": "<p>１２<ruby>月<rt>がつ</rt></ruby>から２<ruby>月<rt>がつ</rt></ruby>までの<ruby>寒<rt>さむ</rt></ruby>い<ruby>季節<rt>きせつ</rt></ruby>は、<ruby>風呂<rt>ふろ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>亡<rt>な</rt></ruby>くなる<ruby>人<rt>ひと</rt></ruby>が<ruby>多<rt>おお</rt></ruby>くなります。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20181126/../20181126/K10011723051_1811251933_1811260507_01_02.jpg",
+  "news_web_movie_uri": "k10011723051_201811260549_201811260550.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011723051000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011723051000/k10011723051000.html"
+}
