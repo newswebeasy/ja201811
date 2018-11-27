@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011723421000",
+  "news_prearranged_time": "2018-11-27 11:30:00",
+  "title": "パレスチナ　２０年前に日本があげたピアノでコンサート",
+  "title_with_ruby": "パレスチナ　２０<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>に<ruby>日本<rt>にっぽん</rt></ruby>があげたピアノでコンサート",
+  "outline_with_ruby": "<p>パレスチナのガザ<ruby>地区<rt>ちく</rt></ruby>には、グランドピアノという<ruby>大<rt>おお</rt></ruby>きなピアノが１<ruby>台<rt>だい</rt></ruby>だけあります。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20181126/../20181126/K10011723421_1811260623_1811260636_01_02.jpg",
+  "news_web_movie_uri": "k10011723421_201811261736_201811261737.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011723421000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011723421000/k10011723421000.html"
+}

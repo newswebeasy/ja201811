@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011724001000",
+  "news_prearranged_time": "2018-11-27 17:10:00",
+  "title": "アイスクリームの値段が来年３月から上がる",
+  "title_with_ruby": "アイスクリームの<ruby>値段<rt>ねだん</rt></ruby>が<ruby>来年<rt>らいねん</rt></ruby>３<ruby>月<rt>がつ</rt></ruby>から<ruby>上<rt>あ</rt></ruby>がる",
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0000'>アイスクリーム</a>の<ruby>値段<rt>ねだん</rt></ruby>を<ruby>上<rt>あ</rt></ruby>げる<ruby>会社<rt>かいしゃ</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えています。",
+  "has_news_web_image": true,
+  "has_news_web_movie": false,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20181126/../20181126/K10011724001_1811261757_1811261816_01_02.jpg",
+  "news_web_movie_uri": "",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011724001000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011724001000/k10011724001000.html"
+}

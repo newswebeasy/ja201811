@@ -1,0 +1,118 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>外国</rb><rt>がいこく</rt></ruby>とのつきあいや<ruby><rb>条約</rb><rt>じょうやく</rt></ruby>の<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>めなどの<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。",
+          "hyouki": [
+            "外務省"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。",
+          "hyouki": [
+            "政府"
+          ]
+        },
+        {
+          "def": "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。",
+          "hyouki": [
+            "政府"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>元気</rb><rt>げんき</rt></ruby>よく<ruby><rb>動</rb><rt>うご</rt></ruby>いたり、<ruby><rb>働</rb><rt>はたら</rt></ruby>いたりすること。",
+          "hyouki": [
+            "活動"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>思</rb><rt>おも</rt></ruby>い<ruby><rb>出</rb><rt>で</rt></ruby>に<ruby><rb>残</rb><rt>のこ</rt></ruby>しておくこと。また、その<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "記念"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "ピアノをひくことを<ruby><rb>専門</rb><rt>せんもん</rt></ruby>にしている<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "ピアニスト"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>歌</rb><rt>うた</rt></ruby>を<ruby><rb>歌</rb><rt>うた</rt></ruby>うことを<ruby><rb>仕事</rb><rt>しごと</rt></ruby>にしている<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "歌手"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>を<ruby><rb>演奏</rb><rt>えんそう</rt></ruby>するために<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>器具</rb><rt>きぐ</rt></ruby>。<ruby><rb>弦楽器</rb><rt>げんがっき</rt></ruby>・<ruby><rb>管楽器</rb><rt>かんがっき</rt></ruby>・<ruby><rb>打楽器</rb><rt>だがっき</rt></ruby>など。",
+          "hyouki": [
+            "楽器"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。",
+          "hyouki": [
+            "人気"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "まげる。まがる。",
+          "hyouki": [
+            "曲"
+          ]
+        },
+        {
+          "def": "<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>のメロディー。",
+          "hyouki": [
+            "曲"
+          ]
+        },
+        {
+          "def": "<ruby><rb>軽</rb><rt>かる</rt></ruby>わざ。",
+          "hyouki": [
+            "曲"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>楽器</rb><rt>がっき</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>って、<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>をかなでること。",
+          "hyouki": [
+            "演奏"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "いっしょにものごとをする<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>友達</rb><rt>ともだち</rt></ruby>。グループ。",
+          "hyouki": [
+            "仲間"
+          ]
+        },
+        {
+          "def": "<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>の<ruby><rb>同</rb><rt>おな</rt></ruby>じもの。",
+          "hyouki": [
+            "仲間"
+          ]
+        }
+      ]
+    }
+  }
+}
