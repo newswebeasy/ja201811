@@ -1,0 +1,216 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>何</rb><rt>なに</rt></ruby>かをするときに、じゃまになるものごと。さまたげ。",
+          "hyouki": [
+            "障害"
+          ]
+        },
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>のはたらきに<ruby><rb>故障</rb><rt>こしょう</rt></ruby>があること。",
+          "hyouki": [
+            "障害"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>電気</rb><rt>でんき</rt></ruby>や<ruby><rb>磁気</rb><rt>じき</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>動</rb><rt>うご</rt></ruby>く<ruby><rb>人形</rb><rt>にんぎょう</rt></ruby>。<ruby><rb>人造</rb><rt>じんぞう</rt></ruby><ruby><rb>人間</rb><rt>にんげん</rt></ruby>。",
+          "hyouki": [
+            "ロボット"
+          ]
+        },
+        {
+          "def": "<ruby><rb>工場</rb><rt>こうじょう</rt></ruby>などで<ruby><rb>人間</rb><rt>にんげん</rt></ruby>に<ruby><rb>代</rb><rt>か</rt></ruby>わって、<ruby><rb>作業</rb><rt>さぎょう</rt></ruby>する<ruby><rb>機械</rb><rt>きかい</rt></ruby>。",
+          "hyouki": [
+            "ロボット"
+          ]
+        },
+        {
+          "def": "（いつも）<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>言</rb><rt>い</rt></ruby>いなりになって<ruby><rb>動</rb><rt>うご</rt></ruby>く<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "ロボット"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>動</rb><rt>うご</rt></ruby>くようにする。",
+          "hyouki": [
+            "動かす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>位置</rb><rt>いち</rt></ruby>を<ruby><rb>変</rb><rt>か</rt></ruby>える。",
+          "hyouki": [
+            "動かす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>感動</rb><rt>かんどう</rt></ruby>させる。",
+          "hyouki": [
+            "動かす"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>らせたり、<ruby><rb>届</rb><rt>とど</rt></ruby>けさせたりすること。",
+          "hyouki": [
+            "注文"
+          ]
+        },
+        {
+          "def": "<ruby><rb>希望</rb><rt>きぼう</rt></ruby>や<ruby><rb>条件</rb><rt>じょうけん</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。",
+          "hyouki": [
+            "注文"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>動</rb><rt>うご</rt></ruby>くようにする。",
+          "hyouki": [
+            "動かす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>位置</rb><rt>いち</rt></ruby>を<ruby><rb>変</rb><rt>か</rt></ruby>える。",
+          "hyouki": [
+            "動かす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>感動</rb><rt>かんどう</rt></ruby>させる。",
+          "hyouki": [
+            "動かす"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>録音</rb><rt>ろくおん</rt></ruby>や<ruby><rb>放送</rb><rt>ほうそう</rt></ruby>をするとき、<ruby><rb>声</rb><rt>こえ</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>を<ruby><rb>電気</rb><rt>でんき</rt></ruby>の<ruby><rb>流</rb><rt>なが</rt></ruby>れに<ruby><rb>変</rb><rt>か</rt></ruby>える<ruby><rb>器械</rb><rt>きかい</rt></ruby>。マイク。マイクロフォン。",
+          "hyouki": [
+            "マイクロホン"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "ものがくっつく。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "つきそう。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>加</rb><rt>くわ</rt></ruby>わる。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>まる。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>草木</rb><rt>くさき</rt></ruby>が、かれずに<ruby><rb>根</rb><rt>ね</rt></ruby>をおろす。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>感</rb><rt>かん</rt></ruby>じる。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "ある<ruby><rb>値段</rb><rt>ねだん</rt></ruby>になる。",
+          "hyouki": [
+            "付く"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>足</rb><rt>あし</rt></ruby>の<ruby><rb>不自由</rb><rt>ふじゆう</rt></ruby>な<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>病気</rb><rt>びょうき</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>などが、<ruby><rb>腰</rb><rt>こし</rt></ruby>かけたまま<ruby><rb>移動</rb><rt>いどう</rt></ruby>できるように<ruby><rb>車</rb><rt>くるま</rt></ruby>をつけた、いす。",
+          "hyouki": [
+            "車椅子"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>一方</rb><rt>いっぽう</rt></ruby>から<ruby><rb>他方</rb><rt>たほう</rt></ruby>に<ruby><rb>行</rb><rt>い</rt></ruby>き<ruby><rb>着</rb><rt>つ</rt></ruby>くようにする。",
+          "hyouki": [
+            "通す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>向</rb><rt>む</rt></ruby>こうに<ruby><rb>届</rb><rt>とど</rt></ruby>かせる。",
+          "hyouki": [
+            "通す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>通</rb><rt>とお</rt></ruby>らせる。",
+          "hyouki": [
+            "通す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>終</rb><rt>お</rt></ruby>わりまでつらぬきとおす。",
+          "hyouki": [
+            "通す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>導</rb><rt>みちび</rt></ruby>き<ruby><rb>入</rb><rt>い</rt></ruby>れる。",
+          "hyouki": [
+            "通す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>仲立</rb><rt>なかだ</rt></ruby>ちにする。",
+          "hyouki": [
+            "通す"
+          ]
+        },
+        {
+          "def": "ひととおり<ruby><rb>見</rb><rt>み</rt></ruby>る。",
+          "hyouki": [
+            "通す"
+          ]
+        },
+        {
+          "def": "くぐらせる。",
+          "hyouki": [
+            "通す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>認</rb><rt>みと</rt></ruby>める。<ruby><rb>認</rb><rt>みと</rt></ruby>めさせる。",
+          "hyouki": [
+            "通す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>終</rb><rt>お</rt></ruby>わりまでし<ruby><rb>続</rb><rt>つづ</rt></ruby>ける。",
+          "hyouki": [
+            "通す"
+          ]
+        }
+      ]
+    }
+  }
+}

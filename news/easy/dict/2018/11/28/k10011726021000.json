@@ -1,0 +1,116 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>命</rb><rt>いのち</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>る。",
+          "hyouki": [
+            "殺す"
+          ]
+        },
+        {
+          "def": "（<ruby><rb>笑</rb><rt>わら</rt></ruby>い・あくび・<ruby><rb>息</rb><rt>いき</rt></ruby>などを）おさえて<ruby><rb>止</rb><rt>と</rt></ruby>める。",
+          "hyouki": [
+            "殺す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>役</rb><rt>やく</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>たなくする。",
+          "hyouki": [
+            "殺す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、アウトにする。",
+          "hyouki": [
+            "殺す"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "ふだんないような、できごと。",
+          "hyouki": [
+            "事件"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "ものがくっつく。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "つきそう。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>加</rb><rt>くわ</rt></ruby>わる。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>まる。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>草木</rb><rt>くさき</rt></ruby>が、かれずに<ruby><rb>根</rb><rt>ね</rt></ruby>をおろす。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>感</rb><rt>かん</rt></ruby>じる。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "ある<ruby><rb>値段</rb><rt>ねだん</rt></ruby>になる。",
+          "hyouki": [
+            "付く"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>枝</rb><rt>えだ</rt></ruby>を<ruby><rb>切</rb><rt>き</rt></ruby>ったり、まきを<ruby><rb>割</rb><rt>わ</rt></ruby>ったりするのに<ruby><rb>使</rb><rt>つか</rt></ruby>う、<ruby><rb>刃</rb><rt>は</rt></ruby>の<ruby><rb>厚</rb><rt>あつ</rt></ruby>い<ruby><rb>刃物</rb><rt>はもの</rt></ruby>。",
+          "hyouki": [
+            "なた"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "その<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>どもの<ruby><rb>子</rb><rt>こ</rt></ruby>ども。",
+          "hyouki": [
+            "孫"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>・<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>・テレビなどの<ruby><rb>報道記事</rb><rt>ほうどうきじ</rt></ruby>や<ruby><rb>作品</rb><rt>さくひん</rt></ruby>・<ruby><rb>作文</rb><rt>さくぶん</rt></ruby>などの<ruby><rb>材料</rb><rt>ざいりょう</rt></ruby>を<ruby><rb>集</rb><rt>あつ</rt></ruby>めること。",
+          "hyouki": [
+            "取材"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>結婚</rb><rt>けっこん</rt></ruby>している<ruby><rb>男</rb><rt>おとこ</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>と<ruby><rb>女</rb><rt>おんな</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>夫</rb><rt>おっと</rt></ruby>と<ruby><rb>妻</rb><rt>つま</rt></ruby>。",
+          "hyouki": [
+            "夫婦"
+          ]
+        }
+      ]
+    }
+  }
+}

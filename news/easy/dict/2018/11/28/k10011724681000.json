@@ -1,0 +1,108 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>前</rb><rt>まえ</rt></ruby>の<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>で、<ruby><rb>首</rb><rt>くび</rt></ruby>と<ruby><rb>腹</rb><rt>はら</rt></ruby>の<ruby><rb>間</rb><rt>あいだ</rt></ruby>。",
+          "hyouki": [
+            "胸"
+          ]
+        },
+        {
+          "def": "<ruby><rb>心</rb><rt>こころ</rt></ruby>。<ruby><rb>心</rb><rt>こころ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>。",
+          "hyouki": [
+            "胸"
+          ]
+        },
+        {
+          "def": "<ruby><rb>心臓</rb><rt>しんぞう</rt></ruby>。",
+          "hyouki": [
+            "胸"
+          ]
+        },
+        {
+          "def": "<ruby><rb>肺</rb><rt>はい</rt></ruby>。",
+          "hyouki": [
+            "胸"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>医者</rb><rt>いしゃ</rt></ruby>が、<ruby><rb>病気</rb><rt>びょうき</rt></ruby>や<ruby><rb>傷</rb><rt>きず</rt></ruby>のところを、<ruby><rb>切</rb><rt>き</rt></ruby>り<ruby><rb>開</rb><rt>ひら</rt></ruby>いたり<ruby><rb>切</rb><rt>き</rt></ruby>り<ruby><rb>取</rb><rt>と</rt></ruby>ったりして、<ruby><rb>治療</rb><rt>ちりょう</rt></ruby>すること。",
+          "hyouki": [
+            "手術"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "とかしたゼラチンに、<ruby><rb>果物</rb><rt>くだもの</rt></ruby>のしるや<ruby><rb>砂糖</rb><rt>さとう</rt></ruby>を<ruby><rb>入</rb><rt>い</rt></ruby>れ、<ruby><rb>冷</rb><rt>ひ</rt></ruby>やして<ruby><rb>固</rb><rt>かた</rt></ruby>めた<ruby><rb>菓子</rb><rt>かし</rt></ruby>。",
+          "hyouki": [
+            "ゼリー"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>打</rb><rt>う</rt></ruby>ったり<ruby><rb>切</rb><rt>き</rt></ruby>ったりして、<ruby><rb>皮膚</rb><rt>ひふ</rt></ruby>や<ruby><rb>肉</rb><rt>にく</rt></ruby>をいためたところ。",
+          "hyouki": [
+            "傷"
+          ]
+        },
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>のいたんだところ。",
+          "hyouki": [
+            "傷"
+          ]
+        },
+        {
+          "def": "<ruby><rb>悪</rb><rt>わる</rt></ruby>い<ruby><rb>点</rb><rt>てん</rt></ruby>。<ruby><rb>欠点</rb><rt>けってん</rt></ruby>。",
+          "hyouki": [
+            "傷"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>手術</rb><rt>しゅじゅつ</rt></ruby>などのために、<ruby><rb>薬</rb><rt>くすり</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>って、<ruby><rb>体</rb><rt>からだ</rt></ruby>に<ruby><rb>感</rb><rt>かん</rt></ruby>じる<ruby><rb>痛</rb><rt>いた</rt></ruby>みを、<ruby><rb>一時</rb><rt>いちじ</rt></ruby>なくすこと。",
+          "hyouki": [
+            "麻酔"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>顔</rb><rt>かお</rt></ruby>や、<ruby><rb>姿</rb><rt>すがた</rt></ruby>を<ruby><rb>美</rb><rt>うつく</rt></ruby>しくすること。",
+          "hyouki": [
+            "美容"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "たくさんの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>問</rb><rt>と</rt></ruby>い<ruby><rb>合</rb><rt>あ</rt></ruby>わせ、<ruby><rb>答</rb><rt>こた</rt></ruby>えを<ruby><rb>書</rb><rt>か</rt></ruby>いてもらって、<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>考</rb><rt>かんが</rt></ruby>えを<ruby><rb>調</rb><rt>しら</rt></ruby>べる<ruby><rb>方法</rb><rt>ほうほう</rt></ruby>。",
+          "hyouki": [
+            "アンケート"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>医者</rb><rt>いしゃ</rt></ruby>が<ruby><rb>病人</rb><rt>びょうにん</rt></ruby>の<ruby><rb>体</rb><rt>からだ</rt></ruby>を<ruby><rb>調</rb><rt>しら</rt></ruby>べて、<ruby><rb>病気</rb><rt>びょうき</rt></ruby>のようすを<ruby><rb>判断</rb><rt>はんだん</rt></ruby>すること。",
+          "hyouki": [
+            "診察"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>規則</rb><rt>きそく</rt></ruby>。<ruby><rb>決</rb><rt>き</rt></ruby>まり。",
+          "hyouki": [
+            "ルール"
+          ]
+        }
+      ]
+    }
+  }
+}

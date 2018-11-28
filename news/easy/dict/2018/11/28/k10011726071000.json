@@ -1,0 +1,82 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>共和国</rb><rt>きょうわこく</rt></ruby>で、その<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "大統領"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>原子核</rb><rt>げんしかく</rt></ruby>がこわれたり（<ruby><rb>核分裂</rb><rt>かくぶんれつ</rt></ruby>）、とけあったり（<ruby><rb>核融合</rb><rt>かくゆうごう</rt></ruby>）するときに<ruby><rb>出</rb><rt>で</rt></ruby>る、ものすごく<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>力</rb><rt>ちから</rt></ruby>と<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>熱</rb><rt>ねつ</rt></ruby>。<ruby><rb>原子</rb><rt>げんし</rt></ruby>エネルギー。",
+          "hyouki": [
+            "原子力"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>電気</rb><rt>でんき</rt></ruby>を<ruby><rb>起</rb><rt>お</rt></ruby>こす<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "発電所"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>と<ruby><rb>物</rb><rt>もの</rt></ruby>との<ruby><rb>関係</rb><rt>かんけい</rt></ruby>を、<ruby><rb>数</rb><rt>かず</rt></ruby>で<ruby><rb>表</rb><rt>あらわ</rt></ruby>したもの。<ruby><rb>割</rb><rt>わり</rt></ruby>。<ruby><rb>率</rb><rt>りつ</rt></ruby>。<ruby><rb>歩合</rb><rt>ぶあい</rt></ruby>。",
+          "hyouki": [
+            "割合"
+          ]
+        },
+        {
+          "def": "<ruby><rb>思</rb><rt>おも</rt></ruby>いのほか。<ruby><rb>比較的</rb><rt>ひかくてき</rt></ruby>。",
+          "hyouki": [
+            "割合"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>風車</rb><rt>ふうしゃ</rt></ruby>で<ruby><rb>発電機</rb><rt>はつでんき</rt></ruby>を<ruby><rb>回転</rb><rt>かいてん</rt></ruby>させて、<ruby><rb>電気</rb><rt>でんき</rt></ruby>を<ruby><rb>起</rb><rt>お</rt></ruby>こすこと。",
+          "hyouki": [
+            "風力発電"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>の<ruby><rb>光</rb><rt>ひかり</rt></ruby>のエネルギーを、<ruby><rb>電力</rb><rt>でんりょく</rt></ruby>にかえる<ruby><rb>発電</rb><rt>はつでん</rt></ruby>のしかた。",
+          "hyouki": [
+            "太陽光発電"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>一億</rb><rt>いちおく</rt></ruby>の<ruby><rb>一万倍</rb><rt>いちまんばい</rt></ruby>。",
+          "hyouki": [
+            "兆"
+          ]
+        },
+        {
+          "def": "しるし。<ruby><rb>前</rb><rt>まえ</rt></ruby>ぶれ。",
+          "hyouki": [
+            "兆"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>六大州</rb><rt>ろくだいしゅう</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。アジアの<ruby><rb>北西</rb><rt>ほくせい</rt></ruby>、アフリカの<ruby><rb>北</rb><rt>きた</rt></ruby>にある。<ruby><rb>産業</rb><rt>さんぎょう</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>が<ruby><rb>発達</rb><rt>はったつ</rt></ruby>した<ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。",
+          "hyouki": [
+            "ヨーロッパ"
+          ]
+        }
+      ]
+    }
+  }
+}
