@@ -1,0 +1,108 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "けしょう<ruby><rb>品</rb><rt>ひん</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。よい<ruby><rb>香</rb><rt>かお</rt></ruby>りのする<ruby><rb>液体</rb><rt>えきたい</rt></ruby>。",
+          "hyouki": [
+            "香水"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>国連</rb><rt>こくれん</rt></ruby>の<ruby><rb>機関</rb><rt>きかん</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つで、<ruby><rb>教育</rb><rt>きょういく</rt></ruby>や<ruby><rb>科学</rb><rt>かがく</rt></ruby>、また<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>を<ruby><rb>通</rb><rt>つう</rt></ruby>じて、たがいに<ruby><rb>理解</rb><rt>りかい</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>い、<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>平和</rb><rt>へいわ</rt></ruby>と<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>ることを<ruby><rb>目的</rb><rt>もくてき</rt></ruby>としている。",
+          "hyouki": [
+            "UNESCO"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>るもとになるもの。<ruby><rb>多</rb><rt>おお</rt></ruby>くは、もとの<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>が<ruby><rb>残</rb><rt>のこ</rt></ruby>っている<ruby><rb>場合</rb><rt>ばあい</rt></ruby>にいう。",
+          "hyouki": [
+            "材料"
+          ]
+        },
+        {
+          "def": "<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>・<ruby><rb>表現</rb><rt>ひょうげん</rt></ruby>などのもとになるもの。",
+          "hyouki": [
+            "材料"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ものごとについて、<ruby><rb>正</rb><rt>ただ</rt></ruby>しくはっきり<ruby><rb>知</rb><rt>し</rt></ruby>っていること。また、<ruby><rb>知</rb><rt>し</rt></ruby>っている<ruby><rb>内容</rb><rt>ないよう</rt></ruby>。",
+          "hyouki": [
+            "知識"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "ちがう<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>のものを<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、<ruby><rb>一</rb><rt>ひと</rt></ruby>つのものにする。",
+          "hyouki": [
+            "混ぜる"
+          ]
+        },
+        {
+          "def": "かき<ruby><rb>回</rb><rt>まわ</rt></ruby>す。",
+          "hyouki": [
+            "混ぜる"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>庭</rb><rt>にわ</rt></ruby>に<ruby><rb>植</rb><rt>う</rt></ruby>える、とげのある<ruby><rb>低木</rb><rt>ていぼく</rt></ruby>。<ruby><rb>花</rb><rt>はな</rt></ruby>はかおりがよく、<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>色</rb><rt>いろ</rt></ruby>はさまざま。<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>園芸品種</rb><rt>えんげいひんしゅ</rt></ruby>がある。",
+          "hyouki": [
+            "ばら"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>女性</rb><rt>じょせい</rt></ruby>の<ruby><rb>俳優</rb><rt>はいゆう</rt></ruby>。",
+          "hyouki": [
+            "女優"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>市</rb><rt>し</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>し、その<ruby><rb>政治</rb><rt>せいじ</rt></ruby>をとり<ruby><rb>行</rb><rt>おこな</rt></ruby>う<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "市長"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>山</rb><rt>やま</rt></ruby>・<ruby><rb>川</rb><rt>かわ</rt></ruby>・<ruby><rb>草</rb><rt>くさ</rt></ruby>・<ruby><rb>木</rb><rt>き</rt></ruby>・<ruby><rb>星</rb><rt>ほし</rt></ruby>・<ruby><rb>雲</rb><rt>くも</rt></ruby>・<ruby><rb>雨</rb><rt>あめ</rt></ruby>・<ruby><rb>雪</rb><rt>ゆき</rt></ruby>など、<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>作</rb><rt>つく</rt></ruby>ったものでない<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "自然"
+          ]
+        },
+        {
+          "def": "もともとの<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>を<ruby><rb>備</rb><rt>そな</rt></ruby>えていること。",
+          "hyouki": [
+            "自然"
+          ]
+        },
+        {
+          "def": "わざとらしくないようす。",
+          "hyouki": [
+            "自然"
+          ]
+        },
+        {
+          "def": "ひとりでに。いつのまにか。",
+          "hyouki": [
+            "自然"
+          ]
+        }
+      ]
+    }
+  }
+}

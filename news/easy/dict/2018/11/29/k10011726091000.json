@@ -1,0 +1,92 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。",
+          "hyouki": [
+            "政府"
+          ]
+        },
+        {
+          "def": "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。",
+          "hyouki": [
+            "政府"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>背中</rb><rt>せなか</rt></ruby>に<ruby><rb>乗</rb><rt>の</rt></ruby>せる。",
+          "hyouki": [
+            "背負う"
+          ]
+        },
+        {
+          "def": "<ruby><rb>苦</rb><rt>くる</rt></ruby>しい<ruby><rb>仕事</rb><rt>しごと</rt></ruby>や<ruby><rb>責任</rb><rt>せきにん</rt></ruby>を<ruby><rb>引</rb><rt>ひ</rt></ruby>き<ruby><rb>受</rb><rt>う</rt></ruby>ける。",
+          "hyouki": [
+            "背負う"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>小学校</rb><rt>しょうがっこう</rt></ruby>に<ruby><rb>通</rb><rt>かよ</rt></ruby>っている<ruby><rb>子</rb><rt>こ</rt></ruby>ども。",
+          "hyouki": [
+            "小学生"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>の、<ruby><rb>胴</rb><rt>どう</rt></ruby>と<ruby><rb>足</rb><rt>あし</rt></ruby>との<ruby><rb>間</rb><rt>あいだ</rt></ruby>の<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。",
+          "hyouki": [
+            "腰"
+          ]
+        },
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>真</rb><rt>ま</rt></ruby>ん<ruby><rb>中</rb><rt>なか</rt></ruby><ruby><rb>辺</rb><rt>あた</rt></ruby>りより<ruby><rb>少</rb><rt>すこ</rt></ruby>し<ruby><rb>下</rb><rt>した</rt></ruby>の<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。",
+          "hyouki": [
+            "腰"
+          ]
+        },
+        {
+          "def": "<ruby><rb>粉</rb><rt>こな</rt></ruby>や、もちなどの、ねばり。",
+          "hyouki": [
+            "腰"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>事実</rb><rt>じじつ</rt></ruby>を<ruby><rb>明</rb><rt>あき</rt></ruby>らかにするために、<ruby><rb>調</rb><rt>しら</rt></ruby>べること。",
+          "hyouki": [
+            "調査"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>が<ruby><rb>育</rb><rt>そだ</rt></ruby>って<ruby><rb>大</rb><rt>おお</rt></ruby>きくなること。",
+          "hyouki": [
+            "成長"
+          ]
+        },
+        {
+          "def": "ものごとが<ruby><rb>発展</rb><rt>はってん</rt></ruby>すること。",
+          "hyouki": [
+            "成長"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>重</rb><rt>おも</rt></ruby>さ。",
+          "hyouki": [
+            "体重"
+          ]
+        }
+      ]
+    }
+  }
+}
