@@ -1,0 +1,140 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "者"
+          ]
+        },
+        {
+          "def": "ものごと。ことがら。",
+          "hyouki": [
+            "者"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>親</rb><rt>おや</rt></ruby>の<ruby><rb>特徴</rb><rt>とくちょう</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>が、<ruby><rb>子</rb><rt>こ</rt></ruby>に<ruby><rb>伝</rb><rt>つた</rt></ruby>わること。",
+          "hyouki": [
+            "遺伝"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "できごとやものごとのようすについての<ruby><rb>知</rb><rt>し</rt></ruby>らせ。",
+          "hyouki": [
+            "情報"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>父</rb><rt>ちち</rt></ruby>や<ruby><rb>母</rb><rt>はは</rt></ruby>。<ruby><rb>両親</rb><rt>りょうしん</rt></ruby>。",
+          "hyouki": [
+            "親"
+          ]
+        },
+        {
+          "def": "<ruby><rb>子</rb><rt>こ</rt></ruby>や<ruby><rb>卵</rb><rt>たまご</rt></ruby>をうんだもの。",
+          "hyouki": [
+            "親"
+          ]
+        },
+        {
+          "def": "トランプやかるたなどの<ruby><rb>遊</rb><rt>あそ</rt></ruby>びで、カードを<ruby><rb>配</rb><rt>くば</rt></ruby>る<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "親"
+          ]
+        },
+        {
+          "def": "<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>となるもの。<ruby><rb>大</rb><rt>おお</rt></ruby>きいもの。",
+          "hyouki": [
+            "親"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "エイズウイルス（<ruby><rb>HIV</rb><rt>エイチアイブイ</rt></ruby>）によって<ruby><rb>起</rb><rt>お</rt></ruby>こる<ruby><rb>病気</rb><rt>びょうき</rt></ruby>。<ruby><rb>感染</rb><rt>かんせん</rt></ruby>すると、<ruby><rb>病原菌</rb><rt>びょうげんきん</rt></ruby>に<ruby><rb>対</rb><rt>たい</rt></ruby>する<ruby><rb>体内</rb><rt>たいない</rt></ruby>の<ruby><rb>免疫</rb><rt>めんえき</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>がこわされてしまう。",
+          "hyouki": [
+            "AIDS"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>日本脳炎</rb><rt>にほんのうえん</rt></ruby>やインフルエンザなどの<ruby><rb>病気</rb><rt>びょうき</rt></ruby>を<ruby><rb>起</rb><rt>お</rt></ruby>こす、ふつうの<ruby><rb>顕微鏡</rb><rt>けんびきょう</rt></ruby>では<ruby><rb>見</rb><rt>み</rt></ruby>えないような、<ruby><rb>非常</rb><rt>ひじょう</rt></ruby>に<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>。ビールス。",
+          "hyouki": [
+            "ウイルス"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>害</rb><rt>がい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けないように、<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐ。",
+          "hyouki": [
+            "守る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>めたとおりにする。",
+          "hyouki": [
+            "守る"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>として<ruby><rb>守</rb><rt>まも</rt></ruby>らなければならないことがら。",
+          "hyouki": [
+            "道徳"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>人間</rb><rt>にんげん</rt></ruby>として<ruby><rb>守</rb><rt>まも</rt></ruby>るべき<ruby><rb>正</rb><rt>ただ</rt></ruby>しい<ruby><rb>道</rb><rt>みち</rt></ruby>。<ruby><rb>道徳</rb><rt>どうとく</rt></ruby>。",
+          "hyouki": [
+            "倫理"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>規則</rb><rt>きそく</rt></ruby>。<ruby><rb>決</rb><rt>き</rt></ruby>まり。",
+          "hyouki": [
+            "ルール"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>まりを<ruby><rb>破</rb><rt>やぶ</rt></ruby>ること。",
+          "hyouki": [
+            "違反"
+          ]
+        }
+      ],
+      "0012": [
+        {
+          "def": "<ruby><rb>元気</rb><rt>げんき</rt></ruby>よく<ruby><rb>動</rb><rt>うご</rt></ruby>いたり、<ruby><rb>働</rb><rt>はたら</rt></ruby>いたりすること。",
+          "hyouki": [
+            "活動"
+          ]
+        }
+      ]
+    }
+  }
+}

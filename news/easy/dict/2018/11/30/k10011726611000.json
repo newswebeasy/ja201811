@@ -1,0 +1,158 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>自分</rb><rt>じぶん</rt></ruby>で<ruby><rb>実際</rb><rt>じっさい</rt></ruby>にやってみること。また、やってみたこと。",
+          "hyouki": [
+            "体験"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>共通</rb><rt>きょうつう</rt></ruby>する<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>によって<ruby><rb>分</rb><rt>わ</rt></ruby>けたもの。",
+          "hyouki": [
+            "種類"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "１チーム１５<ruby><rb>人</rb><rt>にん</rt></ruby>ずつの<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が、<ruby><rb>楕円形</rb><rt>だえんけい</rt></ruby>のボールを、<ruby><rb>持</rb><rt>も</rt></ruby>って<ruby><rb>走</rb><rt>はし</rt></ruby>ったり、けったりして<ruby><rb>相手側</rb><rt>あいてがわ</rt></ruby>のゴールライン<ruby><rb>内</rb><rt>ない</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れ、<ruby><rb>得点</rb><rt>とくてん</rt></ruby>を<ruby><rb>争</rb><rt>あらそ</rt></ruby>う<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。",
+          "hyouki": [
+            "ラグビー"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "スポーツ<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>の<ruby><rb>世界選手権大会</rb><rt>せかいせんしゅけんたいかい</rt></ruby>の<ruby><rb>優勝者</rb><rt>ゆうしょうしゃ</rt></ruby>にあたえられるカップ。また、そのカップを<ruby><rb>争</rb><rt>あらそ</rt></ruby>う<ruby><rb>大会</rb><rt>たいかい</rt></ruby>。<ruby><rb>W杯</rb><rt>ダブリューはい</rt></ruby>。",
+          "hyouki": [
+            "ワールドカップ"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>観光</rb><rt>かんこう</rt></ruby>やスポーツなどのために、<ruby><rb>団体</rb><rt>だんたい</rt></ruby>で<ruby><rb>行</rb><rt>い</rt></ruby>く<ruby><rb>旅行</rb><rt>りょこう</rt></ruby>。",
+          "hyouki": [
+            "ツアー"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>黄色</rb><rt>きいろ</rt></ruby>いつやのある、<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちの<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>。こがね。",
+          "hyouki": [
+            "金"
+          ]
+        },
+        {
+          "def": "こがね<ruby><rb>色</rb><rt>いろ</rt></ruby>。",
+          "hyouki": [
+            "金"
+          ]
+        },
+        {
+          "def": "おかね。",
+          "hyouki": [
+            "金"
+          ]
+        },
+        {
+          "def": "「<span class=\"dic_sansyogogi\">1)</span>」のように、だいじな。りっぱな。",
+          "hyouki": [
+            "金"
+          ]
+        },
+        {
+          "def": "かなもの。",
+          "hyouki": [
+            "金"
+          ]
+        },
+        {
+          "def": "<ruby><rb>将棋</rb><rt>しょうぎ</rt></ruby>のこまの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。",
+          "hyouki": [
+            "金"
+          ]
+        },
+        {
+          "def": "<ruby><rb>金曜日</rb><rt>きんようび</rt></ruby>。",
+          "hyouki": [
+            "金"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "ものがくっつく。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "つきそう。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>加</rb><rt>くわ</rt></ruby>わる。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>まる。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>草木</rb><rt>くさき</rt></ruby>が、かれずに<ruby><rb>根</rb><rt>ね</rt></ruby>をおろす。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>感</rb><rt>かん</rt></ruby>じる。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "ある<ruby><rb>値段</rb><rt>ねだん</rt></ruby>になる。",
+          "hyouki": [
+            "付く"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "ジェットエンジンで<ruby><rb>飛</rb><rt>と</rt></ruby>ぶ<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>。",
+          "hyouki": [
+            "ジェット機"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>生</rb><rt>う</rt></ruby>まれた<ruby><rb>年</rb><rt>とし</rt></ruby>や<ruby><rb>方角</rb><rt>ほうがく</rt></ruby>・<ruby><rb>時刻</rb><rt>じこく</rt></ruby>を<ruby><rb>示</rb><rt>しめ</rt></ruby>す１２の<ruby><rb>呼</rb><rt>よ</rt></ruby>び<ruby><rb>名</rb><rt>な</rt></ruby>。<ruby><rb>子</rb><rt>ね</rt></ruby>（ねずみ）・<ruby><rb>丑</rb><rt>うし</rt></ruby>・<ruby><rb>寅</rb><rt>とら</rt></ruby>・<ruby><rb>卯</rb><rt>う</rt></ruby>（うさぎ）・<ruby><rb>辰</rb><rt>たつ</rt></ruby>（りゅう）・<ruby><rb>巳</rb><rt>み</rt></ruby>（へび）・<ruby><rb>午</rb><rt>うま</rt></ruby>・<ruby><rb>未</rb><rt>ひつじ</rt></ruby>・<ruby><rb>申</rb><rt>さる</rt></ruby>・<ruby><rb>酉</rb><rt>とり</rt></ruby>（にわとり）・<ruby><rb>戌</rb><rt>いぬ</rt></ruby>・<ruby><rb>亥</rb><rt>い</rt></ruby>（いのしし）のこと。",
+          "hyouki": [
+            "十二支"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>野山</rb><rt>のやま</rt></ruby>にすみ、<ruby><rb>鋭</rb><rt>するど</rt></ruby>いきばを<ruby><rb>持</rb><rt>も</rt></ruby>つけもの。ブタの<ruby><rb>祖先</rb><rt>そせん</rt></ruby>といわれるが、<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>はあらく<ruby><rb>一直線</rb><rt>いっちょくせん</rt></ruby>に<ruby><rb>走</rb><rt>はし</rt></ruby>るのが<ruby><rb>速</rb><rt>はや</rt></ruby>い。<ruby><rb>体</rb><rt>からだ</rt></ruby>は<ruby><rb>黒茶色</rb><rt>くろちゃいろ</rt></ruby>のあらい<ruby><rb>毛</rb><rt>け</rt></ruby>におおわれている。",
+          "hyouki": [
+            "猪"
+          ]
+        }
+      ]
+    }
+  }
+}
